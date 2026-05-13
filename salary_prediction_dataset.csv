@@ -1,0 +1,4000 @@
+EXPERIENCE,AGE,EDUCATION,SKILLS,JOBROLE,LOCATION,REMOTEWORK,SALARY
+0,23,MSc,5,Manager,Kaduna,Yes,897500
+8,33,BSc,6,Developer,Remote,Yes,1100500
+1,25,Hnd,6,Intern,Abuja,No,425500
+4,55,PhD,2,Engineer,Jigawa,No,953500
+4,23,Diploma,15,Developer,Kano,Yes,877500
+14,34,MSc,8,Intern,Kaduna,Yes,1279000
+12,44,PhD,10,Analyst,Remote,Yes,1670000
+1,33,MSc,8,Analyst,Remote,No,861500
+0,50,Hnd,6,Intern,Kaduna,No,383000
+5,29,Degree,11,Data Scientist,Kano,Yes,1255500
+8,27,Degree,12,Developer,Remote,Yes,1313500
+3,47,PhD,3,Developer,Remote,Yes,1206500
+14,46,Degree,12,Developer,Remote,No,1511000
+0,30,Diploma,4,Intern,Kaduna,Yes,347000
+4,48,PhD,6,Developer,Jigawa,No,968000
+2,34,Degree,4,Data Scientist,Kaduna,No,877000
+13,33,Degree,7,Engineer,Kano,Yes,1323500
+13,31,BSc,4,Analyst,Lagos,Yes,1124500
+6,33,BSc,6,Analyst,Abuja,Yes,820500
+14,48,Degree,12,Intern,Kaduna,Yes,1286000
+0,42,Diploma,2,Data Scientist,Remote,No,841000
+7,31,Hnd,8,Manager,Remote,No,1206500
+10,50,BSc,6,Manager,Remote,Yes,1403000
+6,53,MSc,13,Manager,Jigawa,Yes,1356500
+14,28,PhD,7,Engineer,Remote,No,1646000
+12,41,BSc,4,Data Scientist,Remote,No,1414500
+8,24,Diploma,3,Analyst,Abuja,Yes,834000
+3,43,BSc,3,Intern,Remote,No,566500
+2,41,Hnd,11,Data Scientist,Abuja,Yes,1150500
+10,43,Degree,10,Data Scientist,Remote,Yes,1677500
+11,23,BSc,14,Manager,Abuja,Yes,1394500
+3,43,Hnd,13,Engineer,Kano,No,836500
+0,37,Degree,4,Intern,Jigawa,Yes,454500
+2,28,PhD,10,Developer,Abuja,Yes,1110000
+10,37,Degree,12,Intern,Kaduna,No,958500
+8,33,Diploma,8,Engineer,Lagos,No,956500
+11,43,PhD,14,Analyst,Lagos,Yes,1594500
+15,40,Degree,10,Engineer,Kaduna,Yes,1475000
+8,52,BSc,7,Data Scientist,Jigawa,Yes,1216000
+10,25,Hnd,6,Engineer,Abuja,Yes,1150500
+15,49,MSc,4,Analyst,Lagos,Yes,1479500
+10,39,PhD,14,Engineer,Lagos,No,1519500
+15,25,BSc,10,Analyst,Lagos,Yes,1307500
+4,39,PhD,15,Developer,Jigawa,Yes,1227500
+8,25,BSc,15,Developer,Jigawa,No,902500
+6,29,MSc,1,Manager,Kano,Yes,1120500
+6,42,PhD,13,Manager,Kano,Yes,1499000
+5,22,Hnd,15,Data Scientist,Abuja,No,1190000
+6,39,Diploma,9,Engineer,Lagos,No,899500
+8,48,Hnd,13,Analyst,Lagos,No,1054000
+1,37,Hnd,10,Manager,Kaduna,No,797500
+13,33,Diploma,6,Data Scientist,Kaduna,No,1285500
+6,43,Degree,11,Analyst,Kaduna,No,875500
+15,42,PhD,8,Intern,Kaduna,No,1354000
+15,52,Degree,11,Developer,Abuja,No,1423000
+4,46,Degree,1,Developer,Kano,No,683000
+11,32,BSc,2,Intern,Abuja,No,751000
+7,40,PhD,8,Manager,Abuja,No,1379000
+2,54,MSc,8,Intern,Abuja,Yes,849000
+8,34,PhD,13,Manager,Abuja,No,1499000
+8,34,PhD,8,Manager,Kano,Yes,1479000
+4,52,MSc,13,Data Scientist,Lagos,No,1364000
+7,43,PhD,5,Engineer,Jigawa,Yes,1232500
+7,52,Degree,15,Intern,Lagos,Yes,1125000
+15,53,BSc,1,Analyst,Jigawa,No,975500
+3,26,BSc,13,Engineer,Kaduna,No,714000
+11,45,Hnd,9,Intern,Remote,No,1109500
+11,25,PhD,10,Engineer,Abuja,Yes,1547500
+10,41,BSc,11,Analyst,Remote,No,1120500
+10,21,Degree,12,Data Scientist,Remote,Yes,1658500
+10,22,PhD,3,Manager,Abuja,No,1379000
+8,53,Diploma,7,Engineer,Remote,No,1088500
+4,46,MSc,13,Data Scientist,Kaduna,Yes,1379000
+2,35,Diploma,13,Intern,Remote,No,681500
+13,52,BSc,1,Analyst,Remote,Yes,1223000
+9,21,Diploma,1,Manager,Remote,Yes,1195500
+12,32,Hnd,13,Manager,Kano,No,1344000
+5,34,MSc,8,Manager,Remote,No,1274000
+9,46,MSc,8,Data Scientist,Kaduna,Yes,1514000
+8,46,Degree,1,Manager,Kaduna,Yes,1143000
+7,29,Diploma,6,Data Scientist,Kano,Yes,1135500
+2,29,MSc,9,Engineer,Lagos,No,914500
+13,26,Hnd,10,Intern,Lagos,No,1070000
+6,52,BSc,10,Analyst,Jigawa,Yes,850000
+8,51,PhD,2,Analyst,Abuja,Yes,1233500
+5,49,MSc,10,Intern,Kaduna,No,827500
+8,33,BSc,9,Developer,Abuja,Yes,1024500
+10,26,Hnd,8,Data Scientist,Lagos,Yes,1449000
+1,42,Hnd,9,Analyst,Kano,Yes,692000
+2,37,Hnd,4,Data Scientist,Kano,No,844500
+9,38,PhD,11,Analyst,Kaduna,No,1228000
+14,41,PhD,12,Manager,Abuja,No,1768500
+11,38,MSc,2,Manager,Jigawa,Yes,1346000
+12,42,Degree,3,Engineer,Lagos,Yes,1309000
+8,33,Degree,12,Data Scientist,Jigawa,Yes,1378500
+10,32,Degree,3,Analyst,Remote,No,1074000
+13,54,PhD,7,Intern,Lagos,No,1366000
+9,48,BSc,10,Developer,Remote,Yes,1255000
+11,23,MSc,14,Engineer,Kano,No,1314500
+5,23,MSc,13,Engineer,Abuja,Yes,1196500
+3,47,MSc,15,Manager,Lagos,Yes,1362500
+7,32,MSc,4,Data Scientist,Remote,No,1387000
+7,29,PhD,7,Intern,Abuja,No,1003500
+4,34,BSc,9,Intern,Kaduna,No,507000
+6,33,Diploma,9,Intern,Jigawa,No,564500
+4,43,BSc,14,Analyst,Lagos,No,809500
+12,34,Degree,4,Intern,Lagos,No,987000
+14,40,MSc,13,Manager,Remote,Yes,1904000
+13,22,Diploma,7,Analyst,Remote,No,1136000
+11,44,Degree,2,Analyst,Lagos,Yes,1151000
+6,32,PhD,10,Data Scientist,Remote,Yes,1700000
+3,42,BSc,9,Developer,Jigawa,Yes,732000
+1,28,BSc,6,Analyst,Remote,No,593000
+0,34,BSc,15,Data Scientist,Kano,No,875000
+9,29,PhD,8,Data Scientist,Kaduna,Yes,1601500
+3,39,Degree,5,Data Scientist,Abuja,No,1012500
+3,25,MSc,13,Developer,Kaduna,Yes,1011500
+0,49,PhD,1,Developer,Kano,Yes,860500
+11,46,BSc,2,Engineer,Remote,Yes,1236000
+8,33,Diploma,15,Manager,Kaduna,Yes,1242500
+6,30,Diploma,14,Analyst,Jigawa,No,747000
+3,42,MSc,9,Developer,Kaduna,No,862000
+1,48,Diploma,4,Engineer,Remote,Yes,827000
+2,53,Degree,9,Engineer,Remote,Yes,1094500
+10,34,PhD,11,Intern,Remote,No,1353000
+14,30,MSc,8,Intern,Abuja,No,1209000
+12,46,PhD,6,Intern,Remote,No,1383000
+7,37,BSc,4,Intern,Kano,No,569500
+5,43,Hnd,11,Engineer,Kano,No,890500
+9,31,MSc,8,Manager,Kano,No,1266500
+8,24,MSc,14,Data Scientist,Lagos,No,1492000
+4,21,Diploma,14,Analyst,Kano,No,674500
+0,21,Hnd,8,Intern,Jigawa,No,316500
+10,45,Degree,1,Engineer,Lagos,Yes,1190500
+14,28,Diploma,13,Manager,Abuja,No,1404000
+8,53,Degree,13,Data Scientist,Remote,No,1546500
+5,23,BSc,10,Intern,Kano,Yes,672500
+5,22,MSc,15,Developer,Lagos,Yes,1220000
+9,31,MSc,10,Intern,Jigawa,No,932500
+11,39,Hnd,15,Developer,Abuja,No,1232500
+10,52,PhD,4,Intern,Jigawa,Yes,1172000
+11,33,Degree,14,Manager,Jigawa,No,1329500
+10,54,BSc,15,Intern,Remote,No,1125000
+5,38,BSc,1,Intern,Kano,Yes,548000
+4,39,Diploma,2,Engineer,Kaduna,No,593500
+6,29,Hnd,2,Intern,Remote,Yes,838500
+4,24,Diploma,4,Intern,Remote,Yes,702000
+10,55,MSc,12,Developer,Kano,No,1273500
+14,46,Diploma,12,Analyst,Kaduna,No,1141000
+11,31,BSc,15,Developer,Abuja,No,1142500
+14,51,MSc,6,Manager,Kano,No,1505500
+3,40,MSc,4,Data Scientist,Kaduna,No,1037000
+1,51,MSc,5,Developer,Kaduna,Yes,842500
+9,51,BSc,1,Data Scientist,Jigawa,Yes,1150500
+0,34,Diploma,10,Data Scientist,Lagos,Yes,985000
+13,51,Degree,1,Analyst,Kano,No,1040500
+10,44,MSc,6,Intern,Kano,No,978000
+12,53,PhD,7,Engineer,Jigawa,No,1398500
+1,38,Hnd,8,Data Scientist,Remote,No,1054000
+4,20,Degree,13,Intern,Jigawa,Yes,754000
+4,25,Hnd,2,Data Scientist,Lagos,No,948500
+2,54,Degree,7,Developer,Kano,Yes,841000
+2,30,PhD,10,Analyst,Kano,No,885000
+13,49,Degree,13,Manager,Kaduna,No,1471500
+10,51,MSc,12,Manager,Kano,Yes,1553500
+13,38,Hnd,11,Intern,Remote,No,1218000
+5,48,PhD,15,Intern,Remote,Yes,1355000
+9,23,Hnd,7,Analyst,Remote,No,1028500
+14,32,MSc,3,Developer,Remote,Yes,1534000
+7,31,PhD,13,Intern,Remote,No,1246500
+2,48,BSc,4,Developer,Jigawa,Yes,612000
+8,22,MSc,9,Developer,Jigawa,Yes,1127000
+5,25,Hnd,8,Engineer,Kano,Yes,911500
+7,54,BSc,9,Manager,Kaduna,No,1022000
+10,52,Diploma,12,Data Scientist,Remote,No,1496000
+12,44,Degree,9,Intern,Abuja,No,1072000
+5,40,Diploma,2,Data Scientist,Jigawa,Yes,961000
+1,28,Hnd,2,Engineer,Remote,Yes,811000
+11,47,Hnd,12,Analyst,Jigawa,No,1048500
+6,45,Diploma,8,Developer,Abuja,Yes,946500
+12,48,PhD,13,Manager,Kaduna,Yes,1774000
+14,50,Diploma,10,Developer,Remote,No,1365000
+15,55,MSc,8,Intern,Remote,No,1446500
+6,33,Diploma,11,Analyst,Remote,Yes,1040500
+1,32,MSc,5,Manager,Lagos,No,935000
+13,32,Hnd,1,Engineer,Abuja,No,1093000
+0,44,Hnd,6,Manager,Kaduna,No,698000
+15,55,Hnd,15,Engineer,Kaduna,Yes,1552500
+9,29,BSc,1,Analyst,Abuja,No,735500
+0,32,Hnd,6,Intern,Remote,Yes,648000
+5,25,Hnd,14,Analyst,Kano,Yes,919500
+10,27,Degree,9,Data Scientist,Jigawa,No,1279500
+13,46,BSc,2,Manager,Lagos,Yes,1356000
+5,23,Degree,5,Intern,Lagos,No,662500
+13,47,Diploma,11,Intern,Lagos,Yes,1190500
+10,51,BSc,3,Manager,Lagos,No,1131500
+8,38,BSc,4,Manager,Jigawa,No,907000
+14,43,Hnd,10,Engineer,Abuja,No,1327500
+12,45,Hnd,15,Intern,Remote,No,1262500
+6,34,Hnd,1,Manager,Lagos,Yes,1063000
+3,46,Diploma,7,Analyst,Jigawa,Yes,646000
+5,36,MSc,11,Manager,Kaduna,Yes,1263000
+6,31,Hnd,4,Engineer,Lagos,Yes,979500
+5,21,Degree,2,Manager,Remote,No,1033500
+10,47,PhD,2,Analyst,Kaduna,Yes,1253500
+8,38,Hnd,9,Analyst,Abuja,Yes,1047000
+14,51,Degree,11,Analyst,Lagos,Yes,1465500
+14,52,BSc,7,Manager,Lagos,No,1386000
+6,45,MSc,13,Analyst,Remote,Yes,1326500
+8,50,Diploma,9,Manager,Lagos,Yes,1267000
+8,55,Hnd,10,Manager,Abuja,Yes,1337500
+7,24,PhD,13,Intern,Jigawa,Yes,1129000
+8,37,PhD,1,Developer,Kaduna,No,1060500
+4,54,Hnd,6,Analyst,Kano,Yes,803000
+1,30,Diploma,15,Manager,Remote,Yes,1110000
+11,38,PhD,11,Intern,Kano,No,1228000
+7,50,Hnd,7,Developer,Remote,No,1066000
+8,53,Degree,7,Engineer,Lagos,Yes,1228500
+14,21,PhD,12,Developer,Jigawa,Yes,1578500
+13,29,MSc,6,Developer,Kaduna,No,1225500
+6,37,BSc,6,Manager,Remote,Yes,1190500
+4,24,Hnd,9,Analyst,Lagos,No,742000
+4,55,Hnd,12,Manager,Kaduna,No,1013500
+9,39,MSc,6,Analyst,Remote,No,1200500
+14,29,BSc,3,Manager,Kano,Yes,1296500
+12,23,Diploma,12,Data Scientist,Abuja,Yes,1503500
+10,55,Hnd,3,Analyst,Jigawa,No,861500
+4,34,Degree,4,Engineer,Kano,Yes,867000
+1,38,BSc,13,Developer,Abuja,No,674000
+2,39,Diploma,6,Data Scientist,Jigawa,Yes,895500
+3,25,PhD,15,Manager,Abuja,Yes,1407500
+15,35,MSc,11,Manager,Jigawa,No,1560500
+6,26,PhD,6,Intern,Jigawa,No,843000
+8,54,BSc,2,Intern,Jigawa,No,581000
+0,40,Hnd,15,Intern,Lagos,No,610000
+1,41,Diploma,13,Manager,Remote,Yes,1101500
+8,27,PhD,11,Data Scientist,Kaduna,No,1485500
+10,29,Hnd,12,Developer,Jigawa,Yes,1138500
+14,39,PhD,9,Developer,Jigawa,No,1449500
+12,22,PhD,9,Engineer,Kaduna,Yes,1507000
+2,55,Diploma,1,Analyst,Abuja,Yes,605500
+5,52,MSc,3,Analyst,Kaduna,Yes,929000
+9,41,Hnd,11,Analyst,Kaduna,Yes,1075500
+12,40,Degree,15,Developer,Kano,Yes,1400000
+1,31,MSc,3,Manager,Remote,No,996500
+6,20,BSc,10,Analyst,Kano,Yes,810000
+9,36,Diploma,3,Developer,Jigawa,No,759000
+9,43,MSc,10,Analyst,Abuja,No,1152500
+8,52,BSc,14,Data Scientist,Kano,No,1262000
+2,29,MSc,14,Developer,Lagos,No,964500
+6,37,MSc,3,Intern,Lagos,No,806500
+7,48,Hnd,14,Intern,Jigawa,No,807000
+7,40,Diploma,8,Engineer,Kaduna,Yes,959000
+10,55,MSc,8,Manager,Kano,No,1371500
+1,33,Hnd,6,Developer,Kano,Yes,675500
+13,51,Degree,3,Intern,Abuja,No,1026500
+4,45,Hnd,15,Manager,Kaduna,Yes,1162500
+15,53,Hnd,14,Analyst,Kano,No,1319500
+12,33,PhD,9,Developer,Abuja,Yes,1554500
+3,49,PhD,8,Developer,Lagos,Yes,1201500
+14,20,Diploma,14,Intern,Lagos,No,1102000
+14,42,BSc,15,Intern,Kano,Yes,1215000
+9,29,Hnd,15,Manager,Remote,No,1417500
+8,23,Diploma,13,Engineer,Kano,Yes,1061500
+3,20,Hnd,2,Manager,Jigawa,Yes,791000
+6,38,Hnd,14,Manager,Kano,Yes,1227000
+12,53,PhD,5,Data Scientist,Abuja,Yes,1802500
+6,24,MSc,2,Developer,Jigawa,Yes,916000
+2,29,PhD,5,Engineer,Jigawa,Yes,972500
+8,34,PhD,3,Analyst,Remote,Yes,1339000
+8,39,Degree,15,Analyst,Lagos,Yes,1237500
+14,34,Diploma,14,Data Scientist,Kaduna,No,1477000
+9,53,BSc,12,Developer,Abuja,No,1053500
+12,27,Degree,3,Manager,Abuja,No,1251500
+4,40,Degree,9,Analyst,Kaduna,No,742000
+0,30,PhD,3,Data Scientist,Abuja,No,1049000
+10,27,MSc,8,Data Scientist,Abuja,Yes,1571500
+1,28,MSc,7,Intern,Kano,Yes,671000
+0,40,Degree,3,Developer,Kano,Yes,644000
+11,37,Hnd,1,Intern,Kaduna,No,755500
+6,54,BSc,3,Data Scientist,Abuja,No,1029000
+11,27,Degree,14,Data Scientist,Jigawa,No,1414500
+14,35,Degree,8,Engineer,Kaduna,Yes,1381500
+7,35,Diploma,2,Intern,Kaduna,Yes,638500
+11,33,Diploma,3,Intern,Kano,Yes,841500
+4,47,Degree,11,Data Scientist,Remote,No,1315500
+1,51,Diploma,11,Engineer,Jigawa,Yes,740500
+7,53,BSc,6,Manager,Kaduna,No,965500
+7,42,MSc,10,Intern,Remote,Yes,1210000
+2,34,Diploma,6,Developer,Kano,Yes,653000
+4,55,BSc,4,Manager,Jigawa,Yes,889500
+11,25,Hnd,2,Intern,Abuja,No,803500
+13,35,Diploma,10,Data Scientist,Kaduna,Yes,1482500
+12,26,Hnd,8,Analyst,Jigawa,No,969000
+14,42,Degree,12,Analyst,Lagos,No,1341000
+7,20,Degree,11,Data Scientist,Jigawa,Yes,1283000
+14,35,Diploma,7,Analyst,Remote,No,1213500
+10,25,MSc,9,Manager,Kaduna,No,1304500
+13,23,PhD,4,Developer,Kano,No,1314500
+8,25,Degree,2,Intern,Kaduna,No,658500
+3,40,Hnd,2,Manager,Remote,No,941000
+15,52,MSc,8,Manager,Kano,Yes,1709000
+15,44,Hnd,9,Developer,Abuja,No,1317000
+4,21,Degree,12,Data Scientist,Lagos,No,1168500
+3,36,Degree,11,Analyst,Remote,Yes,1033000
+1,40,Diploma,8,Data Scientist,Kaduna,No,799000
+1,42,Hnd,10,Analyst,Kano,No,590000
+7,55,PhD,1,Intern,Kano,Yes,1030500
+9,44,Diploma,11,Manager,Kaduna,No,1123000
+12,24,Diploma,6,Engineer,Remote,Yes,1298000
+10,47,Degree,4,Developer,Kaduna,Yes,1119500
+14,36,Hnd,4,Intern,Kano,No,952000
+8,41,Degree,3,Developer,Jigawa,No,846500
+10,43,Degree,14,Developer,Remote,Yes,1479500
+14,41,MSc,1,Analyst,Kano,No,1160500
+6,28,PhD,7,Manager,Kaduna,No,1226000
+6,34,PhD,9,Data Scientist,Abuja,Yes,1557000
+3,45,Hnd,13,Data Scientist,Remote,Yes,1371500
+11,23,PhD,1,Analyst,Jigawa,No,1070500
+5,34,BSc,1,Analyst,Kano,Yes,638000
+0,23,PhD,2,Developer,Kano,No,693500
+10,39,MSc,13,Developer,Abuja,No,1301500
+9,27,Diploma,8,Analyst,Jigawa,Yes,886500
+14,42,MSc,3,Manager,Remote,Yes,1729000
+13,21,BSc,15,Developer,Jigawa,No,1117500
+11,23,MSc,4,Intern,Abuja,No,984500
+2,45,MSc,1,Data Scientist,Kano,No,960500
+14,35,Hnd,4,Data Scientist,Jigawa,Yes,1459500
+1,22,Degree,15,Data Scientist,Jigawa,No,970000
+15,49,Diploma,4,Data Scientist,Jigawa,No,1349500
+0,33,BSc,11,Manager,Remote,Yes,1000500
+1,36,Diploma,7,Manager,Abuja,No,731000
+9,53,Degree,11,Manager,Kaduna,No,1265500
+12,25,Diploma,4,Data Scientist,Kaduna,No,1184500
+4,47,PhD,5,Developer,Kaduna,Yes,1097500
+11,43,MSc,11,Analyst,Kaduna,Yes,1320500
+6,47,Degree,1,Developer,Kano,Yes,895500
+13,31,PhD,13,Intern,Remote,No,1516500
+7,48,MSc,11,Engineer,Kaduna,No,1133000
+7,50,PhD,1,Intern,Kaduna,Yes,1008000
+11,42,Diploma,1,Manager,Kaduna,No,1028000
+8,22,Hnd,4,Data Scientist,Remote,No,1257000
+13,31,Degree,2,Data Scientist,Abuja,Yes,1508500
+13,22,BSc,10,Developer,Abuja,No,1120000
+6,28,PhD,15,Analyst,Jigawa,Yes,1230000
+15,39,Diploma,10,Developer,Remote,Yes,1502500
+0,38,Hnd,12,Analyst,Jigawa,Yes,651000
+15,23,Hnd,9,Intern,Abuja,Yes,1224500
+11,45,MSc,13,Intern,Kaduna,No,1141500
+5,42,Diploma,8,Engineer,Kano,Yes,884000
+6,24,BSc,7,Engineer,Abuja,Yes,916000
+11,37,Hnd,1,Manager,Jigawa,Yes,1175500
+7,39,MSc,7,Analyst,Abuja,Yes,1118500
+11,38,Hnd,2,Developer,Jigawa,Yes,1026000
+0,55,Diploma,12,Data Scientist,Remote,Yes,1173500
+1,50,Diploma,5,Intern,Remote,No,530000
+12,41,MSc,11,Engineer,Kaduna,No,1340500
+7,48,MSc,11,Analyst,Abuja,No,1093000
+4,20,Degree,2,Analyst,Jigawa,Yes,656000
+9,24,Degree,9,Analyst,Jigawa,No,897000
+7,24,Degree,14,Analyst,Jigawa,Yes,1017000
+8,47,BSc,2,Engineer,Remote,No,983500
+15,21,PhD,13,Analyst,Lagos,Yes,1701500
+8,32,Degree,6,Data Scientist,Lagos,Yes,1388000
+12,40,Hnd,11,Engineer,Kaduna,Yes,1308000
+2,30,Hnd,12,Data Scientist,Remote,No,1151000
+1,39,BSc,4,Data Scientist,Remote,No,914500
+9,38,Hnd,11,Analyst,Kano,No,958000
+5,33,BSc,6,Data Scientist,Kano,Yes,1055500
+0,35,Degree,11,Developer,Kaduna,Yes,765500
+9,46,Hnd,6,Manager,Kano,No,1118000
+8,48,Diploma,5,Developer,Remote,No,1000000
+6,37,PhD,12,Analyst,Kano,Yes,1238500
+7,45,Hnd,6,Data Scientist,Lagos,No,1205500
+6,31,BSc,9,Manager,Remote,Yes,1229500
+13,52,PhD,10,Analyst,Kaduna,No,1425000
+14,53,Diploma,14,Data Scientist,Kaduna,Yes,1644500
+12,29,BSc,5,Analyst,Jigawa,Yes,972500
+6,38,BSc,13,Analyst,Kaduna,No,779000
+11,39,PhD,7,Intern,Kaduna,No,1148500
+6,40,BSc,12,Engineer,Jigawa,No,836000
+14,50,MSc,11,Analyst,Lagos,Yes,1563000
+0,38,Degree,2,Analyst,Remote,Yes,741000
+15,54,Diploma,11,Analyst,Abuja,Yes,1368000
+8,53,Diploma,9,Engineer,Remote,Yes,1244500
+7,23,Diploma,8,Engineer,Kaduna,Yes,916500
+6,39,Degree,2,Manager,Jigawa,Yes,1023500
+2,29,PhD,5,Analyst,Remote,No,972500
+1,20,Degree,1,Manager,Abuja,No,703000
+10,22,BSc,15,Manager,Jigawa,No,1155000
+12,30,BSc,7,Developer,Abuja,Yes,1161000
+3,27,PhD,15,Intern,Jigawa,Yes,992500
+8,21,PhD,12,Engineer,Lagos,Yes,1468500
+14,20,MSc,9,Data Scientist,Jigawa,Yes,1662000
+6,36,Degree,5,Manager,Kano,No,990000
+15,29,PhD,7,Data Scientist,Jigawa,Yes,1823500
+5,48,Hnd,4,Developer,Kano,Yes,857000
+7,37,Degree,6,Manager,Lagos,No,1135500
+15,49,Hnd,4,Manager,Kaduna,Yes,1469500
+13,45,BSc,2,Developer,Kaduna,Yes,1093500
+2,34,BSc,12,Manager,Kano,Yes,931000
+12,50,MSc,9,Manager,Lagos,No,1547000
+6,44,Diploma,10,Engineer,Jigawa,Yes,930000
+0,30,MSc,12,Data Scientist,Lagos,Yes,1231000
+1,34,MSc,15,Data Scientist,Remote,Yes,1440000
+1,25,Hnd,11,Data Scientist,Kaduna,No,885500
+12,55,Hnd,2,Intern,Kaduna,Yes,983500
+8,47,Hnd,2,Developer,Jigawa,No,793500
+1,46,MSc,7,Analyst,Kano,Yes,816000
+12,37,BSc,2,Intern,Lagos,No,838500
+2,31,PhD,8,Developer,Jigawa,Yes,991500
+4,25,Hnd,10,Developer,Lagos,Yes,942500
+9,41,BSc,14,Engineer,Lagos,Yes,1249500
+1,21,PhD,13,Data Scientist,Abuja,No,1251500
+14,41,Diploma,11,Engineer,Remote,Yes,1520500
+15,37,Hnd,11,Manager,Kaduna,No,1445500
+12,41,Hnd,6,Intern,Kano,Yes,1030500
+8,48,PhD,1,Analyst,Kaduna,Yes,1148000
+2,41,Hnd,11,Intern,Lagos,Yes,750500
+1,27,Diploma,9,Analyst,Remote,Yes,764500
+14,48,MSc,10,Intern,Kaduna,Yes,1350000
+15,24,MSc,9,Data Scientist,Kaduna,No,1627000
+9,51,Degree,15,Analyst,Jigawa,No,1072500
+8,26,MSc,9,Developer,Kano,Yes,1177000
+5,52,MSc,2,Data Scientist,Remote,Yes,1431000
+15,39,PhD,3,Data Scientist,Kano,No,1696500
+8,50,Degree,1,Engineer,Abuja,No,963000
+13,27,Diploma,7,Analyst,Kaduna,Yes,1078500
+4,34,PhD,5,Manager,Remote,Yes,1425000
+10,53,Hnd,5,Engineer,Lagos,Yes,1232500
+4,24,BSc,2,Manager,Lagos,Yes,896000
+3,53,PhD,9,Intern,Jigawa,Yes,949500
+5,51,BSc,4,Developer,Jigawa,No,634500
+6,22,BSc,14,Data Scientist,Kaduna,No,1087000
+5,39,BSc,7,Manager,Kaduna,No,858500
+5,29,Degree,10,Intern,Kaduna,No,677500
+15,35,Hnd,10,Engineer,Jigawa,Yes,1382500
+7,47,BSc,8,Data Scientist,Abuja,Yes,1266500
+6,31,Degree,3,Engineer,Jigawa,No,771500
+2,53,Diploma,12,Engineer,Jigawa,No,688500
+3,29,Hnd,10,Manager,Abuja,Yes,1047500
+3,54,Diploma,12,Analyst,Abuja,No,726000
+6,50,Diploma,13,Manager,Kano,Yes,1169000
+5,47,Diploma,15,Engineer,Kaduna,No,892500
+6,50,Degree,10,Manager,Kano,Yes,1235000
+6,30,Hnd,5,Data Scientist,Kaduna,No,1015000
+10,32,Diploma,4,Developer,Abuja,Yes,1022000
+14,54,Degree,8,Data Scientist,Jigawa,Yes,1629000
+12,33,Degree,14,Developer,Remote,Yes,1544500
+12,41,Degree,10,Intern,Abuja,No,1082500
+12,43,Diploma,9,Intern,Lagos,Yes,1099500
+3,28,Hnd,5,Developer,Remote,No,795000
+11,20,Degree,15,Analyst,Abuja,No,1175000
+12,51,Degree,2,Engineer,Abuja,Yes,1283500
+3,29,Hnd,2,Analyst,Abuja,No,553500
+13,50,MSc,4,Intern,Kano,Yes,1212000
+12,31,PhD,7,Data Scientist,Jigawa,Yes,1693500
+2,50,PhD,15,Data Scientist,Remote,No,1535000
+8,41,PhD,3,Developer,Jigawa,Yes,1196500
+10,47,Hnd,10,Manager,Jigawa,No,1197500
+15,33,BSc,1,Data Scientist,Kaduna,No,1285500
+11,47,BSc,6,Analyst,Abuja,No,960500
+14,54,Hnd,1,Intern,Remote,No,1123000
+1,44,PhD,1,Data Scientist,Lagos,No,1123000
+12,24,Hnd,8,Intern,Kano,No,904000
+6,55,PhD,3,Intern,Lagos,Yes,1101500
+5,44,MSc,3,Data Scientist,Kaduna,Yes,1239000
+7,48,BSc,7,Engineer,Abuja,No,901000
+8,53,MSc,14,Developer,Remote,Yes,1514500
+1,23,MSc,9,Intern,Kaduna,Yes,684500
+3,54,Hnd,5,Analyst,Lagos,No,700000
+3,27,Degree,3,Developer,Jigawa,No,586500
+15,50,PhD,3,Data Scientist,Jigawa,Yes,1804000
+0,43,Hnd,6,Data Scientist,Remote,Yes,1105500
+12,41,MSc,15,Intern,Jigawa,No,1182500
+6,50,MSc,1,Intern,Jigawa,No,683000
+8,36,Degree,9,Analyst,Jigawa,No,882000
+1,48,Hnd,6,Intern,Abuja,No,483000
+8,47,Diploma,10,Analyst,Jigawa,Yes,927500
+7,26,PhD,1,Engineer,Lagos,No,1118000
+9,20,MSc,2,Engineer,Lagos,No,1081000
+3,41,Hnd,1,Data Scientist,Kano,Yes,965500
+9,24,PhD,12,Developer,Lagos,No,1361000
+11,50,Degree,5,Developer,Lagos,No,1160000
+5,40,Hnd,4,Developer,Lagos,No,797000
+0,35,BSc,11,Manager,Kano,No,705500
+2,53,Diploma,5,Manager,Abuja,No,782500
+10,30,MSc,4,Intern,Remote,No,1087000
+7,31,Diploma,13,Developer,Remote,No,1056500
+14,26,Diploma,4,Manager,Kaduna,No,1177000
+4,33,Diploma,11,Intern,Remote,No,730500
+9,22,Hnd,5,Manager,Abuja,No,1090000
+7,35,BSc,1,Developer,Jigawa,Yes,750500
+1,45,MSc,4,Engineer,Jigawa,Yes,819500
+1,49,Hnd,1,Data Scientist,Remote,Yes,1075500
+8,30,Diploma,10,Manager,Jigawa,Yes,1115000
+4,55,PhD,2,Analyst,Jigawa,No,853500
+13,31,MSc,4,Intern,Remote,No,1224500
+11,30,MSc,9,Manager,Kano,No,1372000
+6,39,Hnd,12,Data Scientist,Remote,Yes,1473500
+1,55,PhD,6,Manager,Kano,Yes,1180500
+14,31,BSc,8,Intern,Remote,No,1121500
+13,28,Degree,14,Analyst,Lagos,Yes,1417000
+10,38,Diploma,5,Manager,Lagos,Yes,1255000
+11,21,Degree,7,Engineer,Remote,Yes,1383500
+8,26,Degree,1,Engineer,Lagos,Yes,1053000
+9,48,MSc,15,Engineer,Remote,No,1485000
+12,36,PhD,1,Engineer,Kano,Yes,1408000
+6,34,BSc,8,Developer,Jigawa,Yes,829000
+12,31,Degree,8,Manager,Kaduna,No,1291500
+0,37,BSc,14,Intern,Kaduna,Yes,544500
+2,50,Degree,10,Analyst,Kaduna,No,695000
+13,20,PhD,9,Developer,Abuja,Yes,1567000
+9,53,Degree,2,Developer,Lagos,No,1023500
+15,29,Hnd,12,Data Scientist,Kaduna,No,1543500
+3,20,Degree,14,Analyst,Abuja,Yes,917000
+13,25,BSc,6,Manager,Jigawa,Yes,1255500
+10,21,Hnd,15,Data Scientist,Abuja,Yes,1532500
+12,32,BSc,5,Data Scientist,Kano,No,1230000
+0,34,BSc,12,Analyst,Abuja,Yes,661000
+12,21,BSc,7,Intern,Jigawa,No,768500
+2,40,Degree,2,Data Scientist,Lagos,No,946000
+10,20,BSc,1,Manager,Kaduna,No,928000
+7,26,Degree,11,Engineer,Kaduna,Yes,1098000
+12,46,MSc,10,Data Scientist,Remote,Yes,1875000
+14,45,Hnd,11,Engineer,Jigawa,Yes,1380500
+3,45,MSc,14,Engineer,Remote,Yes,1309500
+11,48,MSc,14,Manager,Kaduna,No,1497000
+11,31,Hnd,7,Data Scientist,Lagos,No,1368500
+15,33,MSc,3,Engineer,Kaduna,No,1311500
+6,20,Diploma,9,Manager,Lagos,Yes,1102000
+13,25,Degree,7,Developer,Kaduna,No,1133500
+1,30,Degree,13,Engineer,Kano,Yes,884000
+4,34,Degree,6,Engineer,Kano,Yes,903000
+1,26,Hnd,4,Engineer,Kaduna,No,532000
+0,38,Degree,6,Manager,Lagos,No,823000
+8,30,MSc,5,Intern,Kaduna,No,825000
+0,34,PhD,4,Analyst,Kaduna,Yes,807000
+9,37,Diploma,7,Manager,Remote,No,1223500
+10,38,BSc,11,Developer,Jigawa,No,953000
+13,31,MSc,11,Analyst,Kano,No,1270500
+10,44,PhD,8,Intern,Kaduna,Yes,1254000
+15,48,BSc,12,Intern,Remote,No,1281000
+15,43,Hnd,14,Manager,Kano,Yes,1644500
+1,23,Diploma,15,Data Scientist,Remote,Yes,1192500
+3,53,Degree,1,Analyst,Lagos,No,675500
+14,38,BSc,15,Analyst,Jigawa,No,1145000
+14,49,BSc,2,Developer,Lagos,Yes,1238500
+14,55,Degree,9,Analyst,Abuja,No,1289500
+6,38,PhD,4,Manager,Lagos,No,1287000
+13,47,Hnd,15,Data Scientist,Abuja,Yes,1732500
+14,50,PhD,1,Manager,Lagos,Yes,1743000
+8,44,BSc,13,Manager,Kano,Yes,1244000
+11,33,MSc,12,Developer,Abuja,Yes,1433500
+5,22,BSc,6,Engineer,Kaduna,No,668000
+9,43,PhD,10,Analyst,Abuja,Yes,1402500
+5,53,BSc,7,Manager,Jigawa,No,863500
+9,36,Degree,7,Data Scientist,Kano,No,1261000
+0,25,MSc,1,Engineer,Kaduna,No,580500
+7,25,Diploma,7,Analyst,Kaduna,No,683500
+11,46,MSc,8,Data Scientist,Abuja,No,1544000
+8,54,Hnd,4,Engineer,Abuja,No,977000
+5,34,Hnd,13,Engineer,Abuja,Yes,1074000
+6,50,PhD,12,Intern,Kaduna,No,1041000
+14,46,PhD,4,Intern,Kano,Yes,1377000
+11,40,PhD,10,Data Scientist,Jigawa,No,1605000
+0,48,MSc,6,Engineer,Abuja,No,788000
+9,39,Degree,15,Engineer,Kano,Yes,1302500
+12,38,Diploma,13,Developer,Kaduna,Yes,1229000
+8,34,PhD,7,Data Scientist,Kano,No,1441000
+5,33,BSc,5,Intern,Abuja,No,537500
+7,24,PhD,3,Intern,Remote,Yes,1169000
+5,49,BSc,5,Developer,Kaduna,Yes,797500
+2,55,BSc,15,Intern,Remote,Yes,887500
+10,53,BSc,9,Intern,Abuja,No,884500
+3,46,Degree,1,Intern,Lagos,No,558000
+13,43,Diploma,12,Manager,Remote,No,1508500
+10,26,Diploma,4,Engineer,Remote,No,1057000
+6,33,MSc,6,Analyst,Jigawa,No,830500
+6,52,Diploma,2,Manager,Kano,Yes,976000
+1,49,BSc,8,Analyst,Jigawa,No,461500
+7,54,Diploma,13,Manager,Abuja,No,1154000
+5,27,Degree,11,Manager,Lagos,Yes,1230500
+15,41,MSc,4,Manager,Lagos,Yes,1689500
+13,51,Diploma,4,Manager,Kaduna,No,1194500
+14,35,BSc,11,Manager,Kaduna,Yes,1445500
+5,25,MSc,11,Intern,Abuja,No,845500
+8,29,Diploma,3,Manager,Kano,No,906500
+4,31,MSc,6,Manager,Kano,Yes,1125500
+10,21,PhD,5,Intern,Abuja,Yes,1202500
+14,47,BSc,1,Data Scientist,Kaduna,No,1275500
+4,49,BSc,11,Manager,Remote,Yes,1220500
+14,31,Hnd,14,Manager,Jigawa,Yes,1529500
+0,29,PhD,14,Manager,Lagos,No,1174500
+15,34,MSc,10,Developer,Kaduna,Yes,1520000
+10,25,MSc,8,Data Scientist,Remote,No,1576500
+9,26,Diploma,11,Intern,Kano,No,758000
+7,48,MSc,4,Intern,Jigawa,Yes,897000
+10,25,MSc,15,Manager,Kano,Yes,1542500
+6,28,BSc,15,Intern,Kano,Yes,820000
+14,52,MSc,6,Manager,Lagos,No,1588000
+7,31,BSc,13,Engineer,Remote,Yes,1216500
+15,45,Diploma,4,Engineer,Jigawa,Yes,1229500
+10,55,MSc,6,Analyst,Lagos,No,1185500
+14,46,Degree,1,Analyst,Jigawa,No,1033000
+10,39,PhD,15,Developer,Kaduna,No,1407500
+2,34,MSc,13,Manager,Jigawa,Yes,1129000
+3,50,BSc,10,Intern,Abuja,No,580000
+11,30,Hnd,3,Developer,Abuja,Yes,1114000
+12,46,MSc,2,Developer,Kaduna,Yes,1271000
+12,31,Hnd,8,Data Scientist,Kano,No,1351500
+5,49,MSc,10,Data Scientist,Jigawa,No,1227500
+13,44,Diploma,15,Developer,Kaduna,Yes,1325000
+13,55,Hnd,6,Developer,Jigawa,Yes,1230500
+15,43,Degree,4,Intern,Jigawa,Yes,1144500
+12,48,MSc,9,Engineer,Kano,Yes,1452000
+0,53,BSc,1,Analyst,Abuja,Yes,510500
+8,24,BSc,15,Analyst,Remote,Yes,1180000
+13,51,BSc,4,Data Scientist,Abuja,Yes,1474500
+14,21,Degree,12,Engineer,Jigawa,Yes,1388500
+14,26,Degree,12,Engineer,Kaduna,Yes,1431000
+4,49,Degree,8,Intern,Remote,No,836500
+3,45,BSc,9,Manager,Kaduna,Yes,939500
+11,33,Degree,6,Intern,Remote,Yes,1195500
+15,52,BSc,8,Analyst,Kaduna,Yes,1249000
+4,24,BSc,7,Intern,Lagos,Yes,656000
+3,37,BSc,8,Data Scientist,Kaduna,No,881500
+15,38,PhD,13,Developer,Kaduna,No,1594000
+4,37,Degree,6,Intern,Kaduna,No,580500
+9,40,PhD,12,Analyst,Kaduna,No,1251000
+0,20,Degree,9,Developer,Jigawa,No,542000
+13,25,Diploma,8,Developer,Abuja,Yes,1211500
+4,44,MSc,2,Engineer,Kaduna,Yes,946000
+6,38,PhD,8,Data Scientist,Kano,Yes,1499000
+13,37,Hnd,1,Engineer,Lagos,Yes,1255500
+2,36,Degree,8,Developer,Remote,Yes,994000
+3,33,BSc,10,Analyst,Kaduna,No,577500
+12,55,PhD,11,Developer,Remote,No,1655500
+1,36,BSc,15,Analyst,Kano,Yes,715000
+15,53,PhD,1,Engineer,Kano,Yes,1585500
+14,36,MSc,8,Engineer,Jigawa,Yes,1454000
+12,35,MSc,4,Intern,Jigawa,Yes,1089500
+14,31,Hnd,4,Manager,Kano,No,1269500
+12,20,BSc,3,Developer,Kaduna,No,884000
+8,28,MSc,11,Intern,Lagos,Yes,1138000
+8,41,Hnd,15,Manager,Kano,Yes,1342500
+5,39,PhD,5,Analyst,Lagos,No,1032500
+1,39,Diploma,2,Analyst,Kano,No,368500
+11,32,PhD,9,Data Scientist,Kaduna,Yes,1717000
+13,45,Diploma,13,Data Scientist,Kano,No,1451500
+10,41,MSc,7,Analyst,Abuja,No,1138500
+14,48,BSc,8,Developer,Jigawa,No,1104000
+7,42,MSc,13,Intern,Jigawa,No,924000
+15,40,PhD,8,Developer,Remote,Yes,1819000
+12,43,Hnd,3,Manager,Remote,Yes,1491500
+10,24,Hnd,4,Engineer,Kano,No,942000
+4,46,MSc,13,Analyst,Lagos,No,1019000
+3,50,Hnd,5,Manager,Jigawa,No,800000
+13,24,Diploma,7,Developer,Kaduna,No,1011000
+3,49,PhD,13,Analyst,Kaduna,No,1021500
+5,24,Diploma,13,Developer,Kano,No,769000
+10,28,MSc,8,Data Scientist,Jigawa,No,1364000
+14,53,Degree,8,Data Scientist,Lagos,No,1626500
+11,27,MSc,13,Analyst,Jigawa,Yes,1286500
+0,44,PhD,7,Data Scientist,Abuja,Yes,1276000
+1,52,Diploma,11,Developer,Jigawa,No,583000
+11,45,PhD,12,Developer,Kaduna,No,1413500
+15,55,Hnd,12,Engineer,Remote,No,1568500
+12,25,MSc,15,Developer,Kano,Yes,1462500
+5,36,MSc,5,Data Scientist,Remote,No,1325000
+12,52,Degree,10,Engineer,Lagos,Yes,1460000
+11,45,Degree,11,Analyst,Lagos,No,1195500
+14,27,PhD,14,Intern,Lagos,No,1469500
+8,54,BSc,11,Manager,Kano,Yes,1233000
+10,37,BSc,10,Intern,Kaduna,Yes,922500
+10,44,MSc,8,Data Scientist,Jigawa,Yes,1524000
+13,54,Diploma,1,Engineer,Remote,Yes,1328000
+6,55,MSc,11,Manager,Lagos,Yes,1445500
+0,24,MSc,9,Data Scientist,Remote,No,1142000
+8,40,PhD,9,Intern,Jigawa,No,1022000
+11,45,BSc,13,Data Scientist,Kano,No,1361500
+15,31,Degree,2,Engineer,Abuja,Yes,1368500
+11,24,Hnd,10,Data Scientist,Jigawa,Yes,1405000
+2,24,Degree,14,Engineer,Kaduna,Yes,922000
+8,22,Degree,10,Analyst,Kano,No,905000
+10,29,Degree,5,Data Scientist,Lagos,Yes,1452500
+0,45,Hnd,8,Developer,Remote,Yes,876500
+4,21,BSc,8,Analyst,Lagos,No,646500
+8,37,Degree,11,Intern,Kano,Yes,980500
+13,42,MSc,1,Engineer,Kano,Yes,1338000
+7,54,PhD,1,Analyst,Jigawa,Yes,1088000
+3,45,BSc,9,Developer,Lagos,No,739500
+13,34,Hnd,2,Analyst,Jigawa,Yes,1046000
+1,21,Hnd,8,Developer,Kaduna,Yes,671500
+2,50,PhD,11,Analyst,Kaduna,No,943000
+4,39,PhD,7,Analyst,Kano,Yes,1063500
+9,46,Degree,6,Analyst,Lagos,Yes,1138000
+0,20,Hnd,10,Manager,Kaduna,No,710000
+9,36,Diploma,4,Manager,Lagos,Yes,1187000
+2,54,Diploma,6,Developer,Kano,No,583000
+11,27,MSc,13,Manager,Kaduna,Yes,1546500
+1,45,Degree,2,Developer,Abuja,Yes,733500
+13,55,Degree,5,Data Scientist,Jigawa,Yes,1532500
+4,23,PhD,2,Intern,Kano,Yes,833500
+3,54,Diploma,11,Engineer,Jigawa,No,718000
+0,26,PhD,12,Engineer,Jigawa,Yes,1001000
+15,21,Diploma,6,Analyst,Abuja,No,1075500
+3,32,BSc,8,Manager,Jigawa,Yes,859000
+0,53,Hnd,10,Developer,Abuja,Yes,802500
+5,43,Degree,14,Data Scientist,Kano,Yes,1344500
+6,34,MSc,7,Manager,Kano,Yes,1241000
+7,30,BSc,13,Developer,Kano,No,874000
+10,26,Hnd,15,Intern,Remote,No,1125000
+4,43,BSc,4,Data Scientist,Jigawa,Yes,959500
+14,20,BSc,8,Engineer,Lagos,Yes,1314000
+1,38,BSc,9,Analyst,Abuja,Yes,662000
+14,42,PhD,10,Manager,Jigawa,Yes,1765000
+8,44,Hnd,7,Data Scientist,Jigawa,Yes,1266000
+12,54,Hnd,15,Analyst,Lagos,Yes,1405000
+11,33,Diploma,1,Intern,Kaduna,Yes,795500
+7,42,Degree,9,Data Scientist,Kano,Yes,1342000
+9,25,MSc,7,Manager,Lagos,Yes,1433500
+15,49,Degree,8,Analyst,Jigawa,No,1211500
+6,51,Diploma,1,Engineer,Abuja,Yes,875500
+1,53,BSc,15,Manager,Lagos,Yes,1067500
+9,36,MSc,9,Developer,Abuja,Yes,1297000
+6,36,Hnd,8,Intern,Remote,No,844000
+4,53,BSc,3,Data Scientist,Kaduna,No,876500
+1,31,Hnd,7,Manager,Abuja,Yes,908500
+5,28,Diploma,11,Data Scientist,Kano,Yes,1133000
+0,26,Degree,14,Intern,Remote,No,707000
+9,21,MSc,15,Engineer,Lagos,No,1317500
+11,43,BSc,12,Engineer,Jigawa,No,1068500
+2,22,PhD,15,Developer,Remote,No,1195000
+8,41,Degree,4,Manager,Kano,Yes,1194500
+10,43,PhD,9,Developer,Jigawa,No,1279500
+8,53,PhD,2,Developer,Lagos,No,1208500
+1,42,PhD,10,Developer,Kano,No,930000
+3,52,BSc,11,Analyst,Abuja,Yes,823000
+3,37,BSc,11,Analyst,Remote,No,795500
+6,44,Diploma,12,Developer,Lagos,No,926000
+15,48,Degree,10,Data Scientist,Kano,No,1615000
+3,54,Degree,6,Data Scientist,Abuja,Yes,1188000
+6,33,BSc,6,Analyst,Lagos,Yes,850500
+1,33,Degree,11,Analyst,Lagos,No,715500
+1,49,PhD,13,Intern,Remote,Yes,1141500
+14,42,PhD,14,Manager,Kaduna,Yes,1867000
+5,23,MSc,5,Engineer,Jigawa,Yes,962500
+14,31,Degree,2,Data Scientist,Lagos,No,1463500
+4,51,Diploma,9,Developer,Remote,No,899500
+13,54,Degree,3,Manager,Lagos,No,1394000
+4,26,PhD,3,Engineer,Abuja,Yes,1109000
+1,38,PhD,6,Engineer,Jigawa,No,848000
+15,49,PhD,10,Developer,Remote,No,1757500
+5,30,BSc,14,Developer,Lagos,Yes,1002000
+8,23,Hnd,14,Developer,Remote,No,1169500
+14,45,PhD,5,Developer,Kaduna,No,1422500
+14,46,BSc,8,Manager,Jigawa,No,1269000
+1,28,PhD,5,Intern,Jigawa,Yes,725000
+12,40,Diploma,6,Analyst,Remote,Yes,1238000
+0,37,BSc,10,Developer,Jigawa,No,482500
+10,53,MSc,9,Manager,Kaduna,Yes,1494500
+6,35,Diploma,14,Engineer,Remote,No,1079500
+4,52,BSc,5,Intern,Kaduna,Yes,600000
+10,22,Hnd,6,Manager,Lagos,No,1183000
+0,34,Diploma,8,Data Scientist,Remote,Yes,1049000
+8,43,BSc,7,Data Scientist,Abuja,Yes,1283500
+1,25,Hnd,5,Engineer,Kano,Yes,677500
+10,54,Degree,11,Manager,Kaduna,Yes,1433000
+10,55,Hnd,2,Intern,Jigawa,Yes,863500
+4,51,BSc,11,Analyst,Lagos,No,775500
+12,51,MSc,9,Analyst,Lagos,Yes,1439500
+0,35,PhD,3,Intern,Kaduna,Yes,691500
+9,53,BSc,14,Analyst,Jigawa,No,939500
+10,54,BSc,3,Analyst,Kaduna,No,819000
+12,21,BSc,12,Analyst,Kano,No,998500
+15,35,Hnd,13,Developer,Remote,No,1496500
+13,42,Hnd,13,Developer,Abuja,Yes,1414000
+3,50,Degree,1,Data Scientist,Remote,Yes,1218000
+4,53,Degree,13,Developer,Jigawa,No,876500
+7,47,MSc,11,Manager,Kaduna,No,1260500
+0,36,MSc,1,Data Scientist,Kano,Yes,968000
+1,27,MSc,8,Engineer,Remote,Yes,1066500
+10,39,BSc,14,Engineer,Remote,No,1269500
+11,53,Diploma,10,Developer,Abuja,Yes,1227500
+11,47,MSc,11,Analyst,Kaduna,No,1210500
+7,53,Degree,14,Developer,Remote,Yes,1369500
+1,30,Diploma,11,Developer,Jigawa,Yes,648000
+10,46,BSc,9,Engineer,Kano,Yes,1137000
+8,51,Degree,15,Intern,Abuja,Yes,1137500
+5,53,Hnd,13,Manager,Kaduna,No,1071500
+5,43,PhD,12,Analyst,Kaduna,No,1078500
+6,51,PhD,4,Analyst,Abuja,No,1059500
+13,52,Degree,14,Manager,Kano,No,1507000
+14,44,BSc,8,Data Scientist,Lagos,Yes,1604000
+4,29,Diploma,3,Engineer,Jigawa,No,556500
+13,35,BSc,2,Analyst,Kaduna,Yes,1008500
+7,34,PhD,13,Developer,Lagos,Yes,1434000
+5,20,MSc,1,Data Scientist,Jigawa,No,993000
+14,33,MSc,5,Analyst,Kano,Yes,1332500
+4,44,Hnd,14,Engineer,Remote,No,1082000
+7,35,Diploma,11,Intern,Remote,No,870500
+6,33,Diploma,13,Analyst,Abuja,Yes,946500
+0,32,Hnd,4,Developer,Kaduna,No,462000
+1,54,Hnd,6,Engineer,Remote,No,828000
+8,35,Degree,4,Developer,Remote,No,1069500
+4,38,Diploma,9,Data Scientist,Lagos,No,1037000
+14,34,PhD,14,Developer,Jigawa,Yes,1647000
+2,25,Degree,2,Engineer,Kaduna,Yes,708500
+5,36,Hnd,13,Manager,Remote,Yes,1339000
+3,31,MSc,13,Manager,Abuja,Yes,1256500
+6,31,Hnd,10,Intern,Kaduna,No,677500
+1,41,Hnd,1,Manager,Remote,Yes,955500
+5,39,Diploma,1,Analyst,Remote,No,710500
+8,24,Diploma,12,Data Scientist,Kaduna,Yes,1266000
+13,27,Degree,10,Developer,Lagos,Yes,1402500
+1,43,Diploma,1,Developer,Kano,No,420500
+1,33,Diploma,2,Intern,Remote,No,433500
+0,54,MSc,15,Analyst,Lagos,No,895000
+1,53,Degree,15,Intern,Kano,Yes,777500
+8,35,Hnd,3,Manager,Abuja,Yes,1161500
+7,45,Hnd,1,Analyst,Lagos,Yes,905500
+3,39,Hnd,1,Engineer,Abuja,Yes,780500
+8,45,BSc,11,Manager,Jigawa,No,1050500
+2,22,BSc,5,Intern,Lagos,Yes,525000
+2,42,BSc,13,Manager,Kano,No,849000
+4,38,BSc,14,Developer,Kaduna,No,767000
+6,32,BSc,2,Developer,Remote,Yes,936000
+5,33,Diploma,4,Engineer,Kano,Yes,789500
+10,31,Diploma,13,Developer,Kaduna,No,1001500
+6,31,Diploma,9,Data Scientist,Jigawa,Yes,1109500
+0,38,MSc,2,Engineer,Abuja,Yes,811000
+2,39,MSc,2,Developer,Kaduna,Yes,803500
+2,20,MSc,15,Analyst,Lagos,Yes,1020000
+11,51,Hnd,13,Engineer,Jigawa,Yes,1296500
+4,55,BSc,14,Intern,Jigawa,Yes,739500
+8,42,Hnd,2,Intern,Lagos,No,741000
+13,43,Diploma,9,Engineer,Lagos,No,1224500
+5,23,Hnd,1,Intern,Remote,No,640500
+1,37,MSc,1,Engineer,Lagos,No,745500
+3,32,PhD,9,Analyst,Jigawa,No,877000
+3,37,PhD,2,Developer,Jigawa,Yes,943500
+9,38,MSc,10,Manager,Kaduna,Yes,1430000
+7,46,BSc,12,Engineer,Remote,Yes,1236000
+5,48,Degree,6,Manager,Lagos,Yes,1193000
+15,20,Degree,11,Intern,Lagos,Yes,1333000
+11,31,BSc,9,Engineer,Kaduna,No,1014500
+7,51,BSc,10,Engineer,Lagos,No,992500
+15,33,Degree,6,Engineer,Kano,Yes,1395500
+8,28,Diploma,9,Intern,Kaduna,No,672000
+11,51,BSc,3,Data Scientist,Lagos,Yes,1396500
+0,44,Hnd,10,Developer,Abuja,No,660000
+13,53,Degree,4,Manager,Abuja,Yes,1499500
+0,50,BSc,12,Intern,Lagos,Yes,631000
+14,53,Hnd,11,Developer,Kano,Yes,1400500
+5,27,MSc,10,Manager,Remote,Yes,1412500
+2,49,Degree,4,Manager,Remote,No,1004500
+13,23,Diploma,10,Manager,Lagos,No,1322500
+5,23,Diploma,12,Developer,Abuja,No,798500
+9,28,BSc,7,Engineer,Jigawa,No,851000
+9,38,Degree,12,Analyst,Remote,No,1206000
+11,50,BSc,3,Manager,Kaduna,No,1084000
+9,49,Degree,9,Analyst,Jigawa,No,959500
+3,20,BSc,13,Manager,Abuja,No,889000
+5,48,PhD,8,Manager,Kaduna,No,1249000
+7,32,Diploma,7,Data Scientist,Kaduna,No,1031000
+8,26,Hnd,13,Engineer,Remote,No,1199000
+5,20,BSc,6,Analyst,Kano,Yes,693000
+4,40,BSc,9,Intern,Jigawa,Yes,612000
+1,20,Degree,14,Developer,Kaduna,No,707000
+15,23,Hnd,9,Engineer,Remote,Yes,1554500
+8,35,PhD,9,Developer,Abuja,No,1259500
+5,50,Degree,10,Analyst,Abuja,No,890000
+11,42,Hnd,8,Intern,Kaduna,No,894000
+13,43,MSc,15,Developer,Kaduna,Yes,1542500
+4,53,PhD,15,Analyst,Lagos,No,1202500
+2,46,BSc,7,Engineer,Remote,No,801000
+8,44,BSc,9,Engineer,Abuja,Yes,1092000
+9,26,BSc,11,Engineer,Kano,No,958000
+11,34,Diploma,14,Developer,Remote,Yes,1382000
+11,42,BSc,7,Engineer,Jigawa,No,976000
+13,48,PhD,5,Analyst,Kaduna,No,1325000
+11,43,Hnd,15,Analyst,Kaduna,No,1122500
+1,44,BSc,4,Data Scientist,Remote,Yes,1047000
+9,34,Hnd,13,Data Scientist,Remote,No,1494000
+12,54,Degree,4,Manager,Abuja,Yes,1457000
+2,29,PhD,5,Analyst,Abuja,No,842500
+9,35,Hnd,2,Developer,Lagos,No,928500
+6,52,BSc,2,Analyst,Jigawa,No,586000
+0,39,BSc,11,Developer,Kano,Yes,665500
+8,39,PhD,14,Engineer,Remote,No,1529500
+5,40,MSc,2,Data Scientist,Remote,Yes,1401000
+8,54,PhD,15,Manager,Lagos,No,1615000
+0,29,Hnd,12,Analyst,Abuja,No,598500
+10,46,Diploma,2,Engineer,Remote,Yes,1191000
+0,27,Degree,12,Data Scientist,Jigawa,Yes,1003500
+14,41,Diploma,3,Analyst,Kano,No,976500
+14,47,Diploma,8,Manager,Remote,No,1491500
+14,44,Diploma,3,Developer,Jigawa,Yes,1124000
+12,46,Hnd,13,Intern,Kaduna,No,1039000
+3,55,BSc,10,Data Scientist,Lagos,Yes,1172500
+0,54,Hnd,2,Developer,Lagos,Yes,691000
+4,26,MSc,14,Intern,Jigawa,Yes,887000
+9,34,PhD,12,Engineer,Kano,No,1346000
+12,55,MSc,10,Data Scientist,Kano,Yes,1717500
+0,44,PhD,13,Data Scientist,Abuja,Yes,1384000
+3,46,Diploma,2,Engineer,Jigawa,No,536000
+0,48,Degree,1,Engineer,Kaduna,Yes,658000
+4,37,MSc,10,Analyst,Lagos,Yes,1062500
+15,48,Hnd,2,Intern,Lagos,No,1071000
+15,37,MSc,13,Intern,Abuja,Yes,1481500
+6,45,Diploma,10,Intern,Abuja,Yes,822500
+3,46,PhD,7,Data Scientist,Abuja,No,1296000
+4,31,Diploma,8,Data Scientist,Kano,No,921500
+4,50,MSc,3,Developer,Remote,No,1009000
+14,36,Diploma,6,Engineer,Kaduna,Yes,1228000
+4,46,Hnd,2,Developer,Abuja,Yes,821000
+11,47,MSc,10,Data Scientist,Abuja,No,1582500
+15,45,Degree,15,Engineer,Jigawa,No,1427500
+12,34,PhD,15,Engineer,Abuja,Yes,1705000
+7,46,Degree,8,Developer,Jigawa,Yes,1024000
+9,39,BSc,14,Developer,Kano,Yes,1124500
+5,40,BSc,7,Data Scientist,Lagos,No,1051000
+12,50,Hnd,1,Engineer,Lagos,No,1123000
+1,34,Diploma,6,Engineer,Abuja,No,578000
+10,52,MSc,5,Analyst,Remote,No,1260000
+5,25,PhD,10,Developer,Remote,Yes,1367500
+11,43,PhD,3,Data Scientist,Abuja,No,1576500
+10,54,Hnd,14,Data Scientist,Kaduna,Yes,1537000
+4,44,PhD,9,Developer,Abuja,No,1102000
+6,38,Hnd,5,Analyst,Kano,Yes,835000
+6,43,Diploma,4,Manager,Kano,Yes,989500
+6,33,Diploma,7,Analyst,Remote,Yes,968500
+0,55,Degree,15,Data Scientist,Lagos,Yes,1247500
+11,36,BSc,11,Data Scientist,Lagos,No,1383000
+9,34,PhD,10,Analyst,Lagos,Yes,1410000
+10,35,Degree,3,Developer,Remote,Yes,1261500
+9,38,Hnd,2,Manager,Abuja,No,1076000
+13,23,Degree,1,Developer,Kano,No,1030500
+9,37,Diploma,3,Data Scientist,Jigawa,Yes,1151500
+15,48,Degree,4,Developer,Abuja,Yes,1407000
+9,51,MSc,6,Engineer,Remote,No,1330500
+13,45,PhD,10,Analyst,Jigawa,No,1377500
+1,51,MSc,1,Manager,Abuja,Yes,1000500
+8,27,Diploma,1,Analyst,Kaduna,No,625500
+9,50,Degree,15,Manager,Abuja,Yes,1510000
+14,22,BSc,12,Analyst,Lagos,No,1171000
+13,47,Diploma,14,Data Scientist,Kaduna,Yes,1584500
+15,49,Hnd,5,Developer,Abuja,Yes,1377500
+6,40,MSc,3,Analyst,Jigawa,Yes,914000
+8,21,MSc,11,Engineer,Jigawa,No,1080500
+7,41,PhD,6,Developer,Remote,No,1305500
+11,22,Hnd,4,Manager,Jigawa,Yes,1192000
+7,27,Hnd,1,Intern,Kaduna,No,550500
+3,23,Degree,4,Developer,Kano,Yes,754500
+9,45,Degree,12,Manager,Kaduna,Yes,1383500
+1,36,BSc,4,Engineer,Kano,No,497000
+14,52,MSc,9,Data Scientist,Lagos,Yes,1862000
+8,29,Diploma,5,Manager,Remote,Yes,1242500
+5,46,Hnd,6,Data Scientist,Abuja,No,1088000
+2,44,Diploma,15,Data Scientist,Remote,No,1170000
+8,41,MSc,8,Engineer,Kaduna,Yes,1226500
+5,28,MSc,1,Intern,Kano,Yes,743000
+6,41,BSc,8,Data Scientist,Remote,No,1216500
+2,23,Diploma,10,Manager,Kano,No,747500
+11,38,BSc,10,Engineer,Remote,No,1240000
+13,54,Diploma,9,Analyst,Kano,No,1072000
+12,54,MSc,7,Engineer,Lagos,Yes,1511000
+5,35,BSc,10,Intern,Abuja,Yes,752500
+2,48,PhD,10,Intern,Lagos,No,910000
+15,31,BSc,1,Manager,Abuja,No,1240500
+4,30,MSc,5,Intern,Abuja,No,705000
+3,37,Degree,5,Data Scientist,Jigawa,Yes,1037500
+3,29,BSc,12,Developer,Kaduna,No,663500
+7,49,MSc,15,Manager,Jigawa,No,1307500
+8,50,Degree,2,Engineer,Remote,No,1111000
+4,38,Diploma,15,Data Scientist,Jigawa,No,1025000
+11,42,MSc,4,Intern,Jigawa,No,942000
+8,47,PhD,11,Intern,Remote,Yes,1415500
+12,36,Hnd,6,Manager,Abuja,Yes,1398000
+7,52,MSc,12,Engineer,Kaduna,No,1161000
+13,46,PhD,7,Data Scientist,Kano,Yes,1816000
+6,29,Hnd,1,Analyst,Remote,No,800500
+2,24,PhD,15,Analyst,Kano,Yes,1080000
+14,41,BSc,4,Intern,Kano,No,894500
+3,31,Degree,12,Intern,Kano,No,638500
+8,51,MSc,4,Manager,Kaduna,Yes,1309500
+9,50,Degree,6,Analyst,Kaduna,No,938000
+1,27,PhD,13,Engineer,Remote,Yes,1286500
+14,53,Degree,6,Data Scientist,Lagos,No,1590500
+10,45,MSc,12,Data Scientist,Remote,No,1698500
+5,35,Degree,1,Manager,Jigawa,Yes,950500
+6,53,Hnd,8,Analyst,Lagos,Yes,1006500
+4,40,PhD,11,Engineer,Abuja,No,1168000
+13,50,BSc,9,Data Scientist,Jigawa,Yes,1472000
+7,38,MSc,8,Analyst,Lagos,Yes,1164000
+10,27,Diploma,8,Data Scientist,Abuja,No,1231500
+15,51,Degree,10,Intern,Lagos,Yes,1392500
+12,24,BSc,14,Developer,Lagos,Yes,1302000
+10,38,Degree,14,Developer,Jigawa,Yes,1247000
+4,40,Degree,10,Data Scientist,Kaduna,Yes,1210000
+4,38,MSc,7,Manager,Lagos,Yes,1241000
+11,30,BSc,9,Developer,Lagos,Yes,1182000
+7,24,Diploma,13,Data Scientist,Abuja,No,1179000
+14,25,BSc,9,Developer,Abuja,Yes,1274500
+15,52,PhD,13,Data Scientist,Remote,No,2089000
+12,26,Hnd,11,Analyst,Kaduna,No,1053000
+6,40,PhD,3,Engineer,Kano,No,1064000
+8,46,MSc,6,Data Scientist,Abuja,No,1373000
+4,34,BSc,6,Engineer,Lagos,Yes,863000
+15,47,PhD,3,Intern,Kaduna,No,1276500
+9,37,BSc,9,Engineer,Abuja,Yes,1119500
+6,41,BSc,9,Engineer,Remote,No,1004500
+10,33,Degree,6,Data Scientist,Abuja,No,1330500
+4,49,MSc,8,Engineer,Jigawa,Yes,1036500
+7,30,MSc,14,Manager,Kano,Yes,1402000
+5,37,PhD,9,Intern,Abuja,No,969500
+13,30,MSc,11,Engineer,Lagos,No,1448000
+12,45,MSc,7,Intern,Jigawa,Yes,1168500
+15,42,Hnd,9,Developer,Abuja,No,1312000
+9,30,Degree,7,Engineer,Abuja,Yes,1186000
+2,26,Diploma,2,Engineer,Jigawa,No,441000
+11,36,PhD,3,Intern,Remote,Yes,1379000
+12,48,Diploma,15,Data Scientist,Kano,Yes,1570000
+10,47,Hnd,10,Engineer,Lagos,Yes,1307500
+3,46,Hnd,3,Engineer,Abuja,Yes,834000
+3,36,Hnd,13,Engineer,Remote,No,999000
+12,50,BSc,8,Analyst,Remote,No,1179000
+3,20,Hnd,10,Engineer,Lagos,No,805000
+4,28,Hnd,13,Analyst,Abuja,Yes,914000
+6,36,Degree,3,Manager,Jigawa,Yes,1034000
+0,32,Hnd,11,Manager,Remote,Yes,1068000
+11,30,Diploma,11,Analyst,Lagos,Yes,1158000
+0,51,Diploma,9,Engineer,Lagos,No,659500
+2,40,Degree,3,Manager,Kaduna,Yes,894000
+0,46,MSc,8,Manager,Remote,No,1079000
+8,55,Hnd,4,Intern,Jigawa,Yes,809500
+9,33,BSc,5,Manager,Jigawa,No,957500
+12,30,BSc,6,Developer,Lagos,No,1053000
+15,27,MSc,15,Intern,Remote,Yes,1622500
+6,42,Diploma,15,Developer,Jigawa,Yes,975000
+12,40,MSc,3,Manager,Remote,No,1514000
+15,37,Degree,7,Engineer,Lagos,No,1383500
+3,25,BSc,1,Analyst,Kaduna,No,395500
+9,29,BSc,3,Engineer,Remote,No,1001500
+15,50,Diploma,12,Manager,Abuja,No,1486000
+9,39,Degree,15,Engineer,Jigawa,No,1142500
+10,24,MSc,4,Manager,Kano,Yes,1342000
+10,54,BSc,15,Data Scientist,Lagos,Yes,1575000
+11,51,Diploma,7,Analyst,Kano,No,938500
+5,55,PhD,12,Manager,Kano,Yes,1468500
+6,20,Hnd,8,Analyst,Remote,No,904000
+1,29,BSc,2,Manager,Kano,Yes,693500
+7,42,BSc,1,Data Scientist,Lagos,Yes,1158000
+7,45,Diploma,11,Intern,Abuja,Yes,885500
+9,49,Degree,13,Developer,Jigawa,No,1091500
+7,24,Hnd,13,Engineer,Jigawa,Yes,1049000
+11,35,BSc,15,Developer,Abuja,Yes,1272500
+6,30,PhD,15,Engineer,Kaduna,No,1245000
+4,31,BSc,9,Data Scientist,Lagos,Yes,1139500
+11,31,MSc,6,Analyst,Jigawa,No,1050500
+2,27,Hnd,7,Engineer,Lagos,Yes,843500
+15,42,PhD,12,Manager,Kano,No,1766000
+8,49,Degree,8,Data Scientist,Kano,Yes,1386500
+3,34,BSc,4,Analyst,Kaduna,Yes,592000
+10,47,Degree,14,Manager,Remote,No,1539500
+6,42,MSc,3,Analyst,Kaduna,Yes,949000
+4,55,Degree,11,Intern,Jigawa,No,685500
+9,44,MSc,12,Data Scientist,Jigawa,No,1431000
+8,43,Diploma,12,Intern,Kano,Yes,893500
+5,25,Hnd,1,Manager,Kaduna,Yes,905500
+15,30,Diploma,14,Developer,Jigawa,Yes,1332000
+7,34,Hnd,15,Analyst,Abuja,No,980000
+5,43,PhD,4,Manager,Lagos,No,1254500
+3,48,PhD,11,Data Scientist,Abuja,Yes,1493000
+1,44,Degree,1,Data Scientist,Jigawa,No,773000
+1,23,MSc,8,Developer,Lagos,No,796500
+10,28,MSc,7,Manager,Kaduna,Yes,1396000
+14,41,Hnd,5,Analyst,Lagos,No,1162500
+8,53,PhD,7,Intern,Abuja,Yes,1228500
+3,35,Diploma,11,Manager,Remote,No,1020500
+3,29,Degree,13,Intern,Kaduna,Yes,761500
+0,31,MSc,10,Analyst,Lagos,No,747500
+3,27,BSc,11,Manager,Remote,No,1000500
+9,38,PhD,1,Engineer,Abuja,Yes,1328000
+6,37,Hnd,3,Engineer,Remote,No,956500
+6,51,Diploma,11,Intern,Abuja,No,735500
+2,23,MSc,6,Intern,Lagos,No,645500
+6,48,Diploma,9,Developer,Jigawa,Yes,882000
+0,28,Diploma,12,Analyst,Kaduna,Yes,586000
+4,28,Degree,6,Analyst,Kano,Yes,788000
+10,21,Degree,10,Analyst,Abuja,No,1042500
+2,23,MSc,5,Manager,Kano,Yes,997500
+1,21,BSc,7,Data Scientist,Abuja,Yes,913500
+5,41,Hnd,12,Analyst,Kano,No,803500
+0,40,Degree,2,Data Scientist,Abuja,Yes,946000
+11,26,MSc,15,Developer,Kano,Yes,1420000
+7,39,BSc,7,Analyst,Lagos,No,808500
+4,36,Hnd,12,Developer,Kano,Yes,926000
+9,20,Diploma,6,Analyst,Lagos,No,833000
+13,28,Degree,3,Engineer,Abuja,Yes,1289000
+11,30,MSc,15,Manager,Kano,No,1480000
+14,30,Diploma,10,Manager,Lagos,Yes,1505000
+8,26,Degree,7,Intern,Kano,Yes,881000
+0,55,PhD,3,Analyst,Abuja,No,781500
+13,34,MSc,8,Manager,Remote,Yes,1754000
+14,26,Diploma,6,Data Scientist,Kano,No,1323000
+12,32,Hnd,5,Analyst,Lagos,Yes,1170000
+3,22,PhD,13,Manager,Kano,Yes,1314000
+7,51,MSc,7,Developer,Abuja,Yes,1208500
+12,30,Degree,2,Manager,Remote,No,1371000
+12,53,Hnd,13,Manager,Abuja,Yes,1566500
+8,36,PhD,12,Intern,Kano,Yes,1226000
+7,36,BSc,5,Engineer,Jigawa,No,745000
+13,27,PhD,1,Engineer,Jigawa,No,1270500
+13,38,Degree,9,Data Scientist,Lagos,Yes,1682000
+13,29,MSc,11,Data Scientist,Kano,No,1595500
+14,36,MSc,3,Analyst,Lagos,No,1264000
+8,48,Degree,5,Manager,Kano,Yes,1230000
+11,53,Degree,5,Manager,Kaduna,Yes,1367500
+4,54,Hnd,12,Data Scientist,Lagos,No,1201000
+9,24,Degree,2,Developer,Jigawa,No,831000
+5,37,Hnd,12,Developer,Kaduna,No,843500
+3,20,Hnd,2,Intern,Kaduna,Yes,491000
+8,28,Degree,5,Data Scientist,Remote,No,1340000
+8,35,Hnd,13,Developer,Jigawa,Yes,1081500
+1,24,BSc,4,Manager,Remote,No,777000
+4,27,BSc,7,Intern,Lagos,No,543500
+1,45,MSc,12,Engineer,Kano,No,883500
+9,49,Degree,5,Data Scientist,Kaduna,No,1247500
+15,26,Diploma,1,Engineer,Remote,Yes,1348000
+1,21,PhD,10,Data Scientist,Abuja,No,1197500
+11,27,PhD,12,Developer,Kaduna,No,1368500
+7,38,PhD,6,Developer,Remote,No,1298000
+15,55,Diploma,13,Engineer,Kano,Yes,1456500
+1,35,Degree,15,Analyst,Kano,No,712500
+2,39,MSc,6,Intern,Jigawa,Yes,685500
+1,40,BSc,14,Developer,Kano,No,647000
+2,29,Diploma,8,Data Scientist,Remote,Yes,1126500
+1,35,Hnd,3,Intern,Kano,Yes,466500
+9,41,PhD,5,Intern,Remote,No,1217500
+3,34,PhD,13,Engineer,Abuja,No,1144000
+7,41,Hnd,14,Manager,Abuja,No,1209500
+12,30,BSc,10,Developer,Kaduna,Yes,1155000
+6,55,Diploma,5,Developer,Kano,No,747500
+12,50,MSc,2,Analyst,Kaduna,No,1101000
+15,28,PhD,8,Engineer,Jigawa,No,1489000
+4,42,BSc,7,Engineer,Remote,No,881000
+5,35,MSc,11,Analyst,Kaduna,No,910500
+14,43,Diploma,13,Intern,Kaduna,Yes,1171500
+2,38,PhD,7,Developer,Kaduna,Yes,1021000
+2,33,Hnd,2,Engineer,Abuja,Yes,738500
+5,55,Diploma,14,Intern,Remote,No,884500
+2,20,PhD,13,Developer,Abuja,Yes,1144000
+8,31,BSc,10,Manager,Jigawa,Yes,1117500
+15,27,Degree,13,Developer,Kano,Yes,1466500
+10,30,PhD,11,Intern,Lagos,Yes,1363000
+7,32,Diploma,3,Data Scientist,Remote,Yes,1269000
+7,25,PhD,5,Manager,Lagos,No,1317500
+2,52,BSc,14,Developer,Abuja,Yes,892000
+0,30,Degree,2,Analyst,Lagos,No,501000
+2,44,PhD,8,Developer,Jigawa,Yes,1024000
+11,20,MSc,9,Intern,Kaduna,No,1007000
+8,49,Diploma,9,Data Scientist,Abuja,No,1214500
+11,21,Hnd,13,Manager,Kano,Yes,1391500
+12,37,Degree,6,Analyst,Jigawa,Yes,1130500
+0,49,Diploma,11,Intern,Remote,No,590500
+15,48,PhD,12,Manager,Abuja,Yes,1951000
+2,42,Degree,5,Engineer,Jigawa,Yes,775000
+3,48,Diploma,15,Manager,Jigawa,Yes,1025000
+1,51,Hnd,2,Developer,Lagos,No,608500
+5,51,MSc,12,Intern,Remote,Yes,1178500
+3,44,Hnd,10,Analyst,Jigawa,Yes,765000
+2,31,PhD,9,Developer,Jigawa,No,889500
+9,45,PhD,1,Data Scientist,Kano,No,1405500
+13,25,Diploma,15,Intern,Kaduna,Yes,1117500
+3,31,Diploma,7,Data Scientist,Abuja,Yes,1028500
+13,24,PhD,13,Data Scientist,Lagos,No,1829000
+14,43,Diploma,9,Manager,Jigawa,Yes,1399500
+14,41,PhD,11,Manager,Abuja,Yes,1870500
+0,26,Diploma,11,Data Scientist,Kano,Yes,903000
+6,22,Hnd,7,Intern,Abuja,Yes,781000
+8,23,Degree,14,Data Scientist,Lagos,Yes,1509500
+3,45,PhD,15,Data Scientist,Kano,Yes,1507500
+11,38,BSc,3,Manager,Jigawa,No,1024000
+3,26,Diploma,5,Manager,Kano,No,710000
+4,45,Hnd,4,Analyst,Jigawa,Yes,704500
+11,48,MSc,10,Developer,Kaduna,No,1255000
+2,53,PhD,7,Intern,Remote,No,968500
+14,45,BSc,9,Analyst,Kaduna,No,1084500
+4,45,MSc,2,Engineer,Lagos,No,918500
+15,37,Degree,6,Analyst,Lagos,No,1265500
+3,51,MSc,10,Intern,Lagos,Yes,952500
+13,22,MSc,5,Analyst,Remote,Yes,1440000
+14,53,Degree,10,Developer,Kano,Yes,1432500
+12,45,BSc,6,Analyst,Kaduna,No,940500
+2,22,Degree,14,Data Scientist,Jigawa,Yes,1117000
+11,36,MSc,10,Data Scientist,Kano,No,1505000
+14,24,PhD,13,Analyst,Kaduna,No,1454000
+11,36,Hnd,2,Intern,Jigawa,No,741000
+2,23,Degree,7,Engineer,Kaduna,No,673500
+4,45,Hnd,7,Intern,Jigawa,Yes,658500
+7,31,Diploma,9,Engineer,Kaduna,Yes,954500
+15,30,PhD,6,Data Scientist,Lagos,No,1808000
+0,41,Diploma,11,Manager,Jigawa,No,680500
+11,31,PhD,8,Developer,Jigawa,No,1276500
+10,26,Hnd,5,Engineer,Lagos,Yes,1165000
+13,33,MSc,1,Developer,Kaduna,No,1145500
+5,20,Diploma,1,Engineer,Kaduna,No,573000
+4,49,Hnd,11,Intern,Kaduna,No,650500
+3,51,PhD,14,Developer,Remote,Yes,1414500
+10,34,BSc,1,Intern,Jigawa,Yes,723000
+3,43,Hnd,11,Data Scientist,Remote,No,1210500
+9,54,PhD,11,Manager,Kano,No,1508000
+14,44,Hnd,5,Developer,Remote,Yes,1450000
+9,41,Hnd,5,Analyst,Remote,No,1037500
+12,34,PhD,15,Data Scientist,Abuja,Yes,1935000
+12,52,Hnd,13,Intern,Remote,No,1244000
+7,54,PhD,3,Manager,Remote,Yes,1574000
+4,53,PhD,13,Engineer,Remote,Yes,1486500
+5,32,Degree,13,Engineer,Kaduna,No,939000
+4,36,Diploma,5,Engineer,Abuja,Yes,820000
+15,55,BSc,4,Analyst,Kano,Yes,1194500
+1,24,PhD,6,Analyst,Lagos,No,833000
+9,55,PhD,3,Developer,Lagos,Yes,1396500
+13,31,BSc,10,Engineer,Lagos,No,1212500
+0,30,Degree,2,Manager,Kano,Yes,771000
+0,30,Degree,6,Engineer,Remote,No,773000
+9,44,Hnd,5,Engineer,Kano,Yes,1085000
+6,29,BSc,3,Developer,Remote,No,826500
+6,21,Degree,15,Analyst,Abuja,Yes,1072500
+4,37,Hnd,6,Manager,Kano,No,870500
+13,51,Degree,3,Manager,Kano,No,1306500
+3,38,MSc,2,Analyst,Lagos,No,756000
+1,47,BSc,12,Data Scientist,Kano,No,898500
+14,47,BSc,10,Data Scientist,Abuja,No,1497500
+2,38,PhD,15,Intern,Remote,No,1075000
+7,25,Hnd,3,Engineer,Remote,Yes,1091500
+10,44,MSc,14,Developer,Kano,Yes,1402000
+2,50,Degree,13,Intern,Jigawa,Yes,739000
+5,41,MSc,14,Data Scientist,Jigawa,No,1279500
+14,47,Degree,13,Analyst,Kano,No,1291500
+10,22,MSc,2,Intern,Kano,No,851000
+8,47,Diploma,2,Engineer,Jigawa,Yes,883500
+14,37,Hnd,3,Analyst,Kaduna,No,1026500
+12,41,Degree,11,Engineer,Kaduna,Yes,1360500
+12,37,Hnd,6,Manager,Kano,Yes,1350500
+8,52,MSc,3,Developer,Kaduna,No,1004000
+4,24,Degree,5,Engineer,Kaduna,Yes,850000
+5,48,PhD,5,Analyst,Remote,No,1155000
+1,44,Diploma,6,Developer,Abuja,Yes,683000
+7,38,PhD,12,Engineer,Kano,Yes,1386000
+12,37,MSc,7,Analyst,Kaduna,Yes,1278500
+3,20,MSc,10,Analyst,Kano,No,775000
+0,41,MSc,4,Engineer,Kano,Yes,804500
+9,36,Diploma,2,Manager,Jigawa,Yes,1031000
+0,40,Degree,4,Analyst,Kano,No,482000
+1,52,Degree,1,Analyst,Kano,No,503000
+0,53,PhD,9,Developer,Kaduna,Yes,1004500
+15,34,PhD,10,Analyst,Kaduna,Yes,1590000
+12,21,MSc,15,Engineer,Kano,Yes,1492500
+7,46,BSc,4,Data Scientist,Jigawa,Yes,1102000
+12,24,BSc,4,Manager,Lagos,Yes,1292000
+15,38,Degree,2,Intern,Remote,Yes,1316000
+6,22,Hnd,11,Data Scientist,Jigawa,Yes,1193000
+15,46,Degree,10,Analyst,Kaduna,No,1270000
+1,43,MSc,6,Manager,Kano,No,900500
+6,40,MSc,13,Analyst,Kaduna,Yes,1124000
+6,54,Degree,2,Engineer,Lagos,No,931000
+1,37,BSc,8,Developer,Jigawa,Yes,611500
+15,29,BSc,15,Developer,Kano,No,1267500
+10,40,BSc,12,Developer,Remote,No,1196000
+3,38,Hnd,1,Developer,Lagos,Yes,768000
+7,40,MSc,6,Data Scientist,Lagos,No,1343000
+14,23,MSc,11,Intern,Abuja,Yes,1365500
+10,42,Hnd,8,Developer,Remote,Yes,1319000
+6,53,MSc,2,Engineer,Kano,Yes,1068500
+6,25,MSc,14,Developer,Abuja,Yes,1224500
+9,26,MSc,8,Developer,Lagos,No,1164000
+9,30,MSc,2,Developer,Remote,No,1166000
+8,35,PhD,6,Data Scientist,Lagos,No,1505500
+11,37,Diploma,6,Developer,Remote,Yes,1245500
+14,36,Hnd,7,Analyst,Abuja,No,1156000
+13,27,Degree,2,Developer,Abuja,No,1108500
+8,40,Hnd,7,Developer,Remote,Yes,1206000
+14,44,Degree,13,Developer,Jigawa,No,1304000
+11,41,PhD,7,Data Scientist,Kaduna,No,1583500
+14,26,MSc,4,Analyst,Jigawa,No,1137000
+3,25,PhD,5,Engineer,Lagos,Yes,1127500
+15,47,PhD,8,Analyst,Jigawa,No,1436500
+15,34,Degree,2,Manager,Jigawa,Yes,1416000
+6,31,MSc,1,Analyst,Remote,No,955500
+2,33,BSc,15,Developer,Abuja,Yes,862500
+10,53,Hnd,9,Developer,Jigawa,Yes,1144500
+0,52,BSc,10,Intern,Kano,Yes,520000
+8,33,Diploma,12,Intern,Kano,No,748500
+7,31,PhD,2,Engineer,Kaduna,Yes,1178500
+13,54,BSc,3,Data Scientist,Remote,No,1474000
+1,45,Diploma,4,Analyst,Kano,No,419500
+6,54,MSc,4,Intern,Lagos,No,867000
+8,28,Diploma,2,Intern,Remote,Yes,856000
+3,45,Hnd,13,Developer,Kano,Yes,921500
+1,26,MSc,15,Intern,Kaduna,No,680000
+3,49,BSc,14,Manager,Lagos,Yes,1129500
+11,33,PhD,10,Manager,Kaduna,No,1517500
+0,27,MSc,11,Analyst,Jigawa,Yes,755500
+2,25,MSc,2,Engineer,Abuja,No,748500
+3,54,MSc,2,Analyst,Jigawa,Yes,796000
+5,23,MSc,14,Data Scientist,Remote,Yes,1574500
+6,30,Degree,8,Analyst,Kano,No,799000
+9,21,PhD,9,Engineer,Kaduna,Yes,1369500
+13,24,MSc,8,Engineer,Lagos,No,1379000
+9,43,BSc,14,Developer,Kaduna,Yes,1124500
+15,45,BSc,15,Data Scientist,Lagos,No,1657500
+15,25,PhD,8,Developer,Kano,No,1481500
+10,45,MSc,15,Manager,Lagos,No,1552500
+4,48,Degree,7,Manager,Jigawa,Yes,1046000
+1,42,Hnd,8,Analyst,Jigawa,Yes,634000
+2,54,Hnd,12,Data Scientist,Abuja,No,1081000
+8,55,Degree,13,Developer,Abuja,No,1151500
+14,49,BSc,8,Manager,Kano,Yes,1436500
+0,39,Degree,9,Analyst,Kano,No,569500
+9,39,Degree,8,Intern,Kano,No,856500
+12,45,MSc,2,Analyst,Kaduna,Yes,1208500
+15,23,MSc,9,Intern,Kano,No,1204500
+9,28,PhD,9,Engineer,Kaduna,No,1267000
+5,46,BSc,9,Intern,Abuja,Yes,762000
+5,20,Hnd,1,Intern,Remote,No,633000
+2,34,PhD,7,Engineer,Remote,Yes,1241000
+0,52,Hnd,8,Intern,Lagos,No,514000
+3,22,PhD,14,Engineer,Remote,No,1262000
+6,34,BSc,12,Manager,Jigawa,Yes,1071000
+15,21,Diploma,8,Data Scientist,Jigawa,Yes,1471500
+5,27,Diploma,2,Data Scientist,Remote,No,1028500
+6,41,PhD,5,Developer,Lagos,Yes,1262500
+2,52,MSc,12,Engineer,Remote,No,1126000
+12,33,MSc,6,Intern,Kaduna,No,1030500
+10,26,PhD,13,Developer,Kano,No,1349000
+6,41,Hnd,1,Data Scientist,Lagos,No,1060500
+9,55,PhD,11,Manager,Kano,No,1510500
+6,36,BSc,8,Intern,Kaduna,No,584000
+7,35,PhD,6,Intern,Abuja,No,1000500
+11,37,MSc,5,Intern,Kano,Yes,1107500
+5,50,Degree,14,Data Scientist,Remote,No,1422000
+1,40,MSc,4,Data Scientist,Kaduna,No,947000
+12,37,Hnd,2,Data Scientist,Kaduna,No,1248500
+7,49,MSc,14,Engineer,Lagos,No,1279500
+10,31,MSc,14,Analyst,Remote,Yes,1489500
+13,35,BSc,8,Analyst,Lagos,No,1086500
+13,45,PhD,2,Engineer,Remote,No,1553500
+7,39,BSc,6,Developer,Jigawa,Yes,850500
+10,42,BSc,10,Engineer,Remote,No,1205000
+3,39,PhD,1,Manager,Jigawa,No,980500
+3,51,Degree,14,Data Scientist,Remote,Yes,1454500
+5,52,Degree,8,Developer,Remote,No,1049000
+12,25,Diploma,10,Engineer,Abuja,No,1122500
+14,48,PhD,7,Manager,Kaduna,Yes,1756000
+12,42,Degree,5,Intern,Remote,Yes,1245000
+11,52,Diploma,9,Engineer,Remote,No,1257000
+4,50,PhD,5,Intern,Remote,Yes,1135000
+15,27,PhD,13,Intern,Kaduna,No,1406500
+15,45,Diploma,13,Manager,Abuja,Yes,1611500
+5,28,PhD,2,Intern,Kano,Yes,891000
+4,42,MSc,2,Analyst,Kaduna,Yes,841000
+9,25,PhD,11,Data Scientist,Remote,Yes,1835500
+2,42,MSc,3,Intern,Kaduna,Yes,669000
+8,41,Degree,4,Manager,Kaduna,Yes,1184500
+5,24,Hnd,5,Manager,Kano,Yes,985000
+1,22,Hnd,3,Data Scientist,Lagos,No,824000
+11,28,Hnd,3,Developer,Jigawa,Yes,1019000
+4,54,Degree,4,Engineer,Kaduna,Yes,907000
+12,23,Hnd,8,Intern,Kaduna,No,891500
+11,55,BSc,2,Intern,Jigawa,No,718500
+2,27,MSc,10,Manager,Jigawa,Yes,1057500
+4,25,BSc,5,Developer,Remote,Yes,882500
+0,25,Degree,11,Data Scientist,Remote,No,1080500
+10,22,MSc,11,Analyst,Kaduna,No,1103000
+10,52,BSc,10,Developer,Kano,Yes,1130000
+15,50,Diploma,7,Analyst,Remote,No,1296000
+4,35,PhD,7,Intern,Lagos,Yes,1033500
+0,53,BSc,15,Manager,Kano,No,822500
+3,34,MSc,3,Manager,Jigawa,No,874000
+10,50,Diploma,9,Developer,Jigawa,No,947000
+11,37,MSc,8,Analyst,Lagos,Yes,1341500
+7,20,Degree,12,Manager,Kano,Yes,1241000
+6,39,PhD,7,Intern,Jigawa,Yes,1013500
+5,21,Diploma,10,Analyst,Kaduna,No,637500
+4,54,Diploma,1,Engineer,Lagos,No,703000
+6,22,BSc,13,Data Scientist,Jigawa,No,1039000
+0,47,Hnd,2,Intern,Remote,No,493500
+2,36,Degree,2,Analyst,Lagos,Yes,726000
+7,31,MSc,15,Developer,Abuja,No,1182500
+8,51,PhD,9,Developer,Lagos,Yes,1449500
+7,32,BSc,1,Developer,Lagos,No,743000
+4,32,BSc,1,Developer,Kano,Yes,648000
+2,52,MSc,14,Data Scientist,Lagos,Yes,1412000
+13,32,Degree,3,Manager,Remote,Yes,1559000
+9,43,Diploma,2,Manager,Lagos,Yes,1168500
+5,49,MSc,10,Intern,Abuja,Yes,1007500
+15,37,Diploma,6,Developer,Abuja,No,1175500
+4,38,MSc,10,Developer,Lagos,No,1005000
+11,27,Hnd,11,Developer,Kaduna,No,1070500
+12,53,Degree,4,Intern,Remote,No,1134500
+9,37,PhD,13,Engineer,Jigawa,Yes,1451500
+3,45,Hnd,8,Data Scientist,Kano,No,981500
+6,27,BSc,3,Data Scientist,Jigawa,No,871500
+15,43,Diploma,10,Engineer,Kaduna,No,1242500
+5,30,MSc,9,Engineer,Abuja,No,1022000
+7,48,PhD,5,Developer,Lagos,Yes,1325000
+1,27,BSc,12,Developer,Jigawa,Yes,658500
+14,32,Diploma,14,Analyst,Remote,Yes,1452000
+13,48,BSc,8,Data Scientist,Remote,No,1549000
+0,30,Hnd,4,Engineer,Abuja,No,557000
+4,32,PhD,5,Developer,Kano,Yes,1070000
+11,43,MSc,6,Engineer,Lagos,Yes,1420500
+14,26,Degree,9,Data Scientist,Kaduna,No,1487000
+2,31,Degree,11,Developer,Remote,No,915500
+0,30,BSc,4,Data Scientist,Jigawa,Yes,747000
+4,22,Degree,3,Developer,Lagos,No,739000
+11,30,Degree,6,Intern,Jigawa,No,848000
+2,21,PhD,13,Manager,Abuja,No,1196500
+1,47,MSc,2,Engineer,Abuja,No,758500
+2,28,MSc,10,Intern,Kano,No,650000
+6,33,Degree,13,Data Scientist,Remote,Yes,1526500
+4,31,PhD,8,Engineer,Jigawa,No,1001500
+13,27,Degree,11,Analyst,Remote,No,1340500
+4,37,MSc,11,Data Scientist,Lagos,No,1290500
+7,55,MSc,15,Intern,Kaduna,No,1022500
+10,23,Diploma,12,Developer,Abuja,No,1023500
+3,48,MSc,3,Data Scientist,Kano,Yes,1169000
+4,29,Degree,9,Data Scientist,Abuja,No,1104500
+13,50,Degree,5,Engineer,Kano,No,1210000
+5,23,BSc,1,Developer,Kano,No,550500
+13,42,Diploma,12,Engineer,Remote,No,1376000
+3,38,MSc,6,Developer,Kano,No,808000
+2,35,Hnd,11,Developer,Remote,Yes,995500
+5,31,BSc,10,Intern,Lagos,Yes,772500
+2,38,Hnd,10,Intern,Kaduna,Yes,635000
+5,22,PhD,10,Analyst,Kano,No,1000000
+6,48,Degree,4,Engineer,Jigawa,Yes,952000
+10,31,MSc,1,Analyst,Abuja,No,1005500
+3,49,BSc,7,Analyst,Kaduna,Yes,683500
+1,38,Diploma,13,Developer,Jigawa,Yes,704000
+13,20,Diploma,3,Manager,Kano,Yes,1229000
+1,35,Hnd,9,Manager,Jigawa,Yes,864500
+9,33,Hnd,10,Developer,Abuja,Yes,1157500
+12,39,BSc,14,Intern,Lagos,No,1059500
+9,55,Degree,8,Manager,Kano,Yes,1346500
+15,34,BSc,13,Engineer,Jigawa,Yes,1364000
+0,45,MSc,9,Intern,Jigawa,No,544500
+10,32,BSc,12,Engineer,Abuja,Yes,1206000
+7,50,MSc,15,Analyst,Remote,No,1300000
+15,53,Diploma,2,Intern,Lagos,No,1013500
+14,42,BSc,7,Manager,Lagos,No,1361000
+7,40,MSc,13,Data Scientist,Lagos,Yes,1589000
+4,36,Diploma,12,Analyst,Jigawa,No,636000
+15,36,BSc,9,Data Scientist,Lagos,No,1527000
+6,28,Degree,8,Data Scientist,Remote,No,1304000
+14,53,MSc,1,Intern,Abuja,No,1140500
+2,33,Diploma,7,Developer,Kano,Yes,668500
+8,27,PhD,10,Engineer,Lagos,Yes,1447500
+5,36,Degree,9,Developer,Remote,No,1027000
+2,38,BSc,5,Intern,Kano,Yes,485000
+15,24,MSc,1,Developer,Remote,Yes,1523000
+1,51,Diploma,3,Manager,Jigawa,No,606500
+0,20,Hnd,13,Engineer,Jigawa,Yes,724000
+11,49,Diploma,8,Engineer,Kano,No,1051500
+1,48,BSc,3,Developer,Abuja,Yes,639000
+11,21,MSc,11,Developer,Kaduna,No,1205500
+5,36,PhD,13,Manager,Abuja,No,1369000
+7,32,MSc,3,Intern,Kano,Yes,879000
+7,24,Diploma,10,Engineer,Kaduna,Yes,955000
+14,24,Hnd,15,Analyst,Kano,Yes,1340000
+12,32,PhD,14,Engineer,Kaduna,No,1502000
+14,40,PhD,13,Engineer,Lagos,No,1684000
+6,55,BSc,3,Engineer,Remote,No,931500
+14,55,Degree,5,Data Scientist,Remote,No,1677500
+1,46,BSc,3,Data Scientist,Lagos,No,814000
+8,48,Hnd,6,Analyst,Remote,Yes,1148000
+9,48,BSc,12,Intern,Abuja,No,881000
+4,44,Hnd,14,Developer,Jigawa,Yes,942000
+11,20,Diploma,7,Analyst,Kano,Yes,981000
+2,54,MSc,9,Intern,Kaduna,Yes,807000
+7,44,Diploma,9,Data Scientist,Kano,No,1107000
+13,26,BSc,1,Engineer,Lagos,Yes,1158000
+2,51,Diploma,5,Data Scientist,Kaduna,Yes,937500
+14,45,PhD,4,Manager,Lagos,Yes,1784500
+14,41,MSc,7,Manager,Jigawa,No,1458500
+1,28,Diploma,11,Analyst,Jigawa,No,463000
+9,35,BSc,4,Analyst,Jigawa,Yes,834500
+3,49,Diploma,3,Analyst,Kaduna,Yes,611500
+8,53,Diploma,8,Engineer,Jigawa,Yes,1006500
+12,55,Diploma,2,Intern,Kano,No,803500
+11,29,Diploma,4,Analyst,Abuja,Yes,999500
+10,25,Degree,2,Developer,Jigawa,No,878500
+0,55,Hnd,1,Intern,Remote,No,495500
+0,44,Degree,14,Developer,Abuja,No,782000
+9,32,BSc,4,Engineer,Lagos,Yes,1047000
+14,41,Diploma,9,Manager,Kaduna,Yes,1424500
+11,37,Degree,3,Intern,Kano,No,851500
+5,39,Diploma,11,Analyst,Jigawa,No,670500
+4,41,Diploma,3,Data Scientist,Abuja,Yes,1026500
+7,27,Degree,10,Manager,Remote,Yes,1402500
+14,36,MSc,10,Analyst,Kaduna,Yes,1420000
+14,26,Degree,3,Engineer,Jigawa,No,1119000
+2,40,MSc,10,Manager,Kaduna,No,1000000
+9,23,Diploma,6,Engineer,Kaduna,No,850500
+6,43,BSc,13,Intern,Kaduna,No,691500
+9,36,Degree,5,Manager,Lagos,No,1205000
+11,48,MSc,10,Developer,Kaduna,Yes,1375000
+7,36,Diploma,12,Engineer,Abuja,No,961000
+15,36,Diploma,15,Intern,Kano,Yes,1245000
+8,41,MSc,10,Data Scientist,Kano,Yes,1502500
+9,26,PhD,1,Analyst,Abuja,No,1078000
+7,31,Degree,6,Manager,Lagos,No,1120500
+2,44,MSc,10,Analyst,Jigawa,No,750000
+13,38,Degree,10,Intern,Kaduna,No,1060000
+3,23,BSc,15,Manager,Kano,Yes,1002500
+1,24,PhD,11,Data Scientist,Kano,No,1173000
+2,33,PhD,14,Engineer,Kaduna,No,1054500
+12,30,PhD,2,Analyst,Lagos,Yes,1391000
+4,54,Degree,15,Intern,Kano,Yes,915000
+0,25,Degree,11,Data Scientist,Lagos,Yes,1100500
+7,25,Diploma,7,Manager,Jigawa,No,883500
+10,45,Degree,4,Analyst,Abuja,No,994500
+8,20,Hnd,8,Data Scientist,Kaduna,Yes,1254000
+14,31,PhD,14,Developer,Jigawa,No,1519500
+4,44,Diploma,2,Engineer,Lagos,Yes,816000
+11,30,Diploma,4,Engineer,Abuja,Yes,1102000
+0,20,Diploma,2,Analyst,Kano,Yes,396000
+8,21,BSc,1,Analyst,Lagos,Yes,820500
+6,28,PhD,13,Intern,Abuja,Yes,1184000
+7,36,Degree,1,Data Scientist,Abuja,Yes,1233000
+11,52,PhD,8,Developer,Abuja,Yes,1539000
+12,37,PhD,2,Analyst,Jigawa,No,1168500
+6,24,PhD,6,Engineer,Lagos,Yes,1278000
+11,41,PhD,6,Engineer,Remote,No,1525500
+3,36,Degree,14,Data Scientist,Kano,No,1117000
+11,34,Degree,15,Data Scientist,Jigawa,Yes,1570000
+4,30,Diploma,7,Manager,Lagos,Yes,1001000
+6,37,PhD,2,Data Scientist,Lagos,No,1348500
+10,44,Hnd,11,Data Scientist,Kaduna,No,1338000
+3,20,Diploma,6,Analyst,Kano,Yes,603000
+6,38,BSc,9,Intern,Jigawa,Yes,697000
+4,33,Degree,4,Developer,Abuja,No,754500
+15,22,BSc,7,Data Scientist,Kano,No,1376000
+14,25,Degree,10,Data Scientist,Remote,No,1692500
+9,28,PhD,2,Analyst,Remote,No,1231000
+7,36,BSc,7,Developer,Jigawa,Yes,861000
+7,28,Diploma,12,Developer,Jigawa,No,811000
+9,32,Hnd,2,Engineer,Jigawa,Yes,961000
+11,40,BSc,4,Data Scientist,Kaduna,No,1177000
+15,29,Diploma,15,Manager,Remote,No,1617500
+13,52,BSc,1,Intern,Abuja,Yes,993000
+2,33,Degree,15,Data Scientist,Jigawa,Yes,1162500
+1,40,MSc,6,Developer,Jigawa,No,683000
+10,52,Diploma,15,Analyst,Abuja,Yes,1210000
+13,49,PhD,15,Data Scientist,Abuja,Yes,2017500
+11,36,MSc,15,Intern,Abuja,Yes,1335000
+5,30,Hnd,13,Engineer,Kano,Yes,1014000
+14,40,BSc,2,Analyst,Jigawa,No,916000
+5,50,BSc,9,Intern,Jigawa,Yes,682000
+12,54,PhD,9,Data Scientist,Lagos,Yes,1907000
+4,49,Hnd,10,Intern,Lagos,Yes,842500
+11,34,PhD,13,Developer,Kaduna,No,1404000
+12,37,BSc,9,Engineer,Remote,No,1264500
+14,29,Degree,12,Analyst,Kaduna,No,1218500
+13,26,BSc,4,Data Scientist,Jigawa,Yes,1322000
+11,38,PhD,4,Intern,Kaduna,Yes,1212000
+14,40,MSc,9,Intern,Kaduna,No,1192000
+4,47,Degree,6,Intern,Kano,Yes,735500
+10,24,Degree,14,Developer,Abuja,Yes,1302000
+0,44,Diploma,13,Manager,Lagos,No,844000
+11,39,MSc,14,Engineer,Remote,No,1534500
+2,32,BSc,4,Developer,Jigawa,Yes,572000
+10,38,MSc,1,Developer,Kano,Yes,1153000
+11,27,BSc,10,Data Scientist,Jigawa,No,1222500
+14,40,BSc,7,Engineer,Jigawa,No,1106000
+13,27,MSc,10,Developer,Jigawa,No,1262500
+8,20,Diploma,12,Manager,Abuja,Yes,1216000
+3,25,MSc,6,Developer,Kaduna,Yes,885500
+10,54,Degree,12,Intern,Lagos,No,1091000
+12,29,Diploma,11,Engineer,Remote,No,1280500
+0,34,PhD,14,Intern,Kano,No,777000
+15,49,BSc,14,Developer,Abuja,No,1349500
+7,24,Hnd,15,Analyst,Kaduna,Yes,1015000
+5,41,Diploma,15,Developer,Abuja,Yes,1017500
+12,45,Hnd,15,Manager,Kaduna,No,1402500
+4,33,Hnd,14,Intern,Kaduna,No,664500
+5,37,Diploma,6,Intern,Remote,Yes,815500
+4,24,PhD,1,Analyst,Remote,No,978000
+11,46,BSc,15,Developer,Remote,Yes,1430000
+14,40,Diploma,3,Engineer,Jigawa,Yes,1154000
+12,44,BSc,15,Analyst,Jigawa,Yes,1190000
+13,50,PhD,3,Developer,Remote,Yes,1664000
+5,50,PhD,4,Manager,Kano,Yes,1312000
+13,37,PhD,11,Engineer,Kaduna,No,1505500
+6,31,MSc,2,Intern,Remote,Yes,993500
+6,47,Degree,10,Manager,Abuja,No,1157500
+0,41,Diploma,12,Analyst,Lagos,No,588500
+9,52,Hnd,6,Developer,Kano,Yes,1083000
+3,21,PhD,9,Analyst,Lagos,Yes,1089500
+5,24,Diploma,14,Intern,Kano,No,627000
+15,26,MSc,8,Intern,Abuja,No,1244000
+8,33,Diploma,12,Engineer,Remote,No,1128500
+9,27,Diploma,3,Engineer,Abuja,Yes,986500
+8,37,MSc,5,Engineer,Jigawa,Yes,1132500
+14,25,Degree,12,Manager,Jigawa,Yes,1528500
+1,45,Degree,6,Intern,Kaduna,Yes,585500
+12,32,MSc,3,Developer,Remote,No,1324000
+9,27,Diploma,9,Manager,Jigawa,Yes,1134500
+14,55,Hnd,7,Developer,Kaduna,Yes,1323500
+3,27,Hnd,7,Analyst,Remote,No,768500
+8,52,Hnd,14,Intern,Jigawa,No,862000
+15,23,MSc,3,Manager,Lagos,No,1506500
+9,24,Hnd,2,Engineer,Abuja,No,911000
+6,55,MSc,6,Analyst,Remote,No,1105500
+3,41,Diploma,5,Intern,Kano,No,417500
+8,24,Degree,15,Developer,Abuja,No,1110000
+11,23,Hnd,6,Engineer,Lagos,No,1100500
+11,50,Diploma,13,Intern,Remote,Yes,1244000
+3,34,PhD,12,Intern,Lagos,No,956000
+14,51,MSc,4,Analyst,Kano,No,1239500
+11,27,MSc,12,Engineer,Jigawa,No,1248500
+12,25,BSc,12,Developer,Jigawa,Yes,1148500
+2,22,PhD,1,Developer,Jigawa,Yes,843000
+5,38,Diploma,1,Intern,Jigawa,No,388000
+11,23,Diploma,9,Analyst,Jigawa,Yes,984500
+0,47,BSc,9,Analyst,Abuja,No,519500
+3,46,Degree,2,Analyst,Remote,Yes,896000
+0,35,BSc,8,Analyst,Jigawa,Yes,501500
+12,23,Hnd,11,Engineer,Lagos,No,1235500
+10,26,MSc,8,Data Scientist,Lagos,No,1479000
+5,24,Diploma,1,Data Scientist,Remote,Yes,1123000
+13,26,Degree,5,Developer,Lagos,Yes,1310000
+7,53,Diploma,15,Intern,Lagos,No,887500
+1,55,Degree,5,Intern,Remote,No,662500
+10,25,Hnd,7,Intern,Kaduna,No,788500
+7,54,PhD,6,Engineer,Kano,Yes,1318000
+6,50,Degree,3,Engineer,Jigawa,Yes,939000
+1,41,BSc,15,Data Scientist,Abuja,Yes,1107500
+1,29,PhD,13,Data Scientist,Abuja,Yes,1391500
+1,34,MSc,8,Engineer,Remote,Yes,1084000
+4,45,MSc,5,Data Scientist,Remote,Yes,1422500
+4,34,Hnd,7,Intern,Kano,Yes,671000
+8,41,MSc,6,Manager,Kano,No,1210500
+1,36,PhD,2,Manager,Kano,Yes,1061000
+11,49,Hnd,7,Data Scientist,Jigawa,No,1293500
+6,22,Diploma,14,Data Scientist,Remote,No,1277000
+6,53,PhD,6,Engineer,Jigawa,No,1110500
+5,21,PhD,14,Analyst,Remote,Yes,1369500
+3,40,Hnd,2,Manager,Jigawa,Yes,841000
+0,55,BSc,14,Intern,Kano,No,479500
+7,51,PhD,15,Data Scientist,Jigawa,Yes,1662500
+5,32,Degree,1,Manager,Remote,Yes,1163000
+6,53,PhD,9,Manager,Kaduna,No,1324500
+13,43,Diploma,13,Developer,Jigawa,No,1136500
+11,26,Diploma,8,Engineer,Kano,No,994000
+12,38,BSc,3,Analyst,Kano,No,879000
+12,23,Degree,3,Manager,Kano,Yes,1311500
+0,53,MSc,13,Data Scientist,Kaduna,Yes,1216500
+0,38,Diploma,7,Data Scientist,Abuja,Yes,911000
+2,45,PhD,6,Analyst,Abuja,Yes,1020500
+12,55,PhD,14,Engineer,Abuja,No,1619500
+14,54,MSc,5,Intern,Remote,Yes,1465000
+14,40,Hnd,2,Data Scientist,Kano,No,1356000
+8,27,Hnd,15,Intern,Abuja,Yes,1027500
+2,46,BSc,6,Manager,Kaduna,No,723000
+14,34,PhD,3,Intern,Abuja,Yes,1379000
+1,55,Degree,1,Manager,Abuja,No,790500
+12,49,Hnd,4,Intern,Kano,Yes,1014500
+3,26,Hnd,11,Developer,Kaduna,No,708000
+9,40,BSc,4,Manager,Kaduna,Yes,1107000
+11,51,Diploma,3,Analyst,Remote,Yes,1166500
+1,43,Diploma,12,Developer,Jigawa,No,578500
+9,52,Diploma,10,Engineer,Remote,No,1185000
+15,44,Hnd,11,Data Scientist,Lagos,Yes,1773000
+11,24,Diploma,15,Intern,Remote,No,1095000
+7,34,Hnd,12,Data Scientist,Remote,Yes,1506000
+6,40,Hnd,9,Engineer,Kano,No,892000
+8,43,MSc,8,Manager,Jigawa,No,1211500
+15,39,Hnd,15,Manager,Jigawa,No,1492500
+9,40,BSc,11,Intern,Kano,Yes,913000
+13,22,BSc,13,Analyst,Lagos,No,1144000
+13,52,PhD,11,Intern,Kano,Yes,1473000
+7,41,Degree,7,Analyst,Lagos,Yes,1053500
+3,30,Diploma,6,Analyst,Remote,Yes,808000
+3,36,MSc,15,Analyst,Lagos,Yes,1105000
+0,27,MSc,4,Intern,Kano,No,449500
+15,29,Hnd,12,Developer,Remote,Yes,1583500
+5,51,Degree,2,Analyst,Jigawa,No,658500
+13,23,BSc,4,Analyst,Abuja,No,954500
+15,43,Diploma,10,Intern,Lagos,Yes,1252500
+4,52,PhD,3,Analyst,Abuja,Yes,1074000
+8,54,Diploma,12,Developer,Lagos,No,1041000
+8,21,BSc,7,Analyst,Lagos,No,808500
+14,38,Degree,9,Engineer,Jigawa,Yes,1377000
+12,53,Diploma,10,Intern,Kaduna,No,932500
+6,55,Degree,13,Developer,Kaduna,Yes,1121500
+10,25,Hnd,8,Engineer,Remote,No,1196500
+13,21,Diploma,4,Analyst,Kano,No,899500
+14,22,Diploma,8,Intern,Lagos,Yes,1119000
+15,28,Diploma,1,Manager,Lagos,No,1263000
+1,53,Degree,5,Intern,Jigawa,Yes,557500
+12,38,Degree,4,Engineer,Kaduna,Yes,1227000
+4,45,BSc,10,Data Scientist,Lagos,No,1072500
+12,38,Hnd,8,Analyst,Lagos,No,1119000
+14,47,MSc,9,Engineer,Remote,No,1599500
+12,39,Diploma,1,Analyst,Kano,Yes,965500
+4,44,Hnd,1,Intern,Kaduna,Yes,578000
+8,45,BSc,10,Developer,Kano,Yes,1022500
+1,40,Degree,11,Data Scientist,Kano,Yes,1103000
+4,52,BSc,5,Engineer,Remote,Yes,990000
+9,50,Hnd,2,Analyst,Abuja,No,876000
+13,21,Diploma,3,Developer,Kaduna,Yes,1051500
+6,21,Diploma,13,Data Scientist,Remote,Yes,1376500
+5,28,Hnd,14,Engineer,Remote,Yes,1207000
+9,30,Degree,2,Engineer,Kaduna,No,916000
+6,45,BSc,1,Data Scientist,Kano,No,920500
+12,30,BSc,10,Developer,Kano,No,1045000
+4,30,Hnd,3,Analyst,Kano,Yes,689000
+6,46,BSc,10,Data Scientist,Remote,No,1265000
+7,20,Diploma,13,Engineer,Kaduna,Yes,999000
+3,36,Diploma,9,Manager,Lagos,Yes,1007000
+11,28,Hnd,13,Intern,Jigawa,Yes,1039000
+9,20,BSc,15,Analyst,Remote,Yes,1215000
+10,45,PhD,7,Data Scientist,Jigawa,No,1518500
+14,24,MSc,6,Intern,Kano,Yes,1228000
+8,32,MSc,13,Data Scientist,Kano,Yes,1534000
+14,28,PhD,12,Developer,Kaduna,No,1506000
+14,42,Diploma,2,Manager,Jigawa,Yes,1271000
+0,45,MSc,4,Manager,Kaduna,No,814500
+11,27,Diploma,13,Engineer,Kaduna,Yes,1196500
+5,36,MSc,7,Manager,Abuja,No,1131000
+12,44,Diploma,7,Manager,Kano,Yes,1316000
+15,41,BSc,5,Intern,Kano,No,957500
+1,26,PhD,13,Analyst,Remote,Yes,1184000
+10,53,Diploma,14,Intern,Jigawa,Yes,1004500
+10,51,Degree,4,Analyst,Abuja,Yes,1129500
+4,27,Degree,1,Engineer,Jigawa,No,635500
+5,25,Hnd,10,Developer,Kano,No,787500
+1,27,Degree,2,Engineer,Lagos,No,638500
+7,26,BSc,4,Developer,Remote,Yes,1002000
+15,52,PhD,14,Developer,Abuja,Yes,1827000
+11,21,Diploma,3,Engineer,Remote,Yes,1191500
+3,32,PhD,2,Engineer,Lagos,Yes,1091000
+5,39,Hnd,6,Engineer,Abuja,No,840500
+13,33,BSc,14,Engineer,Lagos,No,1289500
+9,42,PhD,13,Intern,Kaduna,No,1174000
+9,24,PhD,3,Intern,Kano,No,959000
+0,47,Hnd,5,Analyst,Kaduna,No,457500
+8,47,Degree,12,Data Scientist,Lagos,No,1413500
+11,23,BSc,11,Analyst,Abuja,Yes,1110500
+8,21,Hnd,15,Engineer,Lagos,No,1122500
+2,26,BSc,4,Analyst,Lagos,Yes,617000
+13,40,Degree,1,Analyst,Lagos,Yes,1213000
+1,39,Diploma,12,Analyst,Kaduna,Yes,658500
+15,22,Diploma,2,Engineer,Abuja,No,1106000
+10,34,BSc,8,Manager,Jigawa,Yes,1179000
+13,36,Hnd,3,Manager,Remote,No,1399000
+10,41,Diploma,7,Manager,Remote,Yes,1398500
+3,27,BSc,14,Data Scientist,Abuja,No,1024500
+2,23,BSc,5,Intern,Kaduna,Yes,437500
+7,34,Hnd,11,Intern,Kano,Yes,878000
+9,35,BSc,2,Analyst,Kano,No,718500
+6,43,Diploma,13,Manager,Abuja,Yes,1201500
+6,55,Degree,1,Engineer,Lagos,Yes,1035500
+3,44,MSc,15,Intern,Remote,No,1005000
+14,26,Degree,9,Manager,Jigawa,No,1357000
+3,21,PhD,14,Intern,Kaduna,Yes,989500
+5,52,Hnd,15,Engineer,Remote,Yes,1285000
+12,37,Degree,1,Intern,Lagos,No,940500
+14,28,PhD,3,Analyst,Kaduna,Yes,1404000
+11,55,BSc,6,Data Scientist,Remote,No,1440500
+6,47,BSc,9,Manager,Remote,No,1149500
+4,52,Hnd,6,Manager,Abuja,Yes,1078000
+8,20,Degree,1,Data Scientist,Abuja,Yes,1238000
+6,35,Diploma,15,Engineer,Kaduna,No,907500
+1,21,Degree,13,Data Scientist,Kano,Yes,1091500
+3,54,Degree,13,Manager,Abuja,No,1094000
+11,27,Hnd,11,Intern,Abuja,Yes,1090500
+15,45,Diploma,10,Engineer,Lagos,No,1337500
+0,38,BSc,2,Manager,Kano,Yes,671000
+8,46,Degree,4,Manager,Lagos,No,1167000
+0,35,MSc,14,Analyst,Kano,No,749500
+14,54,PhD,3,Manager,Kano,Yes,1709000
+2,26,MSc,14,Data Scientist,Kano,No,1147000
+14,32,BSc,14,Data Scientist,Kano,No,1482000
+10,27,Hnd,4,Developer,Kano,No,909500
+2,28,MSc,5,Manager,Kano,Yes,1010000
+5,37,Diploma,6,Intern,Kaduna,No,505500
+15,28,Diploma,1,Data Scientist,Kaduna,No,1273000
+12,41,Degree,13,Analyst,Abuja,No,1236500
+1,39,PhD,3,Analyst,Lagos,No,816500
+10,49,PhD,10,Intern,Kano,Yes,1312500
+14,32,MSc,11,Engineer,Jigawa,No,1378000
+14,27,BSc,15,Data Scientist,Jigawa,Yes,1567500
+11,42,BSc,10,Manager,Abuja,Yes,1370000
+9,37,PhD,1,Engineer,Lagos,Yes,1355500
+12,44,Hnd,6,Intern,Lagos,No,998000
+2,27,Diploma,6,Intern,Remote,Yes,655500
+9,21,Hnd,13,Developer,Remote,Yes,1311500
+5,37,Hnd,13,Analyst,Remote,Yes,1111500
+15,33,MSc,8,Intern,Kano,No,1211500
+3,38,BSc,7,Developer,Jigawa,Yes,686000
+7,29,PhD,9,Engineer,Kaduna,No,1179500
+12,36,PhD,13,Intern,Kaduna,Yes,1414000
+7,49,Hnd,9,Intern,Lagos,No,839500
+2,38,Degree,8,Manager,Jigawa,Yes,949000
+5,49,Hnd,10,Engineer,Abuja,No,937500
+13,34,MSc,9,Developer,Kano,No,1302000
+6,41,Diploma,14,Manager,Remote,Yes,1344500
+10,28,Diploma,2,Data Scientist,Remote,Yes,1376000
+3,44,BSc,1,Manager,Remote,No,863000
+4,44,Hnd,4,Engineer,Kano,No,722000
+10,55,PhD,2,Manager,Lagos,Yes,1593500
+6,21,PhD,3,Developer,Remote,No,1156500
+6,41,BSc,12,Engineer,Kaduna,No,868500
+13,48,Hnd,6,Analyst,Remote,No,1253000
+12,28,PhD,6,Developer,Remote,No,1498000
+1,29,BSc,9,Analyst,Lagos,Yes,669500
+12,50,Diploma,14,Data Scientist,Remote,Yes,1737000
+1,24,PhD,5,Developer,Jigawa,Yes,875000
+11,42,PhD,12,Intern,Jigawa,No,1216000
+2,49,PhD,3,Engineer,Kano,No,906500
+14,46,MSc,9,Developer,Abuja,Yes,1547000
+3,29,BSc,7,Developer,Remote,No,763500
+7,41,PhD,6,Analyst,Kano,No,1065500
+9,55,Diploma,11,Intern,Lagos,Yes,1030500
+5,28,PhD,13,Developer,Kano,Yes,1249000
+5,37,MSc,6,Analyst,Jigawa,No,795500
+2,25,Degree,5,Engineer,Jigawa,Yes,732500
+15,42,Degree,1,Analyst,Jigawa,No,1068000
+0,38,Degree,5,Engineer,Kaduna,Yes,705000
+13,54,MSc,9,Developer,Remote,Yes,1652000
+2,44,MSc,8,Analyst,Abuja,Yes,924000
+0,39,MSc,2,Manager,Kano,Yes,893500
+5,52,Diploma,1,Data Scientist,Kano,Yes,1013000
+5,44,BSc,12,Developer,Jigawa,No,761000
+10,33,Diploma,12,Analyst,Lagos,Yes,1138500
+7,36,MSc,1,Engineer,Jigawa,No,893000
+10,30,Diploma,1,Analyst,Kaduna,No,723000
+10,22,Degree,12,Intern,Kano,Yes,1051000
+1,54,Diploma,9,Engineer,Lagos,Yes,832000
+10,34,Diploma,1,Data Scientist,Jigawa,No,1033000
+9,50,Hnd,5,Manager,Remote,Yes,1410000
+0,21,Hnd,7,Intern,Kaduna,Yes,448500
+14,44,PhD,4,Developer,Kaduna,No,1402000
+15,54,Hnd,6,Manager,Abuja,No,1458000
+0,44,Diploma,14,Intern,Lagos,No,532000
+0,46,BSc,8,Analyst,Lagos,No,529000
+4,31,Hnd,15,Manager,Lagos,No,1097500
+1,45,BSc,14,Analyst,Jigawa,Yes,679500
+9,34,PhD,12,Manager,Kaduna,No,1466000
+12,55,PhD,6,Developer,Kaduna,Yes,1495500
+8,37,MSc,2,Intern,Lagos,Yes,998500
+8,52,Diploma,4,Manager,Abuja,Yes,1152000
+8,31,MSc,2,Intern,Jigawa,Yes,863500
+8,45,Hnd,6,Engineer,Lagos,Yes,1140500
+1,48,BSc,7,Analyst,Kaduna,Yes,591000
+3,22,MSc,12,Data Scientist,Jigawa,Yes,1226000
+14,23,MSc,15,Engineer,Kaduna,Yes,1577500
+2,20,PhD,7,Engineer,Lagos,No,986000
+12,32,MSc,13,Engineer,Kaduna,Yes,1474000
+8,49,BSc,10,Analyst,Remote,No,1032500
+9,35,Hnd,2,Developer,Kano,No,848500
+1,28,Degree,8,Engineer,Remote,No,849000
+12,26,PhD,10,Manager,Lagos,No,1635000
+9,49,MSc,9,Data Scientist,Kano,No,1429500
+1,43,Hnd,1,Developer,Remote,No,670500
+9,45,PhD,15,Data Scientist,Kano,Yes,1777500
+15,20,Degree,9,Manager,Lagos,No,1507000
+4,41,PhD,15,Intern,Lagos,Yes,1192500
+6,34,Diploma,5,Engineer,Abuja,Yes,905000
+7,51,BSc,14,Engineer,Kaduna,No,974500
+14,31,Hnd,4,Manager,Kano,Yes,1389500
+6,21,Diploma,12,Data Scientist,Jigawa,No,1018500
+9,52,MSc,12,Analyst,Kano,No,1161000
+3,36,BSc,7,Engineer,Kano,No,641000
+0,23,Diploma,15,Analyst,Lagos,No,597500
+14,28,BSc,15,Intern,Kaduna,Yes,1170000
+10,42,Hnd,12,Engineer,Kaduna,No,1121000
+8,47,BSc,4,Manager,Kano,No,969500
+6,27,MSc,8,Data Scientist,Remote,Yes,1521500
+11,54,Diploma,8,Analyst,Lagos,No,1044000
+7,47,Degree,13,Developer,Lagos,Yes,1236500
+8,51,Hnd,5,Data Scientist,Kaduna,Yes,1277500
+11,40,PhD,9,Developer,Remote,Yes,1657000
+0,27,BSc,2,Manager,Kano,Yes,643500
+5,31,BSc,4,Intern,Lagos,No,544500
+15,55,Diploma,1,Manager,Abuja,Yes,1420500
+1,31,MSc,13,Data Scientist,Kano,Yes,1216500
+0,30,Diploma,9,Engineer,Jigawa,Yes,607000
+1,37,Diploma,7,Data Scientist,Jigawa,No,743500
+7,37,Hnd,15,Developer,Abuja,No,1047500
+4,26,Hnd,3,Engineer,Kano,Yes,779000
+1,27,Diploma,6,Manager,Kaduna,No,630500
+11,52,Degree,14,Manager,Jigawa,Yes,1497000
+12,33,Degree,2,Data Scientist,Kano,Yes,1418500
+11,37,BSc,4,Engineer,Remote,No,1129500
+0,43,Degree,14,Manager,Kaduna,No,889500
+3,55,Degree,12,Developer,Kaduna,No,848500
+6,28,PhD,2,Analyst,Remote,No,1096000
+14,47,MSc,15,Data Scientist,Remote,No,1937500
+7,46,PhD,4,Engineer,Jigawa,Yes,1222000
+4,55,Hnd,3,Data Scientist,Abuja,Yes,1131500
+9,20,BSc,11,Engineer,Lagos,No,1023000
+2,34,BSc,13,Manager,Kano,No,829000
+7,49,Diploma,10,Developer,Kano,Yes,987500
+14,39,BSc,3,Data Scientist,Lagos,Yes,1501500
+8,33,Hnd,10,Intern,Kaduna,No,772500
+2,47,MSc,3,Intern,Remote,No,751500
+2,25,Diploma,12,Data Scientist,Lagos,Yes,1088500
+3,43,Hnd,13,Data Scientist,Abuja,Yes,1236500
+15,54,Hnd,14,Developer,Jigawa,Yes,1462000
+7,50,BSc,9,Manager,Kaduna,Yes,1132000
+11,43,Degree,10,Intern,Jigawa,Yes,1072500
+9,54,PhD,3,Developer,Remote,No,1374000
+12,52,Degree,15,Developer,Remote,Yes,1610000
+9,47,Diploma,10,Engineer,Kano,Yes,1112500
+12,48,MSc,14,Engineer,Kaduna,Yes,1532000
+13,46,Diploma,4,Developer,Jigawa,Yes,1102000
+15,49,MSc,1,Analyst,Lagos,No,1305500
+10,45,Hnd,2,Data Scientist,Kano,Yes,1308500
+3,49,PhD,14,Manager,Abuja,No,1329500
+15,35,BSc,4,Manager,Abuja,Yes,1424500
+5,22,Diploma,7,Data Scientist,Abuja,No,976000
+7,55,Diploma,13,Data Scientist,Kaduna,Yes,1316500
+3,23,Diploma,4,Intern,Remote,No,534500
+0,35,BSc,2,Data Scientist,Kaduna,No,633500
+12,42,Hnd,8,Analyst,Lagos,No,1129000
+11,50,Degree,10,Engineer,Kano,Yes,1330000
+6,53,Degree,3,Analyst,Lagos,No,846500
+2,28,Diploma,13,Data Scientist,Lagos,No,994000
+13,24,Diploma,4,Developer,Jigawa,Yes,1047000
+3,29,Hnd,1,Developer,Kano,No,545500
+4,37,Hnd,6,Engineer,Jigawa,No,700500
+13,34,Hnd,3,Engineer,Jigawa,Yes,1164000
+11,34,Diploma,4,Developer,Lagos,Yes,1102000
+11,54,Degree,12,Analyst,Abuja,Yes,1326000
+15,28,BSc,5,Intern,Jigawa,No,885000
+3,42,PhD,14,Manager,Abuja,No,1312000
+5,38,BSc,10,Intern,Abuja,Yes,760000
+10,53,MSc,9,Developer,Jigawa,No,1174500
+4,48,MSc,4,Intern,Kaduna,Yes,792000
+14,31,Diploma,6,Developer,Lagos,Yes,1265500
+12,23,Hnd,13,Engineer,Remote,Yes,1491500
+13,24,Hnd,4,Developer,Jigawa,No,997000
+14,46,Diploma,6,Developer,Jigawa,No,1063000
+13,34,Diploma,6,Intern,Abuja,Yes,1038000
+5,48,Degree,3,Data Scientist,Kaduna,Yes,1149000
+14,30,BSc,15,Data Scientist,Jigawa,No,1455000
+3,45,PhD,9,Developer,Lagos,No,1089500
+13,20,Degree,8,Analyst,Lagos,Yes,1289000
+2,37,MSc,5,Analyst,Jigawa,Yes,762500
+15,33,PhD,15,Developer,Kaduna,No,1617500
+14,31,BSc,11,Data Scientist,Jigawa,Yes,1505500
+3,54,Hnd,9,Data Scientist,Abuja,No,1072000
+5,36,Hnd,2,Analyst,Lagos,Yes,811000
+7,50,MSc,15,Analyst,Kano,Yes,1240000
+2,47,Hnd,5,Engineer,Remote,No,837500
+10,48,BSc,8,Analyst,Kaduna,No,894000
+12,36,Hnd,10,Manager,Jigawa,No,1260000
+1,43,PhD,12,Developer,Abuja,No,1018500
+3,46,BSc,7,Engineer,Remote,Yes,966000
+4,46,Degree,8,Analyst,Lagos,Yes,949000
+15,27,Degree,14,Developer,Jigawa,Yes,1444500
+5,42,Diploma,10,Data Scientist,Abuja,No,1080000
+14,39,BSc,2,Analyst,Jigawa,Yes,1033500
+12,48,Diploma,8,Analyst,Remote,Yes,1294000
+12,26,Degree,2,Manager,Abuja,No,1231000
+9,36,BSc,10,Data Scientist,Kaduna,Yes,1305000
+1,23,Hnd,11,Data Scientist,Lagos,Yes,1090500
+9,48,BSc,4,Developer,Kano,No,847000
+6,33,Diploma,13,Engineer,Lagos,Yes,1076500
+3,50,MSc,10,Engineer,Kaduna,Yes,1060000
+5,42,MSc,3,Intern,Remote,No,874000
+2,39,BSc,2,Engineer,Jigawa,No,473500
+1,28,BSc,3,Analyst,Remote,No,539000
+11,26,BSc,10,Data Scientist,Lagos,No,1340000
+9,51,Diploma,8,Intern,Lagos,No,846500
+8,40,Hnd,12,Analyst,Remote,No,1116000
+12,33,PhD,6,Developer,Jigawa,Yes,1410500
+11,28,MSc,12,Analyst,Remote,No,1371000
+9,47,PhD,1,Manager,Kaduna,No,1300500
+2,50,Degree,6,Intern,Jigawa,Yes,613000
+2,29,BSc,14,Intern,Kaduna,Yes,614500
+12,38,Hnd,13,Data Scientist,Abuja,No,1509000
+13,27,PhD,15,Manager,Kano,No,1692500
+12,42,BSc,6,Manager,Remote,No,1353000
+3,49,Diploma,6,Analyst,Abuja,Yes,725500
+5,39,Diploma,8,Manager,Kaduna,Yes,996500
+11,27,PhD,15,Intern,Jigawa,No,1232500
+8,49,MSc,15,Data Scientist,Abuja,No,1542500
+14,51,Diploma,1,Data Scientist,Abuja,Yes,1465500
+15,48,PhD,5,Data Scientist,Jigawa,No,1715000
+0,37,PhD,4,Developer,Kano,No,764500
+2,43,Hnd,1,Data Scientist,Kaduna,No,795500
+4,46,BSc,2,Analyst,Abuja,No,571000
+0,29,Hnd,11,Data Scientist,Remote,No,1040500
+4,26,MSc,2,Engineer,Kano,No,791000
+2,53,Diploma,9,Intern,Kaduna,No,464500
+1,49,MSc,15,Developer,Remote,No,1087500
+9,24,BSc,6,Data Scientist,Jigawa,No,1053000
+11,32,PhD,12,Intern,Kaduna,No,1221000
+11,55,Degree,3,Data Scientist,Kaduna,No,1316500
+5,30,BSc,12,Developer,Abuja,No,816000
+0,20,Degree,7,Data Scientist,Abuja,Yes,986000
+2,34,Diploma,2,Manager,Remote,No,811000
+10,34,MSc,9,Analyst,Remote,No,1287000
+6,39,Hnd,8,Manager,Kano,Yes,1121500
+0,38,Diploma,15,Engineer,Remote,Yes,955000
+5,54,PhD,9,Analyst,Jigawa,No,1022000
+9,29,Hnd,6,Developer,Jigawa,No,865500
+8,21,BSc,6,Engineer,Lagos,No,890500
+3,29,MSc,9,Analyst,Remote,No,959500
+13,37,BSc,8,Intern,Lagos,No,991500
+1,47,BSc,5,Intern,Abuja,No,392500
+13,33,BSc,14,Manager,Jigawa,Yes,1419500
+14,47,BSc,11,Data Scientist,Kaduna,Yes,1575500
+13,49,Diploma,8,Intern,Abuja,Yes,1111500
+6,21,Hnd,9,Engineer,Remote,No,1024500
+15,32,Hnd,13,Intern,Kaduna,Yes,1259000
+3,52,Degree,1,Engineer,Lagos,No,773000
+12,31,MSc,6,Analyst,Abuja,Yes,1305500
+1,27,Diploma,6,Analyst,Kaduna,Yes,520500
+2,40,Diploma,6,Intern,Jigawa,No,348000
+15,31,Diploma,3,Manager,Kano,Yes,1346500
+0,52,Hnd,1,Developer,Abuja,No,518000
+13,38,MSc,1,Engineer,Kano,Yes,1328000
+7,30,Degree,14,Intern,Abuja,Yes,1022000
+11,50,PhD,4,Engineer,Kaduna,Yes,1442000
+12,38,BSc,15,Developer,Remote,No,1335000
+0,54,Hnd,8,Analyst,Lagos,No,619000
+6,55,PhD,4,Engineer,Kaduna,No,1109500
+15,31,Diploma,14,Analyst,Abuja,Yes,1364500
+7,55,MSc,9,Developer,Lagos,Yes,1284500
+6,41,Hnd,1,Developer,Kano,Yes,830500
+8,23,Diploma,15,Engineer,Jigawa,Yes,1057500
+14,48,MSc,8,Developer,Kano,Yes,1484000
+11,54,BSc,5,Manager,Abuja,Yes,1310000
+1,49,Degree,10,Developer,Abuja,Yes,887500
+6,50,BSc,14,Manager,Kano,Yes,1187000
+11,30,BSc,1,Intern,Lagos,No,758000
+10,21,BSc,2,Engineer,Jigawa,Yes,908500
+12,45,BSc,5,Manager,Abuja,No,1212500
+12,41,Degree,12,Manager,Kaduna,Yes,1508500
+4,34,PhD,6,Data Scientist,Remote,Yes,1543000
+1,32,MSc,13,Analyst,Lagos,No,849000
+14,29,Degree,13,Manager,Kaduna,No,1466500
+11,46,Diploma,5,Data Scientist,Kano,Yes,1340000
+6,35,PhD,6,Developer,Lagos,Yes,1265500
+0,43,MSc,7,Intern,Jigawa,Yes,623500
+0,31,BSc,12,Data Scientist,Jigawa,Yes,893500
+11,53,Diploma,10,Intern,Remote,Yes,1197500
+15,26,PhD,14,Analyst,Abuja,Yes,1702000
+2,43,Diploma,13,Analyst,Kaduna,Yes,731500
+13,54,PhD,1,Developer,Kaduna,No,1328000
+12,52,BSc,8,Manager,Abuja,No,1284000
+15,30,Diploma,13,Developer,Remote,No,1414000
+4,53,Degree,2,Intern,Kaduna,Yes,668500
+1,42,Degree,3,Intern,Jigawa,Yes,494000
+0,40,Degree,7,Developer,Jigawa,Yes,676000
+12,48,MSc,13,Manager,Jigawa,Yes,1614000
+3,48,BSc,15,Data Scientist,Abuja,No,1095000
+6,41,PhD,6,Intern,Remote,No,1100500
+8,33,BSc,8,Engineer,Lagos,No,956500
+3,33,Diploma,2,Analyst,Remote,Yes,743500
+5,27,Hnd,6,Engineer,Kaduna,No,750500
+0,44,PhD,9,Analyst,Jigawa,No,772000
+7,47,Degree,12,Engineer,Kano,No,1058500
+10,40,BSc,8,Analyst,Jigawa,No,844000
+9,29,Diploma,2,Manager,Kano,No,933500
+2,32,Degree,14,Data Scientist,Abuja,No,1112000
+6,43,PhD,1,Intern,Jigawa,Yes,915500
+4,36,Hnd,8,Intern,Kaduna,No,564000
+2,29,MSc,3,Data Scientist,Kano,Yes,1076500
+12,42,MSc,1,Data Scientist,Lagos,Yes,1603000
+0,26,Hnd,9,Manager,Lagos,No,797000
+2,25,Hnd,13,Developer,Kaduna,Yes,816500
+5,30,BSc,7,Manager,Kaduna,Yes,956000
+10,20,Degree,5,Data Scientist,Kaduna,Yes,1340000
+2,23,Diploma,4,Intern,Lagos,No,389500
+14,32,MSc,13,Manager,Jigawa,Yes,1664000
+1,27,PhD,10,Engineer,Jigawa,No,892500
+15,43,PhD,1,Developer,Jigawa,Yes,1480500
+8,30,MSc,7,Data Scientist,Lagos,No,1381000
+13,50,PhD,12,Manager,Lagos,No,1776000
+2,28,MSc,3,Data Scientist,Kano,Yes,1074000
+5,28,MSc,13,Analyst,Abuja,No,989000
+4,43,Hnd,10,Manager,Lagos,No,1037500
+14,53,MSc,4,Intern,Kaduna,No,1134500
+5,42,MSc,4,Developer,Abuja,No,922000
+10,45,Hnd,11,Analyst,Jigawa,Yes,1100500
+0,37,PhD,8,Analyst,Kaduna,Yes,886500
+13,36,Degree,4,Manager,Kaduna,Yes,1397000
+1,48,MSc,6,Analyst,Kano,No,683000
+9,22,BSc,11,Data Scientist,Kano,No,1178000
+11,33,BSc,9,Manager,Abuja,No,1209500
+8,22,Diploma,2,Manager,Lagos,Yes,1071000
+7,39,PhD,13,Manager,Lagos,No,1496500
+11,37,Diploma,12,Data Scientist,Lagos,Yes,1523500
+8,37,Hnd,10,Developer,Kaduna,No,942500
+14,52,Hnd,14,Manager,Lagos,Yes,1702000
+10,24,MSc,15,Intern,Kaduna,Yes,1200000
+12,55,MSc,2,Developer,Kano,No,1183500
+4,29,BSc,3,Manager,Kano,Yes,846500
+6,42,Diploma,12,Developer,Remote,Yes,1141000
+3,31,BSc,5,Analyst,Abuja,Yes,662500
+1,37,PhD,15,Intern,Lagos,No,927500
+7,50,PhD,2,Intern,Kaduna,Yes,1026000
+12,36,Degree,15,Analyst,Kaduna,Yes,1320000
+2,24,Diploma,1,Manager,Kano,Yes,708000
+5,39,Degree,10,Manager,Abuja,Yes,1212500
+13,32,BSc,8,Engineer,Kaduna,No,1089000
+1,41,Diploma,2,Data Scientist,Lagos,Yes,903500
+10,38,Diploma,2,Manager,Lagos,Yes,1201000
+5,48,Diploma,4,Analyst,Kano,No,607000
+2,30,Degree,1,Data Scientist,Kaduna,No,813000
+10,44,Degree,2,Data Scientist,Kano,No,1236000
+11,22,Degree,12,Data Scientist,Lagos,No,1486000
+8,38,PhD,11,Engineer,Kano,Yes,1413000
+3,22,Hnd,5,Manager,Kano,No,770000
+13,31,MSc,4,Developer,Kano,No,1204500
+14,34,Diploma,5,Analyst,Remote,No,1175000
+11,32,MSc,4,Data Scientist,Remote,Yes,1687000
+5,54,MSc,4,Analyst,Jigawa,Yes,922000
+14,45,Diploma,4,Data Scientist,Kaduna,Yes,1444500
+10,45,MSc,1,Developer,Kano,No,1050500
+11,21,MSc,4,Manager,Lagos,Yes,1459500
+4,30,Degree,13,Engineer,Lagos,Yes,1099000
+10,46,Diploma,11,Manager,Lagos,No,1263000
+13,26,Degree,9,Engineer,Abuja,No,1272000
+5,25,Hnd,13,Analyst,Kaduna,Yes,891500
+13,41,Degree,10,Manager,Kaduna,No,1397500
+1,29,PhD,3,Analyst,Abuja,Yes,881500
+6,50,Degree,9,Developer,Abuja,Yes,1097000
+0,40,MSc,2,Data Scientist,Abuja,Yes,1046000
+3,42,Degree,14,Analyst,Abuja,Yes,972000
+2,44,PhD,8,Analyst,Remote,Yes,1184000
+5,49,Diploma,9,Analyst,Abuja,Yes,869500
+5,51,BSc,15,Manager,Jigawa,Yes,1122500
+1,31,Hnd,14,Developer,Lagos,Yes,894500
+7,26,PhD,13,Data Scientist,Jigawa,No,1444000
+12,25,Hnd,13,Intern,Abuja,No,1046500
+9,47,BSc,6,Data Scientist,Jigawa,No,1110500
+12,24,Diploma,5,Manager,Jigawa,No,1070000
+12,54,MSc,1,Manager,Remote,No,1513000
+0,22,BSc,6,Developer,Abuja,Yes,583000
+14,39,MSc,5,Manager,Jigawa,No,1417500
+10,55,Hnd,9,Developer,Remote,No,1249500
+12,32,Diploma,7,Analyst,Remote,No,1116000
+6,47,BSc,8,Developer,Kaduna,No,771500
+12,46,Diploma,12,Intern,Jigawa,No,921000
+5,33,Diploma,5,Analyst,Remote,No,767500
+15,29,MSc,15,Engineer,Remote,No,1707500
+14,29,MSc,5,Engineer,Kano,No,1302500
+12,53,Diploma,15,Manager,Remote,No,1542500
+11,41,Hnd,3,Developer,Remote,No,1151500
+5,22,Degree,6,Analyst,Remote,Yes,998000
+1,33,BSc,9,Engineer,Kaduna,Yes,689500
+1,49,MSc,8,Intern,Abuja,Yes,791500
+10,31,PhD,11,Analyst,Kano,Yes,1385500
+13,25,BSc,1,Analyst,Lagos,No,935500
+8,29,Diploma,6,Engineer,Kano,No,830500
+9,20,Degree,5,Developer,Remote,No,1095000
+8,45,Diploma,9,Intern,Lagos,Yes,924500
+12,55,MSc,3,Engineer,Lagos,No,1321500
+7,23,Hnd,11,Analyst,Kaduna,Yes,940500
+13,47,Diploma,7,Developer,Remote,No,1258500
+3,23,Diploma,4,Engineer,Remote,Yes,854500
+13,40,Diploma,7,Engineer,Kano,Yes,1221000
+5,21,PhD,5,Engineer,Kaduna,Yes,1117500
+12,47,PhD,10,Intern,Kaduna,Yes,1387500
+13,22,Hnd,13,Manager,Jigawa,Yes,1444000
+3,53,Hnd,14,Analyst,Kano,Yes,899500
+10,30,BSc,3,Engineer,Abuja,No,919000
+2,54,MSc,8,Intern,Kaduna,No,669000
+12,38,Diploma,15,Intern,Jigawa,No,955000
+13,28,Hnd,5,Intern,Abuja,No,955000
+5,23,Degree,2,Engineer,Remote,No,908500
+11,46,PhD,4,Data Scientist,Abuja,No,1602000
+11,54,Hnd,2,Intern,Remote,No,1006000
+15,23,PhD,9,Analyst,Remote,No,1614500
+7,39,Hnd,13,Engineer,Lagos,No,1086500
+12,53,MSc,9,Analyst,Kaduna,Yes,1354500
+1,42,Degree,13,Analyst,Jigawa,Yes,774000
+4,53,Hnd,3,Developer,Kaduna,Yes,796500
+12,50,Diploma,8,Data Scientist,Kaduna,Yes,1439000
+2,51,BSc,2,Data Scientist,Kano,No,773500
+11,26,MSc,8,Data Scientist,Remote,No,1624000
+9,52,MSc,11,Intern,Lagos,Yes,1243000
+13,23,BSc,6,Analyst,Lagos,No,1020500
+9,29,BSc,8,Analyst,Jigawa,No,771500
+10,31,MSc,5,Intern,Abuja,No,977500
+3,28,Diploma,13,Analyst,Kaduna,Yes,739000
+13,20,BSc,10,Analyst,Kano,Yes,1125000
+4,29,MSc,8,Manager,Remote,No,1216500
+13,36,Degree,1,Developer,Lagos,No,1143000
+5,50,MSc,13,Intern,Lagos,Yes,1094000
+2,32,PhD,10,Manager,Kaduna,No,1110000
+6,43,Diploma,10,Engineer,Jigawa,No,807500
+11,39,MSc,4,Intern,Jigawa,Yes,1054500
+13,24,PhD,4,Manager,Kaduna,No,1477000
+9,27,MSc,9,Developer,Kaduna,No,1094500
+8,55,PhD,6,Developer,Kano,Yes,1325500
+0,55,Diploma,5,Developer,Kaduna,No,467500
+15,36,Hnd,12,Intern,Remote,Yes,1441000
+13,43,Diploma,5,Data Scientist,Remote,Yes,1602500
+0,27,PhD,9,Manager,Jigawa,Yes,1079500
+2,25,Diploma,13,Analyst,Abuja,No,626500
+4,27,Diploma,1,Manager,Kaduna,Yes,795500
+13,50,MSc,14,Manager,Kaduna,Yes,1712000
+12,49,Degree,8,Engineer,Jigawa,No,1176500
+15,44,PhD,8,Manager,Remote,No,1879000
+1,50,Diploma,2,Developer,Kano,No,456000
+12,35,MSc,10,Manager,Abuja,Yes,1617500
+8,37,Hnd,1,Analyst,Lagos,Yes,930500
+3,54,Degree,12,Manager,Abuja,No,1076000
+7,30,BSc,6,Engineer,Abuja,No,838000
+7,28,Degree,7,Intern,Lagos,No,801000
+9,26,Diploma,2,Analyst,Kano,No,696000
+8,34,BSc,10,Developer,Remote,No,1055000
+13,46,Degree,4,Engineer,Abuja,Yes,1352000
+0,51,BSc,9,Developer,Remote,Yes,839500
+9,24,Diploma,4,Analyst,Kaduna,No,717000
+11,36,Diploma,10,Manager,Lagos,Yes,1385000
+5,21,Diploma,5,Developer,Jigawa,No,577500
+11,35,Hnd,14,Intern,Kaduna,No,984500
+13,44,Diploma,11,Engineer,Jigawa,No,1143000
+0,22,PhD,13,Analyst,Lagos,Yes,1029000
+0,36,BSc,11,Engineer,Jigawa,No,538000
+1,49,Degree,6,Engineer,Lagos,Yes,885500
+13,53,Degree,6,Developer,Jigawa,Yes,1275500
+15,21,Hnd,3,Developer,Kaduna,Yes,1211500
+5,21,Degree,11,Engineer,Jigawa,No,845500
+0,51,Diploma,3,Intern,Kaduna,No,261500
+2,30,PhD,5,Manager,Jigawa,Yes,1105000
+13,55,Diploma,6,Analyst,Jigawa,No,980500
+12,39,PhD,1,Analyst,Abuja,Yes,1365500
+3,35,MSc,9,Developer,Jigawa,Yes,934500
+9,20,BSc,11,Data Scientist,Lagos,Yes,1373000
+11,48,BSc,8,Data Scientist,Kano,Yes,1399000
+10,23,Degree,15,Developer,Abuja,Yes,1317500
+10,51,Degree,2,Manager,Kano,Yes,1273500
+1,23,PhD,4,Analyst,Remote,No,894500
+6,26,BSc,6,Intern,Abuja,Yes,703000
+6,40,Hnd,4,Intern,Lagos,No,682000
+5,22,Degree,14,Manager,Abuja,No,1122000
+6,45,MSc,6,Engineer,Remote,No,1180500
+6,31,BSc,11,Engineer,Kaduna,Yes,945500
+1,29,MSc,4,Engineer,Jigawa,Yes,779500
+4,32,Hnd,5,Intern,Remote,Yes,810000
+0,55,BSc,6,Engineer,Kaduna,Yes,645500
+9,41,PhD,13,Intern,Abuja,Yes,1351500
+6,48,Degree,6,Manager,Jigawa,No,998000
+1,20,BSc,13,Analyst,Abuja,No,569000
+1,35,BSc,7,Developer,Remote,Yes,808500
+14,25,Diploma,4,Intern,Remote,No,1034500
+3,55,MSc,13,Manager,Remote,Yes,1446500
+1,22,Degree,10,Analyst,Abuja,No,640000
+11,33,Degree,13,Intern,Lagos,No,1101500
+13,45,PhD,5,Analyst,Remote,No,1507500
+1,24,Degree,15,Analyst,Remote,Yes,985000
+0,54,BSc,10,Data Scientist,Remote,Yes,1135000
+8,43,Diploma,9,Data Scientist,Kaduna,No,1139500
+4,50,BSc,12,Intern,Lagos,Yes,811000
+12,30,Diploma,12,Analyst,Kaduna,No,1011000
+9,33,Hnd,10,Engineer,Kaduna,No,1017500
+4,35,PhD,14,Analyst,Jigawa,Yes,1139500
+11,50,Degree,10,Analyst,Kaduna,No,1100000
+2,50,Hnd,14,Data Scientist,Abuja,No,1107000
+1,40,MSc,14,Developer,Remote,No,1047000
+4,28,Degree,11,Data Scientist,Jigawa,No,1048000
+14,37,BSc,5,Data Scientist,Kano,Yes,1452500
+9,45,PhD,9,Analyst,Kaduna,Yes,1329500
+14,47,BSc,4,Engineer,Jigawa,No,1069500
+13,45,Hnd,4,Intern,Lagos,Yes,1129500
+9,46,Diploma,7,Manager,Kano,Yes,1186000
+8,25,PhD,6,Manager,Kano,No,1300500
+7,40,Hnd,3,Developer,Kano,No,789000
+3,41,BSc,13,Engineer,Kano,Yes,881500
+8,21,MSc,14,Intern,Lagos,No,1054500
+12,50,Hnd,13,Engineer,Kaduna,No,1249000
+6,52,Degree,13,Analyst,Kaduna,Yes,1054000
+8,22,MSc,9,Data Scientist,Kano,No,1317000
+10,33,BSc,5,Engineer,Jigawa,No,872500
+0,43,Hnd,15,Intern,Abuja,Yes,707500
+3,47,Degree,14,Developer,Abuja,No,924500
+6,43,Diploma,1,Data Scientist,Kaduna,No,905500
+12,33,MSc,11,Manager,Abuja,Yes,1630500
+2,26,MSc,3,Data Scientist,Kaduna,Yes,1059000
+6,32,BSc,8,Manager,Kano,Yes,1034000
+9,28,BSc,7,Manager,Remote,No,1201000
+13,23,PhD,14,Developer,Kaduna,No,1484500
+13,23,MSc,15,Manager,Jigawa,No,1512500
+10,54,Diploma,3,Manager,Kaduna,No,1049000
+5,51,Hnd,6,Intern,Kano,No,620500
+0,39,PhD,4,Developer,Remote,Yes,1069500
+14,42,MSc,1,Analyst,Remote,No,1343000
+3,22,MSc,15,Manager,Jigawa,No,1060000
+3,22,Diploma,1,Intern,Remote,No,478000
+10,30,Degree,14,Analyst,Kano,Yes,1207000
+4,29,Diploma,1,Data Scientist,Remote,Yes,1090500
+12,32,PhD,2,Analyst,Kaduna,No,1186000
+4,53,Diploma,7,Analyst,Remote,No,808500
+8,41,MSc,3,Manager,Kaduna,No,1146500
+9,30,Hnd,1,Manager,Lagos,No,1068000
+5,32,BSc,7,Data Scientist,Jigawa,Yes,1031000
+2,29,BSc,8,Data Scientist,Jigawa,No,786500
+3,41,Diploma,10,Intern,Kano,Yes,627500
+13,23,Hnd,9,Manager,Kano,Yes,1414500
+5,35,BSc,3,Intern,Lagos,No,536500
+13,54,MSc,4,Engineer,Abuja,Yes,1472000
+8,41,MSc,1,Manager,Remote,Yes,1420500
+13,29,BSc,4,Data Scientist,Abuja,No,1299500
+12,37,Diploma,15,Analyst,Jigawa,Yes,1172500
+11,48,PhD,11,Data Scientist,Remote,Yes,1983000
+7,43,MSc,13,Data Scientist,Lagos,No,1476500
+11,38,Diploma,2,Data Scientist,Jigawa,No,1106000
+11,38,Degree,10,Analyst,Jigawa,Yes,1160000
+8,48,Degree,12,Analyst,Lagos,Yes,1206000
+3,21,BSc,10,Intern,Jigawa,No,417500
+9,25,Degree,6,Engineer,Kaduna,No,975500
+0,29,Diploma,11,Manager,Lagos,No,770500
+0,49,PhD,14,Developer,Lagos,No,1054500
+8,54,Hnd,2,Developer,Lagos,Yes,1051000
+10,30,Hnd,9,Manager,Kaduna,No,1167000
+10,25,Diploma,2,Developer,Jigawa,Yes,878500
+11,46,PhD,11,Developer,Kaduna,Yes,1518000
+5,28,BSc,6,Intern,Abuja,Yes,663000
+3,30,Degree,13,Data Scientist,Remote,Yes,1384000
+7,20,BSc,5,Manager,Kano,Yes,995000
+8,44,Diploma,1,Intern,Lagos,No,658000
+2,30,Diploma,3,Manager,Abuja,No,689000
+1,34,BSc,15,Analyst,Abuja,No,640000
+9,44,Diploma,8,Manager,Abuja,No,1129000
+2,43,Diploma,12,Engineer,Lagos,No,783500
+2,34,BSc,5,Analyst,Abuja,No,505000
+8,50,PhD,11,Engineer,Kano,Yes,1443000
+6,31,PhD,2,Engineer,Jigawa,Yes,1103500
+3,40,BSc,6,Engineer,Kaduna,Yes,743000
+11,54,PhD,10,Intern,Jigawa,No,1210000
+10,25,Diploma,8,Analyst,Abuja,Yes,1016500
+9,36,Diploma,5,Developer,Remote,No,1015000
+10,42,BSc,12,Data Scientist,Remote,Yes,1591000
+0,55,PhD,5,Engineer,Remote,No,1047500
+11,44,Diploma,7,Data Scientist,Kano,Yes,1371000
+1,24,MSc,11,Manager,Abuja,No,993000
+1,54,PhD,7,Manager,Lagos,Yes,1276000
+3,28,PhD,13,Developer,Kaduna,Yes,1149000
+10,28,Diploma,15,Intern,Jigawa,Yes,960000
+11,46,Degree,15,Engineer,Abuja,No,1340000
+8,24,Degree,6,Data Scientist,Kaduna,Yes,1278000
+11,32,Diploma,7,Intern,Lagos,No,871000
+1,27,BSc,10,Manager,Abuja,Yes,882500
+15,27,Diploma,11,Manager,Kano,Yes,1480500
+5,46,PhD,5,Developer,Kano,No,1030000
+8,47,PhD,11,Developer,Abuja,Yes,1445500
+4,27,Degree,3,Manager,Lagos,Yes,1041500
+1,44,MSc,6,Developer,Lagos,Yes,933000
+11,55,BSc,13,Analyst,Kaduna,No,1046500
+15,42,BSc,8,Analyst,Lagos,Yes,1314000
+8,50,PhD,14,Intern,Abuja,No,1227000
+14,29,Diploma,12,Developer,Remote,No,1348500
+0,31,Hnd,1,Developer,Kano,Yes,535500
+5,45,MSc,2,Engineer,Abuja,No,933500
+7,34,BSc,12,Intern,Lagos,No,786000
+15,45,MSc,7,Engineer,Kaduna,No,1413500
+1,35,MSc,1,Developer,Jigawa,Yes,700500
+0,33,Degree,14,Intern,Remote,No,724500
+8,20,PhD,7,Developer,Lagos,No,1216000
+10,29,BSc,11,Manager,Abuja,No,1190500
+12,53,MSc,12,Developer,Abuja,No,1408500
+7,28,Hnd,3,Intern,Kano,Yes,719000
+11,50,Diploma,7,Intern,Abuja,Yes,1006000
+3,35,Hnd,9,Analyst,Kaduna,No,634500
+7,29,Degree,6,Engineer,Abuja,No,955500
+6,54,Hnd,10,Intern,Lagos,Yes,945000
+7,22,Diploma,7,Intern,Remote,Yes,886000
+6,44,Degree,2,Intern,Remote,Yes,926000
+2,29,Hnd,14,Manager,Kano,No,904500
+5,41,MSc,11,Data Scientist,Kaduna,Yes,1375500
+1,26,PhD,6,Intern,Jigawa,Yes,738000
+8,33,PhD,9,Data Scientist,Lagos,Yes,1674500
+9,28,Diploma,1,Manager,Remote,No,1093000
+2,25,Degree,8,Intern,Remote,Yes,806500
+15,55,Diploma,15,Analyst,Lagos,Yes,1472500
+8,38,PhD,14,Intern,Lagos,Yes,1347000
+11,38,Degree,2,Engineer,Lagos,No,1116000
+11,26,MSc,7,Manager,Remote,No,1506000
+13,30,Hnd,3,Engineer,Kano,No,1074000
+10,46,Diploma,13,Analyst,Remote,Yes,1289000
+0,54,PhD,8,Data Scientist,Kaduna,No,1139000
+7,50,BSc,15,Analyst,Lagos,No,980000
+4,39,BSc,5,Developer,Jigawa,No,577500
+11,28,Hnd,10,Intern,Kano,No,905000
+0,44,Diploma,7,Developer,Jigawa,No,446000
+12,53,Hnd,11,Engineer,Remote,Yes,1530500
+2,20,BSc,10,Data Scientist,Remote,Yes,1140000
+9,37,Diploma,2,Data Scientist,Kaduna,Yes,1163500
+15,42,Hnd,1,Data Scientist,Kaduna,No,1378000
+14,43,Hnd,9,Intern,Jigawa,Yes,1139500
+11,42,MSc,13,Developer,Kano,Yes,1424000
+13,30,Diploma,10,Analyst,Abuja,Yes,1200000
+7,46,Degree,5,Developer,Kano,No,890000
+9,53,Diploma,2,Manager,Jigawa,No,953500
+6,23,PhD,13,Engineer,Kano,Yes,1321500
+10,37,Degree,5,Intern,Lagos,No,922500
+8,53,MSc,15,Engineer,Lagos,No,1352500
+11,50,PhD,4,Intern,Lagos,No,1212000
+2,20,Degree,2,Developer,Remote,Yes,846000
+14,31,MSc,9,Intern,Remote,No,1359500
+5,44,Degree,11,Intern,Remote,No,923000
+3,40,MSc,11,Analyst,Jigawa,Yes,923000
+11,42,PhD,9,Analyst,Kano,Yes,1422000
+1,32,Degree,3,Data Scientist,Remote,Yes,1119000
+15,20,BSc,9,Engineer,Jigawa,No,1137000
+3,35,Hnd,1,Manager,Kano,No,730500
+11,50,Hnd,7,Intern,Kaduna,Yes,1016000
+10,26,BSc,10,Engineer,Remote,Yes,1285000
+1,53,MSc,11,Engineer,Kaduna,No,875500
+0,25,Hnd,14,Intern,Abuja,No,524500
+3,44,Degree,5,Intern,Abuja,Yes,715000
+9,30,BSc,14,Analyst,Kano,Yes,1042000
+5,44,MSc,4,Manager,Jigawa,No,1007000
+2,26,MSc,4,Developer,Kano,No,697000
+4,52,Hnd,5,Analyst,Kaduna,Yes,770000
+4,26,Hnd,2,Intern,Jigawa,Yes,521000
+6,29,MSc,10,Developer,Jigawa,Yes,1072500
+6,42,Diploma,1,Analyst,Kaduna,No,573000
+14,25,Degree,12,Analyst,Abuja,No,1268500
+14,22,Degree,5,Data Scientist,Lagos,No,1495000
+13,21,PhD,12,Data Scientist,Lagos,Yes,1923500
+8,32,MSc,13,Data Scientist,Lagos,Yes,1614000
+11,34,Diploma,3,Intern,Lagos,Yes,924000
+10,53,Degree,6,Data Scientist,Abuja,No,1380500
+11,26,Diploma,8,Analyst,Remote,No,1074000
+11,39,BSc,10,Engineer,Jigawa,No,1022500
+12,36,Hnd,14,Analyst,Abuja,Yes,1312000
+2,44,Degree,8,Data Scientist,Abuja,No,1034000
+3,21,MSc,8,Developer,Lagos,Yes,1001500
+10,26,MSc,3,Data Scientist,Lagos,No,1389000
+0,44,Hnd,13,Data Scientist,Remote,No,1114000
+5,54,Degree,4,Engineer,Jigawa,Yes,922000
+7,50,Diploma,12,Developer,Jigawa,No,866000
+2,37,Hnd,14,Data Scientist,Abuja,No,1074500
+10,39,PhD,15,Engineer,Remote,No,1637500
+7,47,Diploma,9,Manager,Kano,No,1014500
+1,49,Diploma,3,Intern,Kano,Yes,431500
+11,32,Hnd,3,Engineer,Kano,Yes,1109000
+3,22,Diploma,3,Engineer,Lagos,No,614000
+12,55,MSc,14,Intern,Remote,Yes,1539500
+13,26,Diploma,12,Manager,Kaduna,No,1276000
+12,22,PhD,14,Developer,Jigawa,Yes,1527000
+1,31,Hnd,2,Manager,Jigawa,No,608500
+13,41,MSc,4,Data Scientist,Abuja,Yes,1669500
+13,34,Diploma,11,Manager,Kaduna,Yes,1398000
+1,33,MSc,9,Intern,Abuja,No,649500
+14,41,BSc,11,Intern,Remote,Yes,1320500
+4,49,Diploma,14,Developer,Jigawa,Yes,884500
+0,43,Degree,4,Intern,Kaduna,No,379500
+11,33,BSc,2,Developer,Jigawa,Yes,943500
+8,47,Degree,3,Intern,Kaduna,No,731500
+12,36,Degree,2,Manager,Jigawa,Yes,1286000
+13,34,Degree,1,Engineer,Abuja,No,1148000
+15,49,Degree,13,Engineer,Kaduna,Yes,1551500
+8,33,BSc,3,Data Scientist,Remote,No,1196500
+10,40,MSc,8,Developer,Abuja,Yes,1334000
+1,49,Diploma,12,Manager,Remote,No,983500
+1,31,Hnd,7,Analyst,Jigawa,No,468500
+15,49,PhD,1,Data Scientist,Jigawa,No,1645500
+4,35,Degree,13,Intern,Remote,Yes,1011500
+3,50,Degree,8,Developer,Remote,Yes,1074000
+2,22,Hnd,2,Data Scientist,Abuja,Yes,941000
+6,54,BSc,9,Intern,Abuja,No,707000
+12,22,MSc,8,Manager,Kano,Yes,1499000
+7,44,BSc,7,Developer,Kaduna,Yes,911000
+8,40,Diploma,11,Intern,Jigawa,Yes,828000
+6,33,PhD,8,Intern,Jigawa,Yes,1016500
+2,55,MSc,10,Data Scientist,Kano,Yes,1267500
+5,38,BSc,9,Engineer,Kaduna,Yes,882000
+5,45,MSc,6,Engineer,Jigawa,No,915500
+4,37,Hnd,11,Analyst,Kaduna,Yes,840500
+11,29,Hnd,12,Engineer,Kano,Yes,1263500
+14,51,Degree,13,Developer,Remote,Yes,1661500
+9,20,MSc,13,Intern,Kano,No,999000
+2,45,Hnd,2,Developer,Kaduna,Yes,668500
+0,20,Diploma,5,Engineer,Abuja,Yes,600000
+7,49,Hnd,9,Engineer,Abuja,Yes,1129500
+9,52,BSc,7,Manager,Abuja,No,1131000
+14,22,PhD,3,Data Scientist,Abuja,No,1659000
+4,49,MSc,13,Intern,Jigawa,Yes,926500
+8,27,PhD,9,Developer,Lagos,No,1269500
+8,49,MSc,7,Analyst,Abuja,Yes,1188500
+1,45,Diploma,6,Data Scientist,Lagos,Yes,985500
+4,36,Degree,6,Engineer,Kaduna,No,778000
+2,33,Diploma,13,Developer,Abuja,Yes,826500
+10,49,PhD,7,Engineer,Remote,No,1518500
+11,34,Degree,9,Manager,Lagos,Yes,1482000
+3,23,Diploma,1,Analyst,Abuja,No,450500
+3,55,PhD,5,Analyst,Jigawa,No,862500
+13,44,MSc,2,Data Scientist,Remote,Yes,1771000
+15,32,Hnd,9,Developer,Kano,Yes,1357000
+7,37,Degree,8,Analyst,Lagos,Yes,1061500
+1,41,PhD,2,Analyst,Abuja,Yes,893500
+14,38,Hnd,13,Developer,Lagos,Yes,1479000
+9,27,Hnd,11,Intern,Kano,No,830500
+8,42,MSc,14,Analyst,Remote,No,1307000
+14,32,MSc,15,Developer,Abuja,Yes,1620000
+0,24,PhD,3,Analyst,Abuja,No,704000
+11,24,BSc,6,Engineer,Remote,No,1133000
+12,55,Degree,9,Engineer,Jigawa,Yes,1329500
+10,33,Diploma,1,Developer,Kano,Yes,920500
+1,44,Hnd,9,Manager,Abuja,No,857000
+0,42,Hnd,12,Analyst,Kano,No,581000
+9,33,Diploma,14,Manager,Remote,Yes,1459500
+10,42,Degree,4,Engineer,Abuja,No,1087000
+6,29,Degree,5,Engineer,Remote,No,1022500
+3,45,Diploma,10,Analyst,Lagos,No,697500
+9,44,BSc,1,Intern,Remote,No,803000
+10,38,MSc,3,Manager,Abuja,No,1289000
+2,28,PhD,4,Developer,Jigawa,Yes,912000
+4,27,Diploma,14,Intern,Remote,No,769500
+1,30,Hnd,10,Analyst,Jigawa,Yes,640000
+5,23,Hnd,7,Intern,Kano,Yes,688500
+6,21,BSc,1,Developer,Kaduna,No,580500
+8,26,Hnd,1,Data Scientist,Kaduna,No,1023000
+0,53,BSc,15,Data Scientist,Jigawa,Yes,1002500
+5,39,Diploma,7,Analyst,Kano,Yes,758500
+11,29,Degree,2,Manager,Kano,Yes,1263500
+8,26,Hnd,8,Data Scientist,Lagos,No,1239000
+12,50,Diploma,2,Data Scientist,Abuja,No,1271000
+6,37,Diploma,15,Engineer,Jigawa,No,882500
+3,24,MSc,1,Developer,Kaduna,Yes,793000
+2,55,MSc,9,Data Scientist,Kano,No,1129500
+3,42,BSc,12,Engineer,Kano,Yes,866000
+10,36,Diploma,12,Manager,Abuja,Yes,1346000
+15,49,Diploma,4,Engineer,Kaduna,No,1149500
+10,53,Degree,7,Analyst,Remote,Yes,1318500
+14,20,Diploma,2,Analyst,Remote,No,1086000
+8,50,PhD,14,Manager,Kano,Yes,1627000
+8,35,Diploma,15,Analyst,Lagos,Yes,1107500
+7,31,MSc,15,Data Scientist,Lagos,Yes,1602500
+13,28,Hnd,7,Developer,Jigawa,No,1061000
+5,22,Hnd,7,Manager,Kano,Yes,1016000
+2,41,Degree,11,Data Scientist,Kano,Yes,1150500
+14,37,Hnd,7,Analyst,Abuja,No,1158500
+8,37,MSc,3,Analyst,Abuja,No,966500
+4,46,PhD,11,Developer,Abuja,No,1143000
+8,36,MSc,3,Analyst,Remote,Yes,1214000
+11,25,MSc,10,Developer,Jigawa,No,1167500
+14,44,BSc,7,Intern,Jigawa,Yes,1036000
+5,51,Hnd,9,Manager,Remote,No,1184500
+15,55,Diploma,14,Intern,Jigawa,No,1114500
+0,32,BSc,6,Engineer,Kano,No,478000
+10,27,Degree,8,Manager,Abuja,Yes,1371500
+0,21,MSc,14,Engineer,Kano,No,814500
+3,26,Hnd,6,Data Scientist,Kaduna,Yes,1008000
+6,31,BSc,2,Developer,Kaduna,Yes,743500
+14,20,Degree,15,Manager,Lagos,Yes,1690000
+7,38,BSc,6,Developer,Kano,No,768000
+5,35,PhD,7,Developer,Remote,Yes,1338500
+13,32,BSc,1,Data Scientist,Jigawa,Yes,1283000
+6,53,Hnd,1,Analyst,Kano,No,680500
+5,45,PhD,2,Analyst,Kano,No,913500
+5,46,PhD,1,Data Scientist,Abuja,No,1278000
+7,25,BSc,3,Data Scientist,Abuja,Yes,1121500
+1,32,MSc,1,Engineer,Jigawa,No,613000
+0,52,Diploma,1,Engineer,Remote,No,618000
+1,24,PhD,2,Developer,Kano,No,741000
+9,43,MSc,7,Data Scientist,Lagos,No,1458500
+0,38,BSc,6,Intern,Kano,No,293000
+14,29,Degree,14,Manager,Jigawa,Yes,1574500
+0,20,Diploma,1,Analyst,Remote,No,438000
+12,48,Diploma,7,Data Scientist,Remote,No,1486000
+2,46,Diploma,13,Manager,Abuja,No,909000
+0,21,Diploma,6,Engineer,Abuja,Yes,620500
+7,42,MSc,14,Developer,Kaduna,No,1132000
+7,20,PhD,8,Developer,Lagos,Yes,1309000
+1,27,MSc,7,Analyst,Remote,No,828500
+0,34,PhD,8,Intern,Remote,No,849000
+15,25,BSc,9,Data Scientist,Remote,Yes,1719500
+3,49,MSc,3,Manager,Abuja,No,1001500
+6,22,Degree,12,Manager,Kaduna,Yes,1191000
+7,53,MSc,10,Engineer,Kaduna,No,1127500
+6,53,Diploma,15,Analyst,Kano,Yes,982500
+3,54,PhD,14,Developer,Kano,No,1122000
+13,45,Degree,5,Analyst,Abuja,Yes,1267500
+5,43,Degree,7,Manager,Lagos,Yes,1198500
+8,26,Degree,1,Engineer,Abuja,Yes,1023000
+14,24,PhD,14,Data Scientist,Abuja,Yes,1982000
+4,51,Diploma,2,Manager,Kaduna,No,753500
+13,54,BSc,12,Data Scientist,Kaduna,Yes,1566000
+2,41,BSc,7,Developer,Kano,No,568500
+5,21,PhD,14,Manager,Remote,No,1479500
+11,51,BSc,6,Data Scientist,Kano,No,1250500
+12,55,PhD,2,Engineer,Lagos,No,1433500
+13,40,Degree,4,Data Scientist,Kano,Yes,1517000
+7,44,BSc,7,Analyst,Kano,Yes,861000
+5,49,Hnd,1,Manager,Kano,No,855500
+5,20,Degree,10,Manager,Abuja,Yes,1165000
+15,35,Diploma,15,Manager,Jigawa,No,1412500
+5,39,BSc,13,Analyst,Kano,Yes,866500
+15,35,Diploma,13,Manager,Kano,No,1416500
+10,52,BSc,8,Data Scientist,Lagos,No,1324000
+10,23,Degree,8,Developer,Abuja,No,1071500
+2,33,MSc,11,Developer,Jigawa,Yes,920500
+3,42,BSc,1,Analyst,Abuja,Yes,618000
+10,29,BSc,1,Developer,Kano,Yes,910500
+12,48,BSc,13,Data Scientist,Kaduna,Yes,1524000
+7,46,Diploma,9,Developer,Lagos,No,922000
+15,42,MSc,10,Analyst,Kaduna,No,1360000
+4,37,Degree,11,Engineer,Remote,No,1060500
+8,27,PhD,15,Analyst,Abuja,No,1287500
+9,41,Diploma,6,Engineer,Kano,No,905500
+13,40,PhD,1,Manager,Kaduna,Yes,1583000
+14,45,Degree,13,Manager,Abuja,No,1566500
+0,23,PhD,4,Intern,Jigawa,Yes,649500
+15,42,Degree,15,Developer,Abuja,Yes,1590000
+2,34,Hnd,11,Intern,Remote,Yes,833000
+1,43,Diploma,14,Analyst,Kano,No,594500
+6,27,BSc,5,Intern,Kano,Yes,637500
+5,44,Diploma,12,Analyst,Lagos,No,821000
+9,46,MSc,13,Manager,Abuja,Yes,1564000
+10,39,MSc,4,Engineer,Kaduna,No,1119500
+12,20,Hnd,3,Engineer,Jigawa,Yes,1084000
+4,39,Degree,10,Manager,Kano,Yes,1117500
+7,33,Hnd,4,Intern,Abuja,Yes,799500
+14,55,BSc,13,Developer,Kaduna,No,1241500
+3,52,BSc,3,Manager,Abuja,No,789000
+8,24,MSc,5,Manager,Jigawa,No,1110000
+1,28,Degree,4,Manager,Kaduna,Yes,837000
+12,44,MSc,2,Manager,Kaduna,No,1316000
+4,39,PhD,9,Engineer,Jigawa,Yes,1159500
+13,46,MSc,11,Developer,Abuja,No,1418000
+7,42,MSc,11,Analyst,Abuja,Yes,1198000
+14,44,Diploma,3,Developer,Lagos,No,1124000
+15,46,Diploma,6,Manager,Kaduna,No,1308000
+3,55,Diploma,15,Analyst,Kaduna,Yes,842500
+9,52,Degree,5,Analyst,Abuja,No,985000
+14,45,Degree,15,Intern,Remote,Yes,1522500
+7,34,BSc,3,Engineer,Remote,No,924000
+7,51,BSc,7,Analyst,Lagos,No,838500
+11,37,Degree,5,Engineer,Jigawa,No,1047500
+13,51,MSc,4,Manager,Abuja,No,1474500
+7,45,MSc,5,Engineer,Kano,No,1027500
+1,52,Degree,5,Analyst,Lagos,No,655000
+10,46,Hnd,15,Analyst,Abuja,No,1145000
+2,45,MSc,10,Developer,Remote,No,1032500
+6,42,Diploma,12,Engineer,Kano,Yes,1001000
+3,47,PhD,14,Intern,Abuja,Yes,1114500
+14,24,PhD,13,Analyst,Lagos,No,1544000
+10,49,PhD,1,Developer,Abuja,Yes,1360500
+12,36,PhD,5,Analyst,Abuja,Yes,1430000
+3,32,Degree,4,Intern,Jigawa,No,457000
+3,53,BSc,6,Engineer,Kano,Yes,785500
+3,45,MSc,14,Engineer,Lagos,No,1089500
+4,45,PhD,8,Analyst,Abuja,Yes,1146500
+0,43,BSc,5,Manager,Jigawa,Yes,697500
+2,39,Degree,9,Developer,Abuja,No,769500
+12,27,BSc,12,Analyst,Lagos,Yes,1213500
+15,53,BSc,6,Intern,Jigawa,Yes,1085500
+7,35,PhD,8,Analyst,Kaduna,No,1076500
+5,30,Degree,2,Engineer,Kaduna,Yes,856000
+4,54,Hnd,11,Developer,Jigawa,No,793000
+10,24,PhD,3,Manager,Kano,Yes,1454000
+1,47,Degree,12,Developer,Remote,Yes,1048500
+2,26,Degree,3,Engineer,Abuja,Yes,789000
+12,46,MSc,7,Manager,Remote,No,1601000
+8,35,Diploma,14,Manager,Kaduna,Yes,1229500
+1,36,Degree,10,Intern,Remote,Yes,825000
+3,51,MSc,5,Engineer,Lagos,No,942500
+10,39,Hnd,2,Analyst,Jigawa,No,803500
+2,36,Degree,2,Analyst,Abuja,Yes,696000
+5,51,Diploma,11,Engineer,Abuja,No,890500
+9,49,PhD,12,Manager,Lagos,No,1593500
+12,26,MSc,11,Data Scientist,Kano,No,1543000
+7,22,Diploma,4,Analyst,Kaduna,Yes,742000
+8,22,Hnd,12,Engineer,Jigawa,Yes,1071000
+13,46,MSc,12,Analyst,Kano,No,1326000
+4,47,Diploma,1,Manager,Lagos,No,815500
+15,25,PhD,8,Developer,Jigawa,No,1441500
+14,47,Hnd,12,Engineer,Remote,Yes,1623500
+15,47,Degree,6,Data Scientist,Abuja,Yes,1710500
+6,24,MSc,15,Analyst,Kano,No,1010000
+8,49,PhD,9,Intern,Remote,Yes,1384500
+5,22,Degree,5,Analyst,Kaduna,No,670000
+12,54,MSc,10,Analyst,Lagos,Yes,1465000
+11,39,PhD,3,Developer,Kano,Yes,1366500
+7,33,Hnd,3,Developer,Lagos,Yes,971500
+13,20,PhD,10,Manager,Kaduna,No,1575000
+15,54,PhD,12,Developer,Abuja,No,1676000
+15,21,MSc,7,Intern,Kaduna,No,1153500
+9,51,Degree,2,Analyst,Kaduna,No,868500
+1,20,Diploma,9,Data Scientist,Jigawa,Yes,857000
+5,43,Degree,14,Analyst,Kano,Yes,1014500
+13,30,PhD,6,Engineer,Kano,No,1408000
+3,31,Degree,11,Manager,Abuja,No,1000500
+3,32,BSc,11,Engineer,Kaduna,No,693000
+11,26,Hnd,7,Data Scientist,Kano,Yes,1396000
+0,35,Hnd,4,Manager,Jigawa,No,609500
+14,30,MSc,2,Engineer,Kaduna,Yes,1361000
+3,45,Hnd,9,Engineer,Kano,Yes,889500
+4,52,Diploma,6,Analyst,Kaduna,No,598000
+4,25,PhD,7,Data Scientist,Kaduna,Yes,1348500
+11,52,MSc,7,Analyst,Jigawa,No,1121000
+13,24,Hnd,9,Intern,Jigawa,Yes,1047000
+0,44,Diploma,6,Manager,Abuja,Yes,808000
+7,20,MSc,13,Developer,Remote,No,1249000
+7,49,PhD,1,Analyst,Kano,Yes,1115500
+11,52,Diploma,15,Data Scientist,Lagos,Yes,1615000
+15,51,Degree,9,Developer,Abuja,Yes,1504500
+1,44,MSc,1,Data Scientist,Abuja,No,963000
+12,22,Diploma,11,Manager,Kano,No,1213000
+9,39,PhD,13,Data Scientist,Kano,No,1606500
+9,24,MSc,9,Engineer,Kaduna,No,1127000
+15,36,BSc,5,Engineer,Kano,No,1145000
+2,50,MSc,8,Engineer,Abuja,Yes,1039000
+9,40,Diploma,3,Engineer,Remote,No,1029000
+14,45,BSc,14,Manager,Kaduna,Yes,1524500
+4,36,MSc,9,Manager,Lagos,Yes,1272000
+15,27,Degree,15,Manager,Remote,No,1732500
+1,41,Degree,10,Engineer,Lagos,Yes,937500
+10,35,MSc,6,Engineer,Abuja,No,1205500
+8,52,Degree,10,Manager,Kaduna,Yes,1320000
+0,29,MSc,14,Manager,Lagos,Yes,1164500
+2,23,Hnd,9,Manager,Jigawa,Yes,879500
+4,44,PhD,11,Manager,Kaduna,Yes,1368000
+0,30,Degree,14,Engineer,Remote,No,917000
+7,55,MSc,15,Developer,Jigawa,Yes,1272500
+6,34,BSc,4,Data Scientist,Abuja,No,997000
+2,38,PhD,15,Engineer,Abuja,Yes,1265000
+13,46,MSc,7,Manager,Kaduna,No,1456000
+3,40,BSc,7,Intern,Kaduna,Yes,561000
+6,54,BSc,13,Analyst,Abuja,No,879000
+15,46,Diploma,6,Developer,Lagos,Yes,1348000
+10,21,Degree,9,Manager,Lagos,Yes,1404500
+15,50,MSc,5,Analyst,Kaduna,No,1290000
+4,52,Hnd,10,Data Scientist,Kano,No,1080000
+6,32,Diploma,4,Engineer,Kaduna,Yes,822000
+6,42,BSc,10,Intern,Abuja,Yes,815000
+11,55,PhD,5,Data Scientist,Jigawa,Yes,1672500
+14,48,Degree,12,Analyst,Kano,No,1276000
+2,38,BSc,2,Analyst,Remote,No,591000
+14,46,Hnd,1,Manager,Jigawa,No,1213000
+2,49,Hnd,13,Intern,Kaduna,Yes,716500
+5,40,Degree,2,Intern,Jigawa,No,531000
+15,34,PhD,9,Manager,Kano,No,1692000
+13,43,PhD,10,Intern,Jigawa,No,1272500
+13,54,Hnd,12,Manager,Kano,Yes,1546000
+2,33,Degree,14,Engineer,Kano,No,834500
+2,45,Degree,6,Analyst,Kano,No,620500
+10,53,Hnd,11,Analyst,Remote,Yes,1340500
+12,48,Degree,12,Intern,Remote,Yes,1386000
+5,39,BSc,10,Engineer,Abuja,Yes,962500
+9,50,Diploma,2,Manager,Kano,No,986000
+12,45,Degree,9,Intern,Lagos,Yes,1224500
+6,41,MSc,8,Developer,Jigawa,Yes,1066500
+8,22,Hnd,8,Analyst,Abuja,Yes,989000
+10,54,BSc,1,Engineer,Lagos,No,973000
+13,51,Degree,4,Engineer,Kaduna,Yes,1304500
+12,52,Diploma,15,Engineer,Remote,Yes,1530000
+0,31,MSc,5,Engineer,Remote,Yes,977500
+6,23,BSc,4,Manager,Kaduna,Yes,929500
+7,25,Diploma,10,Analyst,Jigawa,Yes,827500
+6,26,PhD,15,Developer,Lagos,No,1285000
+5,36,Degree,10,Analyst,Abuja,Yes,975000
+4,20,Hnd,12,Data Scientist,Remote,Yes,1336000
+2,36,PhD,11,Intern,Remote,Yes,1118000
+13,48,MSc,5,Analyst,Kano,Yes,1325000
+0,30,MSc,14,Data Scientist,Jigawa,No,1027000
+10,22,Hnd,11,Intern,Kaduna,No,853000
+15,37,Hnd,13,Data Scientist,Jigawa,Yes,1671500
+0,23,Degree,4,Engineer,Abuja,No,589500
+4,26,MSc,5,Manager,Jigawa,No,935000
+10,35,MSc,4,Manager,Remote,No,1429500
+10,54,MSc,7,Manager,Abuja,Yes,1521000
+4,20,Hnd,10,Analyst,Kano,No,670000
+12,22,Diploma,4,Intern,Lagos,No,837000
+10,48,BSc,3,Developer,Jigawa,No,834000
+8,51,BSc,12,Developer,Jigawa,No,913500
+7,26,Degree,2,Data Scientist,Remote,Yes,1356000
+8,48,BSc,15,Developer,Kaduna,No,990000
+8,50,Degree,7,Engineer,Jigawa,No,981000
+13,52,PhD,15,Engineer,Abuja,Yes,1795000
+6,26,Degree,15,Engineer,Remote,Yes,1315000
+14,22,BSc,4,Analyst,Lagos,Yes,1147000
+13,48,BSc,12,Engineer,Kaduna,Yes,1321000
+1,47,BSc,4,Intern,Kaduna,No,314500
+2,53,MSc,7,Developer,Jigawa,No,778500
+6,39,MSc,1,Developer,Remote,Yes,1155500
+9,33,MSc,14,Data Scientist,Kaduna,No,1469500
+15,28,Degree,8,Analyst,Abuja,No,1249000
+9,41,MSc,11,Developer,Abuja,Yes,1345500
+5,27,PhD,3,Engineer,Lagos,Yes,1186500
+11,39,MSc,11,Manager,Remote,No,1610500
+2,45,Hnd,10,Analyst,Remote,Yes,942500
+0,37,Hnd,12,Data Scientist,Kaduna,No,888500
+0,20,Hnd,8,Data Scientist,Remote,No,964000
+10,55,BSc,1,Developer,Kaduna,Yes,965500
+12,34,Degree,2,Engineer,Remote,Yes,1371000
+10,28,BSc,2,Manager,Abuja,No,1026000
+1,47,Degree,6,Analyst,Kano,No,580500
+0,23,PhD,6,Manager,Kaduna,Yes,1045500
+5,49,Degree,4,Data Scientist,Remote,No,1239500
+2,37,Degree,12,Data Scientist,Lagos,Yes,1238500
+11,42,BSc,2,Intern,Kaduna,No,716000
+12,35,Diploma,6,Developer,Remote,Yes,1285500
+0,42,Hnd,11,Developer,Remote,Yes,923000
+2,47,MSc,11,Engineer,Lagos,Yes,1115500
+1,53,MSc,10,Data Scientist,Abuja,Yes,1267500
+0,55,Hnd,14,Intern,Jigawa,Yes,629500
+10,26,PhD,1,Manager,Kaduna,Yes,1413000
+1,23,Hnd,10,Developer,Abuja,Yes,772500
+12,40,Hnd,6,Intern,Remote,Yes,1208000
+12,22,Degree,8,Intern,Kaduna,Yes,1059000
+7,44,Diploma,5,Intern,Kaduna,No,595000
+4,45,Hnd,13,Analyst,Abuja,Yes,956500
+12,55,Diploma,3,Data Scientist,Remote,No,1431500
+14,30,MSc,11,Developer,Lagos,No,1453000
+4,24,MSc,13,Manager,Remote,No,1294000
+2,42,PhD,7,Data Scientist,Lagos,Yes,1391000
+3,29,Hnd,4,Developer,Jigawa,No,559500
+6,34,Hnd,11,Data Scientist,Kaduna,Yes,1253000
+7,51,BSc,7,Data Scientist,Kaduna,Yes,1198500
+10,50,PhD,9,Analyst,Remote,No,1457000
+14,33,MSc,7,Engineer,Lagos,No,1428500
+7,28,MSc,5,Intern,Abuja,No,835000
+6,32,MSc,3,Engineer,Lagos,Yes,1114000
+7,25,PhD,2,Intern,Jigawa,No,813500
+12,39,Hnd,13,Engineer,Lagos,No,1311500
+0,40,Degree,11,Data Scientist,Remote,Yes,1238000
+4,54,Hnd,6,Analyst,Remote,Yes,983000
+7,53,PhD,15,Analyst,Jigawa,Yes,1337500
+5,39,BSc,11,Engineer,Abuja,Yes,980500
+6,40,Diploma,9,Analyst,Abuja,No,772000
+0,38,Degree,9,Data Scientist,Remote,Yes,1197000
+2,41,Hnd,8,Developer,Kaduna,Yes,766500
+11,33,Degree,9,Intern,Abuja,No,999500
+1,35,Hnd,15,Manager,Kaduna,Yes,1002500
+10,30,BSc,8,Data Scientist,Jigawa,No,1149000
+10,46,MSc,5,Data Scientist,Kaduna,Yes,1505000
+0,55,Hnd,7,Intern,Lagos,No,503500
+7,20,MSc,12,Manager,Jigawa,Yes,1301000
+7,49,MSc,4,Engineer,Lagos,No,1099500
+0,47,Degree,10,Manager,Remote,Yes,1137500
+7,38,Diploma,14,Manager,Remote,Yes,1382000
+5,30,BSc,1,Data Scientist,Kaduna,Yes,948000
+14,40,Hnd,14,Analyst,Kaduna,No,1232000
+13,37,Degree,13,Analyst,Lagos,No,1301500
+4,47,Degree,11,Data Scientist,Remote,Yes,1435500
+12,40,MSc,5,Developer,Jigawa,Yes,1280000
+7,30,Diploma,14,Intern,Remote,No,912000
+7,34,Diploma,10,Analyst,Jigawa,Yes,850000
+4,30,PhD,6,Engineer,Jigawa,Yes,1083000
+10,22,BSc,7,Analyst,Kano,No,821000
+3,35,PhD,3,Developer,Jigawa,Yes,956500
+10,38,Diploma,1,Engineer,Kaduna,Yes,963000
+1,49,Degree,13,Intern,Kano,No,611500
+8,38,Diploma,13,Developer,Kaduna,Yes,1049000
+13,47,MSc,10,Developer,Abuja,No,1402500
+1,35,MSc,13,Manager,Remote,Yes,1306500
+6,24,BSc,12,Analyst,Lagos,No,816000
+1,55,PhD,14,Data Scientist,Abuja,Yes,1474500
+7,32,Diploma,3,Analyst,Kano,No,639000
+7,47,PhD,2,Engineer,Kaduna,Yes,1218500
+6,26,Hnd,4,Engineer,Remote,No,947000
+15,23,MSc,15,Analyst,Abuja,No,1462500
+7,22,PhD,1,Engineer,Abuja,No,1078000
+7,28,Diploma,8,Developer,Jigawa,Yes,859000
+5,34,PhD,15,Data Scientist,Lagos,Yes,1650000
+2,32,BSc,9,Intern,Lagos,Yes,622000
+13,46,PhD,9,Engineer,Remote,No,1682000
+4,28,MSc,12,Developer,Kano,Yes,1056000
+6,43,Diploma,7,Manager,Remote,No,1103500
+11,30,Degree,7,Manager,Abuja,Yes,1406000
+13,33,Diploma,7,Manager,Kaduna,Yes,1323500
+12,29,Hnd,10,Engineer,Jigawa,Yes,1232500
+5,46,PhD,2,Developer,Lagos,Yes,1176000
+12,35,Diploma,10,Manager,Kaduna,Yes,1337500
+2,26,Degree,6,Developer,Lagos,No,713000
+7,40,PhD,3,Data Scientist,Abuja,No,1389000
+5,50,MSc,15,Data Scientist,Kaduna,No,1350000
+14,41,MSc,15,Data Scientist,Abuja,Yes,1912500
+2,44,MSc,6,Intern,Jigawa,No,578000
+3,33,PhD,10,Engineer,Abuja,Yes,1207500
+6,34,BSc,2,Data Scientist,Abuja,No,961000
+9,26,Degree,11,Developer,Remote,No,1218000
+1,26,Degree,4,Engineer,Lagos,Yes,792000
+7,50,Degree,9,Intern,Kaduna,Yes,922000
+10,24,PhD,5,Intern,Kaduna,No,1030000
+0,25,Diploma,8,Analyst,Kano,No,396500
+3,25,PhD,15,Data Scientist,Kano,Yes,1457500
+6,54,MSc,2,Data Scientist,Jigawa,Yes,1261000
+11,24,MSc,13,Developer,Kano,No,1259000
+11,32,Hnd,1,Manager,Kaduna,No,1073000
+2,47,Degree,3,Intern,Jigawa,Yes,551500
+3,22,Diploma,4,Manager,Abuja,No,732000
+15,44,MSc,13,Developer,Kano,No,1489000
+0,51,MSc,11,Intern,Abuja,Yes,805500
+2,51,Degree,7,Data Scientist,Jigawa,No,943500
+12,32,PhD,3,Developer,Jigawa,Yes,1354000
+15,35,BSc,2,Engineer,Kano,Yes,1208500
+2,32,PhD,13,Data Scientist,Remote,Yes,1574000
+4,30,Diploma,12,Data Scientist,Kaduna,No,981000
+7,25,BSc,1,Developer,Abuja,No,695500
+4,47,MSc,5,Manager,Lagos,No,1107500
+7,21,BSc,7,Engineer,Abuja,Yes,953500
+14,47,Hnd,15,Manager,Jigawa,Yes,1587500
+5,41,Degree,7,Developer,Remote,No,1003500
+5,31,Diploma,14,Manager,Remote,Yes,1274500
+1,45,PhD,5,Analyst,Kaduna,Yes,897500
+0,21,BSc,13,Analyst,Lagos,No,556500
+5,38,MSc,1,Engineer,Kano,No,848000
+0,53,Hnd,13,Data Scientist,Abuja,No,1006500
+7,50,Diploma,14,Manager,Remote,No,1292000
+12,23,PhD,7,Intern,Kano,No,1163500
+11,23,BSc,7,Developer,Kaduna,No,918500
+2,21,Degree,12,Intern,Lagos,Yes,768500
+11,50,MSc,3,Engineer,Jigawa,No,1144000
+7,48,MSc,6,Analyst,Lagos,Yes,1153000
+14,22,Degree,11,Analyst,Kaduna,No,1183000
+8,52,Diploma,13,Data Scientist,Jigawa,Yes,1324000
+10,26,Degree,15,Manager,Kano,Yes,1445000
+9,53,Degree,10,Engineer,Kaduna,No,1117500
+3,26,MSc,9,Analyst,Kaduna,No,762000
+9,53,BSc,10,Engineer,Kano,No,1007500
+6,20,BSc,12,Data Scientist,Remote,No,1236000
+11,36,Diploma,1,Manager,Kaduna,No,1013000
+7,48,Hnd,15,Analyst,Lagos,No,1045000
+2,20,Degree,13,Data Scientist,Kaduna,No,1004000
+3,40,Diploma,4,Data Scientist,Remote,No,1007000
+6,40,BSc,3,Intern,Abuja,No,564000
+14,36,Degree,12,Engineer,Jigawa,No,1306000
+4,20,MSc,7,Engineer,Lagos,Yes,1066000
+5,21,PhD,10,Data Scientist,Remote,Yes,1627500
+7,35,Hnd,15,Manager,Kano,Yes,1282500
+9,48,Degree,10,Data Scientist,Lagos,No,1425000
+3,52,Hnd,1,Developer,Lagos,No,683000
+8,52,MSc,14,Analyst,Jigawa,Yes,1232000
+2,45,PhD,6,Intern,Kano,Yes,870500
+12,21,BSc,7,Engineer,Lagos,No,1088500
+0,31,Hnd,8,Data Scientist,Kaduna,Yes,921500
+4,51,MSc,9,Intern,Jigawa,Yes,859500
+7,21,Hnd,10,Analyst,Jigawa,Yes,887500
+14,32,Hnd,13,Analyst,Remote,No,1384000
+12,43,MSc,13,Data Scientist,Kano,No,1621500
+8,45,Diploma,12,Analyst,Jigawa,Yes,958500
+1,41,Hnd,12,Analyst,Jigawa,No,583500
+12,47,PhD,11,Manager,Lagos,No,1705500
+7,51,MSc,10,Developer,Lagos,No,1172500
+14,50,Degree,5,Analyst,Kano,Yes,1275000
+9,35,PhD,10,Engineer,Kaduna,Yes,1422500
+1,41,Diploma,15,Engineer,Lagos,Yes,907500
+14,40,MSc,12,Analyst,Kano,Yes,1476000
+4,30,BSc,5,Developer,Kano,No,595000
+0,34,Diploma,12,Analyst,Kano,No,491000
+1,51,PhD,7,Engineer,Abuja,No,988500
+15,55,PhD,1,Analyst,Remote,Yes,1670500
+14,32,MSc,12,Intern,Lagos,Yes,1436000
+2,55,MSc,5,Analyst,Kaduna,No,717500
+12,36,MSc,5,Intern,Kano,Yes,1150000
+5,30,Degree,13,Intern,Kaduna,No,734000
+13,49,Diploma,1,Analyst,Kaduna,No,905500
+2,31,MSc,2,Intern,Lagos,No,593500
+5,26,PhD,8,Manager,Kaduna,No,1194000
+8,25,PhD,13,Developer,Kaduna,Yes,1366500
+5,50,Diploma,11,Intern,Kaduna,No,628000
+13,21,Diploma,4,Engineer,Lagos,Yes,1199500
+11,50,MSc,1,Manager,Kaduna,Yes,1388000
+1,36,MSc,15,Engineer,Remote,No,1095000
+2,24,Diploma,9,Data Scientist,Jigawa,Yes,912000
+3,38,Degree,14,Developer,Abuja,No,902000
+0,54,Diploma,1,Intern,Kano,No,243000
+14,21,MSc,8,Analyst,Kano,Yes,1356500
+9,37,MSc,3,Manager,Lagos,No,1271500
+6,20,Hnd,10,Data Scientist,Jigawa,No,1050000
+11,21,Hnd,7,Analyst,Kano,No,933500
+10,41,BSc,15,Manager,Lagos,No,1322500
+13,43,BSc,9,Engineer,Kaduna,No,1134500
+3,41,MSc,13,Developer,Kaduna,No,931500
+9,29,PhD,3,Engineer,Remote,No,1351500
+10,54,Diploma,9,Intern,Kano,Yes,957000
+5,26,Degree,11,Engineer,Kaduna,Yes,1008000
+8,54,Degree,5,Intern,Jigawa,Yes,875000
+7,42,Diploma,8,Data Scientist,Remote,No,1264000
+11,28,Hnd,15,Developer,Jigawa,Yes,1235000
+0,22,MSc,10,Engineer,Kano,No,745000
+5,40,MSc,4,Data Scientist,Lagos,Yes,1337000
+2,24,Hnd,7,Data Scientist,Abuja,Yes,1036000
+11,33,Hnd,3,Data Scientist,Jigawa,Yes,1301500
+6,33,Hnd,8,Analyst,Abuja,Yes,926500
+4,24,Hnd,11,Intern,Kano,Yes,718000
+2,40,Diploma,13,Manager,Remote,Yes,1144000
+14,27,Degree,2,Data Scientist,Kaduna,Yes,1483500
+12,53,PhD,11,Developer,Jigawa,No,1430500
+11,27,BSc,5,Engineer,Abuja,Yes,1112500
+6,26,Degree,3,Engineer,Kaduna,Yes,909000
+0,41,Degree,1,Analyst,Kaduna,Yes,540500
+13,40,Diploma,9,Intern,Kaduna,Yes,1047000
+0,36,MSc,1,Engineer,Abuja,No,668000
+9,51,BSc,7,Engineer,Remote,No,1128500
+14,22,Diploma,9,Data Scientist,Kano,Yes,1487000
+6,37,Hnd,8,Manager,Jigawa,No,956500
+14,51,Hnd,3,Engineer,Kano,No,1171500
+6,34,PhD,8,Manager,Lagos,No,1349000
+12,26,BSc,2,Analyst,Remote,Yes,1131000
+13,32,BSc,14,Data Scientist,Abuja,No,1487000
+3,20,BSc,8,Engineer,Kaduna,Yes,729000
+9,23,Hnd,2,Analyst,Kaduna,Yes,868500
+12,40,Hnd,3,Engineer,Lagos,No,1134000
+4,26,BSc,5,Engineer,Jigawa,No,585000
+5,54,Degree,13,Manager,Kaduna,No,1124000
+7,53,Diploma,3,Data Scientist,Abuja,Yes,1191500
+3,53,Hnd,5,Engineer,Jigawa,No,677500
+4,25,Degree,15,Intern,Kano,No,722500
+11,36,BSc,8,Analyst,Lagos,Yes,1119000
+12,33,Hnd,10,Manager,Remote,No,1472500
+9,28,Diploma,1,Engineer,Lagos,No,863000
+13,50,PhD,15,Analyst,Abuja,Yes,1690000
+14,41,Hnd,2,Engineer,Jigawa,Yes,1208500
+13,40,Hnd,10,Engineer,Kaduna,Yes,1335000
+2,24,PhD,11,Developer,Lagos,No,1028000
+7,22,Hnd,7,Data Scientist,Jigawa,No,1046000
+14,43,Diploma,12,Developer,Jigawa,Yes,1283500
+6,24,BSc,12,Engineer,Remote,No,1016000
+3,38,MSc,15,Engineer,Jigawa,Yes,1090000
+0,45,Degree,6,Engineer,Jigawa,Yes,710500
+6,43,Degree,6,Engineer,Remote,Yes,1195500
+4,47,Diploma,14,Developer,Kaduna,No,789500
+14,35,Degree,6,Engineer,Jigawa,Yes,1315500
+10,51,BSc,1,Engineer,Lagos,Yes,1085500
+2,50,MSc,13,Intern,Abuja,No,809000
+3,51,Diploma,1,Manager,Jigawa,No,660500
+11,26,Degree,12,Engineer,Abuja,No,1236000
+15,34,PhD,13,Intern,Lagos,Yes,1634000
+10,32,BSc,13,Developer,Remote,Yes,1314000
+11,20,Diploma,13,Analyst,Kano,Yes,1089000
+6,53,Diploma,11,Manager,Lagos,No,1100500
+3,35,Degree,5,Intern,Jigawa,Yes,602500
+5,39,Degree,2,Developer,Jigawa,Yes,808500
+11,37,Diploma,10,Analyst,Remote,Yes,1257500
+13,29,Degree,8,Engineer,Lagos,Yes,1411500
+4,43,Hnd,3,Data Scientist,Jigawa,Yes,1011500
+6,48,Diploma,11,Manager,Kano,No,1008000
+4,21,Hnd,10,Analyst,Remote,No,852500
+7,30,PhD,5,Engineer,Kaduna,Yes,1230000
+6,28,MSc,6,Analyst,Remote,Yes,1158000
+5,28,BSc,6,Engineer,Kaduna,No,683000
+10,53,Degree,14,Data Scientist,Remote,Yes,1774500
+6,22,Degree,7,Engineer,Jigawa,Yes,941000
+4,25,Hnd,5,Analyst,Lagos,Yes,792500
+7,54,BSc,5,Engineer,Abuja,No,880000
+9,26,Degree,13,Manager,Lagos,No,1324000
+9,23,MSc,8,Engineer,Jigawa,No,1076500
+12,32,Diploma,3,Intern,Kano,Yes,884000
+7,53,Hnd,5,Developer,Kaduna,No,847500
+9,22,BSc,10,Manager,Kano,Yes,1180000
+14,41,PhD,11,Developer,Lagos,Yes,1730500
+14,40,Degree,14,Data Scientist,Kaduna,Yes,1732000
+15,41,Degree,2,Analyst,Kano,Yes,1243500
+12,40,BSc,14,Manager,Abuja,Yes,1482000
+6,29,MSc,3,Engineer,Kano,Yes,1026500
+8,50,Hnd,7,Analyst,Kano,Yes,991000
+3,42,Hnd,15,Data Scientist,Remote,Yes,1400000
+13,23,Degree,4,Intern,Remote,Yes,1224500
+6,20,Hnd,8,Analyst,Abuja,Yes,894000
+4,47,PhD,7,Manager,Kaduna,No,1183500
+1,39,MSc,15,Engineer,Lagos,Yes,1122500
+1,31,Diploma,2,Manager,Kano,Yes,698500
+8,29,Hnd,2,Intern,Kaduna,Yes,738500
+14,37,BSc,6,Intern,Lagos,Yes,1120500
+3,40,Diploma,14,Intern,Lagos,Yes,777000
+14,29,Diploma,1,Analyst,Jigawa,Yes,990500
+0,24,Degree,2,Intern,Kano,Yes,426000
+3,48,Hnd,12,Manager,Abuja,Yes,1131000
+4,32,Degree,7,Intern,Jigawa,Yes,676000
+3,49,PhD,9,Intern,Remote,No,1039500
+1,42,MSc,14,Manager,Kaduna,Yes,1152000
+2,53,MSc,5,Engineer,Remote,Yes,1122500
+10,29,BSc,12,Engineer,Kaduna,Yes,1138500
+12,27,Diploma,10,Engineer,Jigawa,No,1037500
+14,25,BSc,11,Manager,Kano,No,1310500
+1,39,MSc,15,Data Scientist,Remote,No,1332500
+4,32,MSc,14,Developer,Kaduna,Yes,1092000
+3,22,MSc,1,Developer,Kaduna,No,668000
+0,27,PhD,6,Manager,Remote,Yes,1245500
+2,36,Degree,8,Engineer,Kaduna,No,724000
+11,45,PhD,5,Data Scientist,Abuja,Yes,1737500
+4,25,Hnd,14,Analyst,Remote,No,934500
+2,44,MSc,4,Data Scientist,Kaduna,No,1002000
+1,25,Hnd,14,Data Scientist,Kaduna,No,939500
+5,45,BSc,8,Intern,Lagos,No,651500
+15,48,Hnd,12,Manager,Kaduna,No,1491000
+12,30,Degree,7,Manager,Abuja,No,1331000
+15,43,Diploma,7,Engineer,Lagos,Yes,1398500
+14,42,Degree,2,Manager,Lagos,No,1391000
+7,34,MSc,6,Manager,Kano,Yes,1268000
+1,20,Diploma,6,Analyst,Remote,No,573000
+12,55,Hnd,2,Data Scientist,Lagos,Yes,1503500
+5,44,Diploma,5,Developer,Lagos,No,755000
+0,50,MSc,15,Analyst,Lagos,Yes,1005000
+9,45,Diploma,4,Manager,Kaduna,Yes,1119500
+10,53,Diploma,9,Engineer,Remote,No,1214500
+13,22,Hnd,9,Engineer,Lagos,Yes,1362000
+15,37,Degree,8,Developer,Lagos,No,1361500
+11,25,Hnd,7,Engineer,Lagos,Yes,1243500
+4,45,Hnd,8,Data Scientist,Lagos,No,1106500
+11,34,BSc,15,Developer,Abuja,No,1150000
+3,38,MSc,15,Intern,Kano,Yes,930000
+3,31,Degree,14,Manager,Kaduna,Yes,1114500
+11,28,Diploma,14,Analyst,Kano,No,1007000
+5,28,PhD,8,Analyst,Remote,Yes,1279000
+5,32,Diploma,2,Analyst,Kaduna,Yes,641000
+7,36,Diploma,7,Intern,Kano,No,621000
+15,20,MSc,1,Data Scientist,Kaduna,No,1473000
+11,43,Diploma,11,Developer,Jigawa,Yes,1130500
+10,39,Degree,7,Manager,Kaduna,Yes,1323500
+7,45,BSc,10,Analyst,Remote,Yes,1097500
+8,41,Hnd,15,Analyst,Lagos,Yes,1192500
+9,35,Degree,14,Data Scientist,Kano,No,1384500
+14,46,Degree,12,Engineer,Kano,Yes,1491000
+3,52,MSc,12,Engineer,Lagos,Yes,1191000
+0,39,Degree,14,Data Scientist,Jigawa,No,949500
+3,45,Degree,5,Manager,Abuja,Yes,1047500
+15,23,PhD,8,Analyst,Kano,No,1416500
+10,52,Degree,11,Manager,Jigawa,Yes,1398000
+3,47,PhD,1,Developer,Jigawa,Yes,950500
+11,36,Degree,6,Intern,Kano,Yes,1023000
+7,44,PhD,11,Analyst,Jigawa,No,1123000
+9,43,Diploma,7,Data Scientist,Abuja,No,1208500
+5,28,Degree,10,Data Scientist,Kaduna,Yes,1225000
+9,38,Diploma,4,Developer,Lagos,No,902000
+7,33,MSc,11,Engineer,Kaduna,Yes,1215500
+11,29,Diploma,14,Developer,Remote,Yes,1369500
+0,47,Degree,15,Intern,Lagos,No,677500
+5,30,Diploma,4,Developer,Jigawa,Yes,702000
+3,35,Diploma,14,Engineer,Kano,Yes,884500
+14,26,Hnd,3,Developer,Remote,No,1249000
+7,23,Degree,5,Manager,Abuja,Yes,1172500
+5,33,Degree,12,Manager,Remote,No,1243500
+10,29,MSc,7,Analyst,Kaduna,Yes,1168500
+8,35,MSc,7,Manager,Kano,Yes,1333500
+7,53,PhD,13,Developer,Jigawa,No,1241500
+8,37,Hnd,12,Developer,Kano,No,988500
+11,53,Degree,9,Engineer,Kaduna,Yes,1309500
+1,27,Diploma,8,Analyst,Kaduna,Yes,556500
+10,49,MSc,1,Developer,Jigawa,No,1020500
+1,27,Degree,6,Manager,Kano,Yes,880500
+12,43,PhD,4,Intern,Jigawa,Yes,1239500
+11,26,MSc,8,Developer,Lagos,No,1254000
+4,50,Diploma,7,Developer,Kano,No,681000
+7,23,PhD,7,Engineer,Kano,Yes,1258500
+1,36,BSc,9,Intern,Jigawa,Yes,467000
+8,20,Degree,3,Intern,Lagos,No,754000
+7,33,Degree,4,Developer,Jigawa,Yes,919500
+12,48,PhD,10,Engineer,Abuja,No,1530000
+11,36,BSc,7,Data Scientist,Remote,No,1411000
+6,24,PhD,3,Developer,Kano,No,984000
+3,33,Diploma,6,Manager,Lagos,Yes,945500
+3,27,MSc,5,Manager,Kaduna,No,922500
+11,37,MSc,10,Analyst,Jigawa,Yes,1257500
+5,46,PhD,7,Analyst,Jigawa,No,966000
+8,45,MSc,13,Analyst,Abuja,Yes,1286500
+12,29,PhD,7,Analyst,Abuja,Yes,1448500
+13,28,PhD,9,Manager,Kano,Yes,1707000
+7,48,MSc,11,Data Scientist,Lagos,Yes,1573000
+2,54,Hnd,3,Manager,Remote,Yes,1069000
+6,31,Hnd,14,Engineer,Jigawa,Yes,1039500
+5,40,PhD,1,Intern,Remote,No,963000
+3,46,Hnd,10,Manager,Abuja,Yes,1090000
+3,52,Diploma,9,Manager,Abuja,No,897000
+8,36,MSc,15,Developer,Kaduna,No,1180000
+0,38,MSc,4,Data Scientist,Abuja,Yes,1077000
+11,31,Hnd,1,Engineer,Remote,Yes,1250500
+9,48,BSc,12,Engineer,Jigawa,Yes,1111000
+2,37,BSc,8,Developer,Abuja,Yes,746500
+7,36,Hnd,14,Intern,Jigawa,No,777000
+4,32,Degree,2,Data Scientist,Abuja,Yes,1106000
+0,52,MSc,14,Manager,Remote,No,1202000
+15,50,Diploma,14,Manager,Lagos,Yes,1672000
+9,45,BSc,5,Engineer,Jigawa,No,857500
+5,53,Degree,13,Analyst,Jigawa,No,861500
+9,23,Hnd,1,Developer,Kano,Yes,920500
+6,41,MSc,9,Engineer,Kaduna,Yes,1154500
+13,27,PhD,3,Data Scientist,Jigawa,No,1536500
+3,44,MSc,2,Manager,Kaduna,No,911000
+15,23,Hnd,1,Developer,Jigawa,No,1030500
+7,30,MSc,6,Analyst,Lagos,Yes,1108000
+11,50,MSc,10,Developer,Abuja,No,1320000
+9,49,BSc,6,Engineer,Kano,Yes,1045500
+10,51,Degree,9,Manager,Kano,No,1279500
+3,25,Degree,12,Developer,Kano,Yes,903500
+7,49,Degree,4,Data Scientist,Remote,No,1329500
+3,24,BSc,9,Engineer,Abuja,Yes,817000
+0,36,MSc,5,Engineer,Kaduna,Yes,800000
+1,55,Hnd,7,Data Scientist,Abuja,Yes,1068500
+15,39,PhD,2,Data Scientist,Kano,No,1678500
+6,45,BSc,6,Engineer,Kano,No,780500
+4,38,Hnd,13,Engineer,Remote,No,1049000
+1,55,Hnd,14,Manager,Remote,No,1104500
+7,31,PhD,13,Analyst,Kaduna,No,1156500
+12,20,BSc,9,Engineer,Jigawa,No,1002000
+11,44,Hnd,9,Analyst,Remote,No,1207000
+10,22,Hnd,15,Data Scientist,Remote,No,1545000
+4,22,Hnd,10,Analyst,Kano,Yes,795000
+3,24,Degree,3,Manager,Kaduna,Yes,899000
+2,22,MSc,15,Manager,Remote,Yes,1355000
+4,45,BSc,1,Engineer,Jigawa,Yes,680500
+8,47,BSc,7,Engineer,Kaduna,No,883500
+13,22,PhD,14,Developer,Jigawa,No,1452000
+2,44,BSc,11,Intern,Kano,Yes,608000
+10,54,PhD,7,Engineer,Kano,No,1351000
+0,40,Degree,9,Intern,Kaduna,No,462000
+12,22,PhD,3,Engineer,Kano,No,1289000
+11,53,BSc,1,Intern,Remote,No,915500
+12,39,PhD,2,Engineer,Kano,Yes,1433500
+10,35,PhD,6,Developer,Kaduna,Yes,1355500
+1,55,Degree,13,Analyst,Kaduna,Yes,836500
+5,31,MSc,3,Data Scientist,Kano,No,1096500
+12,54,PhD,7,Manager,Kaduna,No,1561000
+8,44,MSc,11,Analyst,Lagos,Yes,1278000
+11,22,MSc,2,Engineer,Abuja,No,1146000
+4,24,PhD,7,Developer,Lagos,No,1046000
+7,47,Diploma,14,Data Scientist,Jigawa,No,1164500
+15,30,Hnd,2,Manager,Kaduna,No,1266000
+5,27,MSc,8,Engineer,Lagos,Yes,1146500
+8,43,BSc,1,Analyst,Jigawa,No,635500
+8,37,Degree,9,Analyst,Remote,Yes,1224500
+5,40,Hnd,8,Engineer,Abuja,Yes,999000
+5,22,MSc,1,Manager,Abuja,Yes,1108000
+9,49,Diploma,1,Engineer,Abuja,No,885500
+3,45,Diploma,3,Developer,Lagos,Yes,751500
+4,41,MSc,11,Developer,Kaduna,Yes,1060500
+15,30,Hnd,7,Intern,Kano,No,1036000
+6,20,MSc,8,Analyst,Abuja,No,924000
+10,24,PhD,9,Developer,Lagos,No,1352000
+14,37,Diploma,9,Analyst,Abuja,Yes,1244500
+0,29,Degree,7,Analyst,Remote,Yes,808500
+14,53,PhD,13,Manager,Abuja,Yes,1936500
+2,23,Hnd,3,Manager,Remote,No,871500
+5,44,Degree,1,Developer,Abuja,Yes,893000
+8,31,Hnd,5,Engineer,Lagos,Yes,1087500
+4,36,Diploma,4,Data Scientist,Kaduna,No,852000
+12,22,Hnd,1,Data Scientist,Lagos,No,1283000
+10,38,Hnd,4,Developer,Abuja,Yes,1107000
+5,29,MSc,1,Analyst,Remote,Yes,1025500
+3,27,MSc,15,Developer,Abuja,Yes,1112500
+10,27,Degree,13,Data Scientist,Abuja,Yes,1561500
+6,55,Degree,4,Data Scientist,Kaduna,Yes,1229500
+10,31,Degree,2,Analyst,Kano,Yes,993500
+7,29,Hnd,3,Analyst,Kaduna,Yes,811500
+14,28,Degree,6,Manager,Kaduna,Yes,1458000
+4,39,BSc,13,Engineer,Jigawa,Yes,881500
+11,47,PhD,4,Data Scientist,Lagos,No,1634500
+10,20,MSc,5,Intern,Jigawa,Yes,980000
+15,39,Hnd,3,Data Scientist,Abuja,No,1466500
+0,22,BSc,5,Data Scientist,Jigawa,Yes,745000
+12,36,Degree,5,Manager,Lagos,Yes,1460000
+11,44,Diploma,15,Intern,Kano,Yes,1085000
+9,32,BSc,4,Data Scientist,Lagos,No,1157000
+8,53,BSc,5,Developer,Jigawa,Yes,912500
+2,33,MSc,13,Manager,Abuja,Yes,1216500
+15,51,Degree,1,Data Scientist,Kano,No,1460500
+4,48,Hnd,8,Analyst,Abuja,No,754000
+13,30,Hnd,4,Analyst,Lagos,Yes,1192000
+8,35,MSc,14,Developer,Abuja,No,1219500
+5,34,MSc,1,Manager,Abuja,Yes,1138000
+6,23,MSc,3,Manager,Abuja,No,1071500
+15,52,Hnd,15,Data Scientist,Lagos,Yes,1865000
+3,38,Diploma,5,Intern,Remote,Yes,710000
+0,51,Diploma,11,Analyst,Remote,No,695500
+10,42,PhD,15,Data Scientist,Jigawa,No,1655000
+10,33,Hnd,14,Engineer,Kaduna,No,1134500
+1,25,MSc,3,Analyst,Remote,No,751500
+11,51,PhD,10,Intern,Jigawa,Yes,1322500
+2,40,Degree,8,Intern,Jigawa,Yes,624000
+12,28,Hnd,14,Intern,Jigawa,No,982000
+13,41,Degree,2,Data Scientist,Remote,Yes,1663500
+6,28,Hnd,11,Analyst,Abuja,No,848000
+3,33,PhD,14,Data Scientist,Kaduna,Yes,1449500
+5,43,Diploma,5,Engineer,Remote,No,892500
+10,35,Degree,7,Engineer,Lagos,No,1153500
+10,38,MSc,7,Developer,Kaduna,Yes,1251000
+9,44,Degree,7,Intern,Remote,No,1031000
+6,40,BSc,12,Developer,Kano,No,836000
+13,49,Diploma,7,Engineer,Lagos,No,1203500
+9,26,Degree,11,Intern,Remote,No,1058000
+13,51,BSc,4,Intern,Abuja,No,924500
+7,27,Hnd,8,Data Scientist,Kano,No,1116500
+8,55,Diploma,8,Engineer,Lagos,Yes,1131500
+10,25,Degree,3,Engineer,Lagos,Yes,1176500
+4,35,Degree,13,Intern,Jigawa,No,671500
+14,45,Hnd,11,Developer,Kano,Yes,1380500
+8,31,Hnd,5,Intern,Kaduna,No,677500
+7,43,BSc,13,Developer,Lagos,Yes,1106500
+3,44,Hnd,10,Data Scientist,Remote,No,1195000
+2,41,Diploma,9,Engineer,Jigawa,Yes,724500
+0,55,Hnd,14,Data Scientist,Kaduna,No,969500
+8,27,Degree,8,Intern,Kaduna,Yes,891500
+5,54,Degree,1,Data Scientist,Jigawa,No,978000
+1,48,BSc,14,Analyst,Kano,Yes,727000
+11,23,Hnd,5,Data Scientist,Abuja,No,1282500
+2,22,PhD,6,Engineer,Jigawa,Yes,973000
+3,40,PhD,11,Engineer,Abuja,Yes,1243000
+15,50,PhD,2,Manager,Kano,No,1606000
+10,49,PhD,15,Developer,Kaduna,Yes,1552500
+4,53,MSc,3,Manager,Lagos,No,1086500
+7,43,Degree,12,Engineer,Kaduna,No,1038500
+9,32,Diploma,13,Developer,Remote,No,1149000
+3,46,BSc,11,Engineer,Remote,No,918000
+5,45,Hnd,1,Intern,Lagos,Yes,715500
+15,42,Hnd,5,Analyst,Kano,No,1130000
+1,32,PhD,5,Analyst,Lagos,No,835000
+10,45,PhD,4,Data Scientist,Kaduna,No,1494500
+7,22,MSc,6,Manager,Kano,No,1118000
+2,30,Hnd,2,Intern,Jigawa,Yes,441000
+9,39,MSc,15,Data Scientist,Kano,Yes,1632500
+4,28,Hnd,3,Engineer,Lagos,Yes,864000
+6,55,Hnd,4,Engineer,Remote,Yes,1139500
+0,40,Diploma,15,Manager,Kano,No,790000
+1,52,Hnd,8,Intern,Kano,No,479000
+15,45,BSc,14,Manager,Jigawa,Yes,1539500
+10,33,PhD,14,Data Scientist,Kano,Yes,1774500
+5,27,BSc,2,Analyst,Kaduna,Yes,628500
+14,44,Degree,4,Engineer,Lagos,Yes,1422000
+0,53,PhD,4,Intern,Kaduna,Yes,754500
+0,30,MSc,6,Developer,Kaduna,No,643000
+7,38,Hnd,12,Manager,Kaduna,Yes,1226000
+0,28,Diploma,8,Data Scientist,Abuja,No,784000
+13,41,Hnd,10,Engineer,Lagos,Yes,1427500
+10,21,MSc,5,Analyst,Remote,Yes,1302500
+15,21,BSc,5,Manager,Kaduna,No,1227500
+12,43,MSc,10,Developer,Kano,No,1297500
+12,50,Hnd,13,Analyst,Lagos,No,1239000
+11,37,MSc,2,Developer,Kano,Yes,1213500
+8,32,Degree,15,Analyst,Remote,No,1200000
+4,25,Degree,10,Engineer,Kaduna,No,822500
+11,21,Degree,4,Analyst,Remote,Yes,1229500
+0,39,BSc,1,Data Scientist,Jigawa,No,595500
+15,36,MSc,8,Manager,Kano,No,1549000
+5,54,Diploma,10,Analyst,Remote,Yes,1030000
+7,24,Diploma,11,Data Scientist,Remote,No,1273000
+3,44,Hnd,9,Manager,Lagos,Yes,1097000
+3,42,MSc,5,Engineer,Lagos,No,920000
+10,21,Degree,2,Intern,Kano,Yes,868500
+13,41,BSc,11,Intern,Jigawa,No,935500
+11,32,PhD,2,Analyst,Kaduna,Yes,1261000
+6,34,Degree,10,Intern,Abuja,Yes,915000
+12,22,Hnd,13,Analyst,Kano,Yes,1209000
+5,47,BSc,4,Analyst,Lagos,No,684500
+6,20,BSc,10,Data Scientist,Remote,Yes,1320000
+7,48,Hnd,3,Manager,Kano,Yes,1099000
+1,46,PhD,7,Intern,Jigawa,No,686000
+12,41,PhD,1,Intern,Lagos,Yes,1300500
+14,42,BSc,2,Manager,Remote,Yes,1491000
+7,43,BSc,7,Analyst,Lagos,No,818500
+4,34,Hnd,13,Manager,Kaduna,Yes,1099000
+13,21,BSc,15,Analyst,Remote,Yes,1397500
+6,40,Diploma,8,Analyst,Remote,Yes,1004000
+13,26,MSc,8,Manager,Remote,Yes,1734000
+5,34,Degree,3,Analyst,Abuja,Yes,844000
+9,20,MSc,7,Intern,Kano,No,891000
+13,41,BSc,11,Engineer,Remote,Yes,1475500
+12,26,MSc,2,Manager,Jigawa,Yes,1361000
+3,22,Degree,2,Data Scientist,Lagos,No,946000
+7,29,Hnd,13,Data Scientist,Lagos,No,1291500
+10,33,Diploma,11,Developer,Jigawa,No,940500
+1,38,Hnd,15,Data Scientist,Kaduna,No,990000
+12,20,MSc,1,Developer,Jigawa,Yes,1158000
+7,47,Hnd,12,Intern,Abuja,Yes,978500
+15,50,Degree,6,Engineer,Lagos,No,1398000
+13,32,MSc,15,Engineer,Jigawa,No,1405000
+12,22,Hnd,1,Manager,Kaduna,Yes,1213000
+9,48,Diploma,11,Intern,Remote,No,993000
+8,50,MSc,5,Data Scientist,Kano,No,1315000
+2,32,MSc,6,Manager,Lagos,No,998000
+2,37,Diploma,14,Data Scientist,Jigawa,Yes,1034500
+11,28,MSc,8,Intern,Abuja,No,1069000
+10,44,Diploma,6,Manager,Remote,Yes,1388000
+15,35,Hnd,8,Developer,Kano,Yes,1346500
+0,29,PhD,6,Analyst,Kano,Yes,840500
+3,45,Hnd,1,Intern,Remote,No,605500
+11,23,Diploma,2,Analyst,Abuja,Yes,948500
+11,25,PhD,1,Engineer,Lagos,Yes,1415500
+9,37,BSc,5,Analyst,Jigawa,Yes,857500
+1,38,Hnd,1,Intern,Kaduna,Yes,428000
+2,54,Degree,13,Intern,Kaduna,Yes,779000
+10,45,Degree,4,Intern,Jigawa,Yes,924500
+11,30,Degree,12,Analyst,Kaduna,Yes,1206000
+15,36,Hnd,10,Manager,Remote,No,1615000
+4,48,MSc,13,Developer,Abuja,No,1054000
+0,34,Hnd,3,Intern,Jigawa,Yes,379000
+8,38,MSc,4,Engineer,Lagos,No,1117000
+8,25,PhD,5,Analyst,Abuja,No,1102500
+14,28,BSc,13,Analyst,Remote,No,1304000
+0,47,Degree,1,Developer,Remote,No,685500
+1,54,BSc,14,Manager,Kaduna,Yes,962000
+14,28,Degree,7,Analyst,Lagos,No,1216000
+15,43,Hnd,14,Developer,Kaduna,No,1344500
+3,24,MSc,4,Intern,Abuja,Yes,747000
+1,39,Diploma,1,Intern,Lagos,No,330500
+3,28,Hnd,3,Manager,Jigawa,Yes,829000
+4,25,PhD,9,Analyst,Lagos,Yes,1144500
+11,31,Degree,4,Analyst,Kaduna,Yes,1064500
+13,51,MSc,1,Engineer,Abuja,No,1290500
+10,29,Hnd,3,Manager,Abuja,Yes,1236500
+12,44,BSc,12,Analyst,Remote,Yes,1356000
+12,35,Degree,7,Analyst,Jigawa,Yes,1143500
+11,49,Degree,1,Intern,Abuja,Yes,1015500
+4,37,BSc,9,Analyst,Remote,Yes,924500
+12,33,Hnd,13,Developer,Remote,No,1356500
+15,33,Degree,15,Manager,Jigawa,No,1527500
+10,32,PhD,3,Analyst,Lagos,No,1204000
+11,48,Diploma,15,Intern,Lagos,Yes,1175000
+6,45,Degree,4,Data Scientist,Lagos,No,1174500
+9,33,MSc,4,Developer,Abuja,Yes,1199500
+2,34,PhD,12,Data Scientist,Kaduna,No,1251000
+2,22,PhD,2,Data Scientist,Lagos,Yes,1251000
+9,39,MSc,5,Data Scientist,Lagos,No,1412500
+9,50,PhD,6,Developer,Kaduna,Yes,1348000
+0,35,Hnd,10,Engineer,Kano,No,627500
+12,34,BSc,10,Engineer,Kano,Yes,1215000
+8,42,MSc,10,Analyst,Remote,Yes,1355000
+5,39,MSc,6,Manager,Kano,Yes,1190500
+15,48,Hnd,7,Engineer,Kaduna,No,1271000
+2,27,Hnd,4,Manager,Abuja,Yes,889500
+10,47,Hnd,12,Intern,Remote,No,1123500
+4,53,BSc,15,Intern,Lagos,No,752500
+4,27,MSc,4,Data Scientist,Remote,Yes,1359500
+3,31,Diploma,13,Engineer,Kaduna,No,726500
+8,37,PhD,12,Engineer,Abuja,No,1358500
+3,22,MSc,14,Manager,Lagos,No,1162000
+4,26,Diploma,2,Analyst,Kano,Yes,591000
+5,33,Hnd,9,Engineer,Remote,Yes,1129500
+11,34,Hnd,5,Developer,Kaduna,Yes,1100000
+3,27,Diploma,11,Intern,Kano,No,490500
+9,47,Degree,4,Data Scientist,Kaduna,Yes,1344500
+8,20,MSc,2,Analyst,Kano,Yes,976000
+3,40,Degree,5,Manager,Lagos,No,945000
+5,53,BSc,3,Manager,Kaduna,No,821500
+10,41,Hnd,11,Data Scientist,Remote,No,1520500
+8,54,Diploma,9,Engineer,Kano,No,947000
+2,24,Hnd,3,Developer,Kano,No,524000
+4,41,Diploma,12,Intern,Kano,No,588500
+11,37,Diploma,3,Engineer,Kaduna,Yes,1041500
+4,21,BSc,15,Analyst,Lagos,No,772500
+6,46,BSc,14,Manager,Jigawa,Yes,1137000
+11,34,Degree,7,Data Scientist,Lagos,Yes,1546000
+14,44,BSc,1,Engineer,Kaduna,Yes,1158000
+1,44,PhD,12,Engineer,Remote,No,1191000
+10,50,Hnd,6,Manager,Lagos,Yes,1373000
+2,42,Diploma,1,Manager,Abuja,Yes,803000
+12,45,MSc,11,Analyst,Abuja,No,1310500
+7,43,BSc,10,Intern,Kano,No,692500
+13,44,BSc,2,Manager,Remote,No,1331000
+3,33,Hnd,10,Analyst,Kano,No,657500
+14,50,Degree,15,Intern,Kaduna,Yes,1345000
+4,50,Diploma,1,Engineer,Jigawa,Yes,693000
+6,28,Diploma,11,Intern,Abuja,Yes,798000
+10,23,PhD,8,Developer,Kano,Yes,1371500
+5,33,Degree,3,Intern,Remote,Yes,871500
+12,49,BSc,12,Developer,Lagos,Yes,1328500
+8,39,BSc,15,Intern,Jigawa,Yes,897500
+4,35,Diploma,13,Intern,Kaduna,No,581500
+13,51,Diploma,9,Analyst,Lagos,Yes,1264500
+10,38,MSc,5,Engineer,Kano,Yes,1265000
+2,29,Hnd,13,Engineer,Kaduna,Yes,866500
+14,35,MSc,6,Engineer,Kaduna,No,1325500
+12,30,BSc,9,Data Scientist,Remote,No,1477000
+11,43,PhD,7,Intern,Kaduna,Yes,1278500
+3,33,Hnd,6,Engineer,Lagos,No,765500
+5,32,BSc,11,Manager,Jigawa,No,883000
+9,23,MSc,4,Data Scientist,Kano,Yes,1394500
+2,38,PhD,3,Data Scientist,Kano,No,1109000
+2,30,Hnd,4,Developer,Kaduna,Yes,667000
+8,55,Hnd,6,Developer,Kaduna,No,915500
+5,24,MSc,9,Intern,Kano,No,757000
+14,30,Diploma,12,Analyst,Kano,Yes,1231000
+2,46,Diploma,6,Intern,Kano,No,403000
+9,46,PhD,8,Analyst,Jigawa,No,1164000
+5,37,MSc,6,Analyst,Lagos,No,915500
+5,38,Hnd,13,Intern,Lagos,Yes,914000
+10,20,Hnd,13,Intern,Lagos,Yes,1094000
+6,48,Degree,2,Intern,Lagos,Yes,836000
+1,24,PhD,4,Engineer,Remote,No,997000
+10,39,PhD,8,Manager,Kaduna,Yes,1571500
+12,54,BSc,8,Engineer,Kano,Yes,1229000
+11,42,Diploma,11,Developer,Kaduna,Yes,1158000
+12,30,MSc,15,Developer,Abuja,No,1405000
+13,29,Hnd,14,Intern,Remote,Yes,1369500
+9,28,Diploma,5,Analyst,Remote,Yes,1055000
+11,40,MSc,13,Manager,Abuja,No,1519000
+3,52,MSc,2,Developer,Jigawa,No,731000
+13,40,Hnd,2,Manager,Remote,No,1391000
+12,50,BSc,13,Engineer,Lagos,Yes,1389000
+9,34,PhD,12,Intern,Jigawa,No,1106000
+8,55,Degree,12,Manager,Jigawa,Yes,1333500
+10,21,Degree,5,Manager,Remote,No,1312500
+3,55,Diploma,7,Data Scientist,Remote,Yes,1218500
+14,46,MSc,9,Intern,Jigawa,Yes,1297000
+1,47,BSc,7,Analyst,Abuja,No,528500
+2,33,BSc,3,Analyst,Abuja,No,466500
+7,22,BSc,6,Engineer,Jigawa,Yes,848000
+0,26,Diploma,9,Developer,Kano,Yes,597000
+5,25,Diploma,8,Developer,Kaduna,No,671500
+15,47,MSc,13,Intern,Remote,Yes,1636500
+0,33,MSc,1,Analyst,Kaduna,No,500500
+6,40,PhD,8,Data Scientist,Lagos,No,1464000
+12,39,Diploma,3,Data Scientist,Kano,No,1211500
+12,47,Hnd,8,Analyst,Kano,No,1061500
+13,25,Diploma,8,Developer,Lagos,No,1121500
+1,28,MSc,5,Data Scientist,Abuja,Yes,1115000
+2,39,MSc,4,Manager,Kaduna,Yes,1009500
+5,53,Hnd,12,Analyst,Jigawa,No,793500
+3,38,Hnd,5,Data Scientist,Remote,Yes,1210000
+2,20,MSc,11,Data Scientist,Kano,No,1078000
+7,24,MSc,11,Data Scientist,Lagos,No,1393000
+6,21,PhD,5,Analyst,Lagos,No,1032500
+3,55,MSc,10,Data Scientist,Abuja,No,1242500
+11,34,MSc,7,Engineer,Kano,No,1216000
+14,33,MSc,4,Developer,Jigawa,No,1214500
+13,25,Degree,5,Developer,Kaduna,No,1097500
+13,21,BSc,8,Intern,Jigawa,Yes,951500
+3,41,PhD,2,Developer,Abuja,No,923500
+10,54,Hnd,11,Engineer,Lagos,No,1223000
+9,32,Hnd,9,Analyst,Remote,Yes,1207000
+6,51,Degree,13,Developer,Lagos,Yes,1201500
+1,39,Hnd,8,Developer,Abuja,No,656500
+11,24,BSc,9,Developer,Remote,Yes,1267000
+10,27,Degree,13,Manager,Kaduna,No,1281500
+5,26,MSc,14,Data Scientist,Remote,Yes,1582000
+7,43,BSc,5,Data Scientist,Abuja,No,1082500
+7,25,MSc,4,Developer,Kaduna,No,909500
+0,23,Hnd,11,Intern,Jigawa,Yes,495500
+4,51,Hnd,4,Manager,Abuja,Yes,1039500
+4,46,MSc,10,Analyst,Lagos,No,965000
+12,45,Diploma,3,Manager,Jigawa,No,1086500
+6,54,Diploma,11,Data Scientist,Lagos,No,1203000
+13,23,MSc,3,Intern,Remote,No,1186500
+3,40,Diploma,1,Intern,Remote,Yes,643000
+13,47,Diploma,2,Developer,Abuja,No,1038500
+8,35,PhD,5,Engineer,Kaduna,Yes,1287500
+7,27,MSc,9,Manager,Kaduna,Yes,1294500
+1,35,Diploma,10,Data Scientist,Abuja,Yes,1002500
+0,45,PhD,9,Intern,Abuja,Yes,884500
+2,54,Diploma,11,Developer,Kano,No,673000
+3,30,MSc,15,Developer,Lagos,No,1030000
+4,31,Diploma,12,Developer,Kano,Yes,843500
+1,33,Diploma,2,Data Scientist,Kaduna,No,673500
+11,23,Degree,8,Data Scientist,Lagos,No,1416500
+11,45,Degree,8,Data Scientist,Lagos,Yes,1591500
+11,50,MSc,13,Data Scientist,Jigawa,Yes,1674000
+13,31,PhD,9,Engineer,Kaduna,No,1454500
+8,52,MSc,7,Manager,Kano,Yes,1376000
+0,48,MSc,9,Data Scientist,Remote,No,1202000
+7,39,MSc,12,Engineer,Lagos,Yes,1338500
+7,51,BSc,8,Data Scientist,Abuja,No,1156500
+3,25,MSc,13,Data Scientist,Kano,No,1171500
+4,21,BSc,9,Manager,Kaduna,No,804500
+9,52,Degree,15,Intern,Jigawa,Yes,1095000
+10,54,Hnd,3,Manager,Jigawa,Yes,1209000
+4,21,BSc,5,Analyst,Abuja,Yes,682500
+2,39,MSc,6,Manager,Jigawa,Yes,1015500
+13,37,PhD,6,Manager,Lagos,No,1635500
+7,49,Degree,15,Manager,Kano,Yes,1367500
+6,40,BSc,10,Intern,Abuja,Yes,810000
+10,33,Hnd,5,Manager,Kano,No,1112500
+11,28,MSc,12,Engineer,Abuja,No,1341000
+9,45,MSc,14,Engineer,Kaduna,No,1269500
+13,24,MSc,13,Developer,Remote,No,1529000
+5,53,BSc,12,Manager,Jigawa,Yes,1073500
+4,48,Diploma,14,Engineer,Remote,Yes,1142000
+6,28,Degree,5,Data Scientist,Kano,Yes,1190000
+14,38,PhD,11,Manager,Jigawa,Yes,1773000
+0,25,BSc,12,Data Scientist,Jigawa,No,758500
+4,24,PhD,8,Engineer,Jigawa,Yes,1104000
+9,27,MSc,11,Analyst,Lagos,Yes,1280500
+1,50,BSc,4,Manager,Kaduna,Yes,772000
+9,55,MSc,7,Analyst,Abuja,No,1128500
+6,54,Degree,6,Developer,Jigawa,Yes,963000
+3,23,Degree,13,Developer,Abuja,Yes,966500
+14,54,PhD,6,Intern,Remote,Yes,1613000
+7,34,BSc,3,Intern,Lagos,No,624000
+10,48,Diploma,7,Intern,Abuja,Yes,956000
+12,52,Hnd,15,Analyst,Abuja,Yes,1370000
+3,43,PhD,9,Intern,Kano,No,844500
+7,50,Hnd,13,Intern,Abuja,Yes,1004000
+5,27,PhD,1,Manager,Lagos,Yes,1280500
+6,40,Degree,4,Intern,Remote,Yes,952000
+8,40,PhD,11,Developer,Kaduna,No,1248000
+3,25,PhD,5,Developer,Remote,Yes,1187500
+1,45,PhD,5,Analyst,Kano,No,787500
+14,34,MSc,14,Intern,Jigawa,No,1237000
+11,53,Degree,9,Engineer,Abuja,Yes,1369500
+4,27,Diploma,7,Data Scientist,Kaduna,No,883500
+12,34,Degree,7,Analyst,Lagos,Yes,1261000
+3,54,PhD,14,Intern,Kano,No,962000
+0,37,PhD,5,Intern,Lagos,Yes,822500
+9,55,PhD,9,Manager,Abuja,Yes,1644500
+5,35,Degree,13,Engineer,Lagos,Yes,1156500
+9,22,Hnd,8,Engineer,Abuja,Yes,1134000
+1,34,Diploma,5,Engineer,Lagos,Yes,710000
+1,40,Degree,8,Manager,Kaduna,No,819000
+1,28,Diploma,1,Intern,Jigawa,No,183000
+15,21,Hnd,4,Engineer,Abuja,Yes,1329500
+14,20,BSc,6,Intern,Kano,Yes,998000
+13,48,Diploma,11,Intern,Jigawa,Yes,1073000
+1,45,BSc,4,Developer,Lagos,Yes,679500
+0,43,Diploma,14,Engineer,Kano,Yes,769500
+11,26,Diploma,9,Analyst,Jigawa,No,872000
+1,39,Diploma,12,Intern,Kaduna,Yes,558500
+7,23,PhD,14,Intern,Remote,No,1244500
+9,38,PhD,1,Data Scientist,Abuja,Yes,1558000
+9,39,PhD,1,Analyst,Lagos,Yes,1260500
+13,54,BSc,6,Data Scientist,Remote,Yes,1648000
+6,51,PhD,5,Analyst,Kano,Yes,1147500
+15,36,BSc,4,Intern,Remote,No,1107000
+12,34,MSc,7,Engineer,Remote,Yes,1561000
+2,37,Hnd,2,Intern,Jigawa,No,338500
+14,26,BSc,1,Engineer,Kano,Yes,1123000
+3,33,MSc,8,Data Scientist,Kaduna,Yes,1211500
+5,25,PhD,1,Engineer,Remote,No,1125500
+1,29,Degree,14,Intern,Jigawa,Yes,659500
+2,36,Hnd,15,Intern,Abuja,No,660000
+15,36,PhD,11,Data Scientist,Lagos,Yes,2033000
+7,39,Diploma,9,Data Scientist,Kano,Yes,1214500
+11,48,Degree,5,Data Scientist,Kano,Yes,1465000
+3,43,Hnd,15,Analyst,Lagos,No,852500
+4,22,Degree,7,Developer,Jigawa,Yes,811000
+7,54,Hnd,10,Analyst,Remote,Yes,1190000
+10,49,Hnd,8,Developer,Remote,Yes,1336500
+3,35,Degree,14,Manager,Lagos,No,1094500
+8,26,PhD,7,Engineer,Abuja,No,1241000
+8,33,Hnd,3,Data Scientist,Kaduna,No,1076500
+12,28,BSc,15,Manager,Remote,Yes,1600000
+1,54,Diploma,5,Intern,Remote,No,540000
+2,20,BSc,9,Data Scientist,Remote,Yes,1122000
+4,36,PhD,10,Developer,Remote,Yes,1350000
+9,33,BSc,5,Engineer,Jigawa,Yes,947500
+7,42,Hnd,7,Manager,Abuja,No,1086000
+1,28,PhD,15,Intern,Remote,No,1005000
+3,38,Degree,13,Engineer,Lagos,Yes,1074000
+10,30,Degree,14,Manager,Jigawa,No,1277000
+4,22,PhD,1,Analyst,Jigawa,Yes,873000
+1,30,PhD,13,Data Scientist,Kaduna,No,1214000
+14,46,Diploma,8,Analyst,Lagos,Yes,1279000
+5,25,PhD,3,Intern,Abuja,No,831500
+3,54,Hnd,2,Intern,Remote,No,646000
+13,52,Diploma,4,Manager,Abuja,Yes,1377000
+0,48,Diploma,2,Engineer,Kano,Yes,566000
+0,41,Hnd,13,Engineer,Kaduna,No,686500
+0,36,Degree,9,Manager,Remote,Yes,1092000
+2,21,Hnd,8,Intern,Kano,No,446500
+12,27,BSc,2,Manager,Kano,No,1063500
+12,44,PhD,14,Intern,Kaduna,Yes,1452000
+5,55,BSc,6,Data Scientist,Kano,Yes,1110500
+11,46,BSc,15,Manager,Kaduna,Yes,1410000
+5,31,Diploma,10,Engineer,Abuja,Yes,942500
+14,49,Degree,2,Data Scientist,Remote,Yes,1728500
+9,35,PhD,14,Analyst,Jigawa,No,1244500
+8,54,PhD,2,Developer,Abuja,Yes,1301000
+14,38,Degree,6,Analyst,Abuja,No,1193000
+9,26,BSc,5,Manager,Jigawa,Yes,1060000
+14,35,Diploma,9,Manager,Remote,Yes,1599500
+2,46,PhD,3,Data Scientist,Remote,Yes,1429000
+3,46,Diploma,14,Intern,Jigawa,Yes,672000
+4,50,PhD,1,Manager,Lagos,Yes,1293000
+6,22,Diploma,10,Data Scientist,Remote,No,1205000
+13,40,Hnd,7,Manager,Jigawa,No,1261000
+2,52,BSc,10,Analyst,Lagos,Yes,790000
+9,23,PhD,10,Manager,Kaduna,Yes,1522500
+0,48,BSc,1,Developer,Lagos,No,468000
+3,52,Degree,15,Intern,Kano,No,745000
+14,38,Degree,3,Manager,Lagos,No,1399000
+12,38,Degree,11,Analyst,Kaduna,No,1133000
+13,33,PhD,10,Developer,Jigawa,Yes,1527500
+1,41,PhD,1,Intern,Lagos,No,685500
+5,42,PhD,9,Engineer,Abuja,No,1182000
+9,28,Hnd,5,Intern,Kaduna,Yes,835000
+12,21,Hnd,8,Data Scientist,Jigawa,Yes,1406500
+12,32,BSc,3,Data Scientist,Kano,No,1194000
+4,50,Degree,5,Analyst,Kaduna,No,695000
+15,50,PhD,10,Data Scientist,Jigawa,Yes,1930000
+11,44,Diploma,2,Engineer,Lagos,Yes,1131000
+7,21,Degree,7,Data Scientist,Remote,No,1313500
+13,38,Diploma,11,Manager,Abuja,No,1348000
+2,33,Diploma,11,Analyst,Kaduna,Yes,670500
+12,53,BSc,2,Analyst,Kaduna,Yes,1008500
+13,39,Diploma,15,Analyst,Kano,Yes,1262500
+3,37,MSc,13,Engineer,Remote,Yes,1271500
+0,47,Diploma,11,Intern,Abuja,No,455500
+2,46,Hnd,14,Developer,Kaduna,No,767000
+15,55,Degree,15,Analyst,Jigawa,Yes,1472500
+8,42,Diploma,15,Manager,Remote,No,1335000
+14,30,MSc,13,Developer,Abuja,Yes,1579000
+2,27,MSc,2,Intern,Lagos,Yes,703500
+9,20,Diploma,8,Analyst,Lagos,No,869000
+6,28,Hnd,4,Developer,Lagos,No,812000
+0,41,Degree,6,Manager,Kano,Yes,870500
+11,23,Diploma,15,Data Scientist,Kaduna,Yes,1452500
+8,53,MSc,13,Analyst,Kaduna,No,1126500
+15,26,Diploma,8,Data Scientist,Jigawa,No,1364000
+1,38,Degree,9,Manager,Kano,Yes,962000
+12,28,Hnd,12,Data Scientist,Kaduna,No,1406000
+14,21,Hnd,15,Data Scientist,Kano,Yes,1662500
+7,55,Diploma,13,Manager,Remote,Yes,1406500
+7,54,BSc,7,Engineer,Abuja,No,916000
+9,45,Hnd,3,Data Scientist,Lagos,No,1241500
+3,41,Diploma,7,Intern,Lagos,Yes,653500
+13,30,Degree,15,Developer,Kaduna,Yes,1410000
+8,44,MSc,7,Intern,Kaduna,No,896000
+7,41,Hnd,15,Data Scientist,Remote,Yes,1577500
+4,31,Diploma,6,Developer,Kano,Yes,735500
+8,54,PhD,8,Intern,Lagos,Yes,1279000
+6,24,PhD,6,Developer,Kano,Yes,1158000
+7,37,MSc,4,Data Scientist,Kaduna,No,1209500
+7,30,BSc,6,Data Scientist,Kano,No,1018000
+6,28,MSc,11,Analyst,Kano,No,948000
+8,33,Hnd,15,Intern,Abuja,No,922500
+6,49,Hnd,8,Analyst,Kano,Yes,916500
+3,50,Hnd,9,Analyst,Jigawa,No,642000
+7,20,MSc,7,Engineer,Jigawa,Yes,1081000
+6,54,BSc,13,Manager,Abuja,No,1109000
+4,33,Diploma,15,Intern,Abuja,Yes,792500
+15,53,Hnd,6,Manager,Remote,Yes,1705500
+5,22,PhD,5,Developer,Kano,Yes,1090000
+11,44,BSc,2,Engineer,Jigawa,No,891000
+5,49,BSc,14,Developer,Lagos,Yes,1049500
+3,44,Diploma,12,Engineer,Lagos,Yes,951000
+12,41,Hnd,12,Engineer,Jigawa,Yes,1298500
+0,23,Hnd,6,Data Scientist,Remote,No,935500
+8,42,Diploma,9,Analyst,Lagos,Yes,1017000
+5,49,MSc,12,Data Scientist,Kaduna,Yes,1413500
+1,28,Hnd,1,Analyst,Abuja,No,443000
+15,47,Diploma,4,Manager,Kaduna,No,1274500
+14,42,PhD,4,Engineer,Jigawa,Yes,1527000
+12,45,Diploma,14,Intern,Lagos,Yes,1194500
+0,43,Diploma,2,Manager,Lagos,No,643500
+1,50,Hnd,3,Developer,Abuja,Yes,714000
+10,35,BSc,10,Engineer,Kaduna,No,997500
+3,32,MSc,8,Manager,Remote,No,1179000
+12,43,Hnd,10,Intern,Abuja,Yes,1157500
+9,49,PhD,5,Intern,Abuja,No,1107500
+6,50,Degree,11,Analyst,Kaduna,Yes,1013000
+5,23,PhD,10,Data Scientist,Kano,No,1332500
+4,21,Degree,5,Data Scientist,Kano,No,962500
+2,55,PhD,8,Developer,Remote,No,1151500
+2,53,MSc,1,Manager,Jigawa,Yes,960500
+5,38,PhD,7,Intern,Remote,No,1066000
+7,31,BSc,5,Analyst,Kano,Yes,792500
+13,42,BSc,10,Data Scientist,Jigawa,No,1350000
+14,41,PhD,5,Engineer,Remote,No,1642500
+15,32,PhD,1,Engineer,Abuja,No,1463000
+14,47,Diploma,15,Developer,Jigawa,Yes,1347500
+14,33,BSc,3,Developer,Remote,Yes,1316500
+10,25,PhD,9,Developer,Abuja,Yes,1444500
+12,48,MSc,14,Data Scientist,Kano,No,1652000
+2,47,Degree,14,Manager,Kaduna,No,989500
+15,42,Degree,5,Engineer,Lagos,Yes,1480000
+4,32,Diploma,3,Manager,Remote,No,914000
+9,39,MSc,13,Analyst,Jigawa,Yes,1226500
+9,39,Diploma,2,Manager,Remote,No,1138500
+2,37,Hnd,3,Developer,Abuja,No,606500
+8,28,Diploma,11,Engineer,Kano,No,918000
+5,44,PhD,15,Analyst,Kaduna,No,1135000
+3,55,Diploma,8,Intern,Abuja,No,556500
+8,35,Degree,11,Data Scientist,Jigawa,No,1245500
+9,27,Degree,9,Manager,Lagos,No,1254500
+3,21,BSc,13,Data Scientist,Kaduna,No,931500
+6,26,Diploma,7,Analyst,Lagos,Yes,851000
+2,51,Diploma,5,Data Scientist,Kano,No,827500
+1,33,BSc,8,Manager,Abuja,No,741500
+10,24,PhD,6,Intern,Abuja,No,1108000
+11,28,MSc,11,Intern,Kano,No,1073000
+10,24,BSc,5,Engineer,Lagos,No,970000
+6,50,BSc,15,Analyst,Lagos,Yes,1055000
+1,54,BSc,2,Data Scientist,Lagos,No,816000
+7,32,Hnd,10,Intern,Kano,Yes,855000
+8,55,Degree,2,Intern,Jigawa,Yes,823500
+4,53,Degree,5,Data Scientist,Remote,No,1222500
+5,51,Hnd,2,Developer,Abuja,No,758500
+14,51,Degree,15,Developer,Remote,No,1577500
+14,28,MSc,5,Intern,Jigawa,No,1060000
+11,37,PhD,11,Developer,Kaduna,No,1375500
+0,37,Degree,1,Analyst,Lagos,Yes,620500
+1,22,Hnd,5,Engineer,Lagos,No,630000
+8,41,Diploma,11,Intern,Jigawa,Yes,830500
+0,30,BSc,11,Intern,Lagos,Yes,563000
+5,50,PhD,9,Data Scientist,Jigawa,Yes,1462000
+2,38,Diploma,15,Intern,Kaduna,No,535000
+7,45,PhD,12,Developer,Abuja,Yes,1413500
+10,36,PhD,3,Data Scientist,Kaduna,Yes,1574000
+3,48,PhD,12,Engineer,Kaduna,No,1101000
+0,35,PhD,2,Data Scientist,Abuja,No,1043500
+1,25,Degree,2,Analyst,Kaduna,No,443500
+7,45,PhD,10,Analyst,Kano,Yes,1267500
+15,36,PhD,2,Engineer,Jigawa,Yes,1521000
+11,52,MSc,2,Engineer,Kaduna,Yes,1281000
+13,55,PhD,8,Engineer,Remote,Yes,1806500
+5,52,Hnd,9,Engineer,Remote,Yes,1177000
+4,50,Degree,7,Engineer,Lagos,No,921000
+1,44,Hnd,9,Manager,Jigawa,No,767000
+11,41,MSc,7,Manager,Lagos,No,1443500
+4,21,MSc,3,Intern,Kaduna,No,586500
+4,24,Diploma,10,Intern,Abuja,Yes,680000
+5,44,BSc,5,Intern,Lagos,No,595000
+9,22,Hnd,2,Manager,Kaduna,No,976000
+7,21,PhD,15,Engineer,Jigawa,Yes,1357500
+9,35,Hnd,11,Analyst,Kaduna,No,940500
+1,50,Degree,9,Developer,Jigawa,Yes,782000
+4,55,Degree,3,Data Scientist,Kaduna,Yes,1121500
+13,49,PhD,7,Developer,Lagos,Yes,1633500
+11,26,MSc,14,Data Scientist,Jigawa,Yes,1632000
+3,40,Degree,3,Intern,Remote,No,679000
+1,53,Hnd,4,Intern,Remote,No,589500
+2,46,Diploma,7,Engineer,Jigawa,No,581000
+7,36,Hnd,3,Engineer,Kano,Yes,939000
+9,26,Degree,15,Intern,Abuja,Yes,1120000
+11,42,Degree,7,Engineer,Lagos,Yes,1336000
+6,28,Degree,11,Data Scientist,Kaduna,No,1168000
+9,31,Hnd,4,Manager,Remote,Yes,1344500
+10,20,MSc,9,Analyst,Abuja,Yes,1242000
+8,35,Hnd,15,Developer,Jigawa,No,997500
+3,55,Hnd,6,Engineer,Jigawa,Yes,820500
+2,37,Degree,6,Manager,Remote,Yes,1130500
+1,44,Hnd,7,Intern,Jigawa,Yes,521000
+12,45,Degree,7,Manager,Jigawa,No,1278500
+13,51,BSc,12,Analyst,Jigawa,No,1078500
+6,35,Degree,9,Manager,Kaduna,No,1049500
+7,23,PhD,2,Analyst,Lagos,No,1028500
+6,44,PhD,13,Manager,Lagos,Yes,1584000
+3,31,Diploma,1,Manager,Kano,No,650500
+4,50,Diploma,14,Analyst,Jigawa,No,707000
+2,53,BSc,7,Developer,Remote,No,778500
+14,51,BSc,14,Engineer,Remote,Yes,1599500
+10,49,Diploma,1,Developer,Jigawa,Yes,920500
+2,29,PhD,15,Engineer,Remote,Yes,1372500
+3,39,Hnd,13,Manager,Lagos,No,1036500
+9,22,Hnd,7,Manager,Remote,Yes,1376000
+9,22,MSc,8,Manager,Kaduna,No,1234000
+8,44,BSc,5,Analyst,Kano,Yes,870000
+2,54,Hnd,15,Intern,Kano,No,655000
+2,29,MSc,10,Analyst,Lagos,No,832500
+5,22,MSc,11,Engineer,Lagos,Yes,1188000
+7,35,MSc,10,Intern,Abuja,No,942500
+5,48,Diploma,4,Engineer,Lagos,No,787000
+12,48,Hnd,5,Manager,Kaduna,Yes,1350000
+11,36,PhD,4,Intern,Jigawa,No,1057000
+7,42,MSc,7,Manager,Kaduna,No,1176000
+14,30,Degree,14,Intern,Kano,No,1167000
+5,46,Degree,5,Manager,Kaduna,Yes,1080000
+1,29,BSc,2,Data Scientist,Kano,Yes,793500
+4,36,MSc,9,Developer,Kaduna,Yes,1012000
+8,47,Degree,4,Analyst,Remote,Yes,1159500
+8,47,PhD,3,Manager,Jigawa,No,1261500
+2,55,PhD,12,Manager,Kaduna,No,1203500
+5,31,PhD,9,Engineer,Lagos,Yes,1304500
+4,22,MSc,10,Data Scientist,Kano,No,1155000
+2,47,Hnd,2,Data Scientist,Kano,Yes,953500
+0,54,Degree,2,Analyst,Jigawa,Yes,561000
+12,32,Hnd,11,Data Scientist,Kaduna,No,1398000
+11,45,Degree,12,Manager,Kaduna,Yes,1473500
+9,55,Hnd,5,Engineer,Abuja,No,1042500
+1,35,PhD,12,Data Scientist,Lagos,No,1298500
+6,53,MSc,9,Analyst,Kaduna,No,964500
+2,48,Diploma,13,Manager,Abuja,No,914000
+3,48,Hnd,10,Data Scientist,Jigawa,No,985000
+14,21,Diploma,5,Developer,Remote,Yes,1322500
+5,32,Hnd,10,Analyst,Remote,Yes,1045000
+12,40,MSc,8,Intern,Jigawa,Yes,1174000
+3,50,MSc,10,Analyst,Remote,No,1030000
+11,22,Hnd,3,Engineer,Kano,No,964000
+3,43,BSc,15,Developer,Remote,Yes,1062500
+15,43,Degree,5,Developer,Remote,No,1422500
+2,51,Hnd,5,Analyst,Kano,Yes,687500
+6,40,Hnd,14,Data Scientist,Remote,No,1392000
+1,23,Hnd,5,Developer,Lagos,Yes,712500
+4,54,BSc,1,Intern,Kaduna,No,413000
+15,22,Degree,4,Analyst,Remote,No,1292000
+2,52,Diploma,8,Analyst,Abuja,Yes,724000
+13,35,Diploma,14,Intern,Remote,Yes,1314500
+13,41,Diploma,4,Developer,Kano,Yes,1129500
+1,25,Degree,5,Data Scientist,Kaduna,No,827500
+0,54,Diploma,6,Developer,Kaduna,Yes,603000
+5,51,MSc,3,Developer,Lagos,No,956500
+0,34,Degree,5,Data Scientist,Abuja,No,865000
+10,30,BSc,9,Developer,Jigawa,No,897000
+3,38,BSc,9,Intern,Abuja,No,532000
+11,30,Degree,8,Analyst,Jigawa,Yes,1104000
+1,53,MSc,11,Analyst,Kaduna,Yes,895500
+3,26,Degree,12,Developer,Lagos,Yes,986000
+3,23,Degree,12,Data Scientist,Remote,No,1228500
+4,41,BSc,10,Analyst,Kano,No,652500
+10,21,PhD,11,Intern,Lagos,Yes,1340500
+5,30,BSc,14,Developer,Kano,No,802000
+4,32,PhD,13,Analyst,Kaduna,Yes,1144000
+13,50,Degree,9,Intern,Abuja,Yes,1252000
+10,27,Diploma,7,Developer,Kano,Yes,1013500
+3,33,Diploma,11,Data Scientist,Jigawa,No,895500
+1,31,MSc,10,Engineer,Kano,No,812500
+0,44,MSc,2,Data Scientist,Kano,No,886000
+4,41,MSc,11,Engineer,Kaduna,Yes,1100500
+15,32,Degree,12,Developer,Jigawa,Yes,1421000
+9,23,Diploma,13,Data Scientist,Kaduna,No,1206500
+7,49,Degree,15,Data Scientist,Remote,Yes,1647500
+8,20,Hnd,4,Manager,Kano,Yes,1092000
+6,47,Diploma,6,Intern,Abuja,Yes,755500
+3,49,Degree,3,Manager,Jigawa,No,811500
+1,53,PhD,11,Intern,Lagos,Yes,1015500
+9,27,PhD,14,Engineer,Kaduna,No,1354500
+12,42,Degree,5,Data Scientist,Jigawa,Yes,1455000
+5,47,Diploma,1,Analyst,Kaduna,Yes,660500
+15,44,Degree,15,Manager,Lagos,No,1675000
+7,49,PhD,6,Manager,Lagos,No,1395500
+5,42,PhD,12,Manager,Lagos,Yes,1516000
+3,55,Degree,12,Intern,Remote,No,878500
+2,32,PhD,14,Data Scientist,Kaduna,Yes,1402000
+1,45,Degree,11,Developer,Jigawa,No,685500
+3,47,Degree,5,Analyst,Kaduna,Yes,762500
+0,44,Hnd,2,Data Scientist,Remote,No,916000
+12,36,BSc,8,Data Scientist,Lagos,No,1374000
+8,50,Hnd,9,Developer,Remote,Yes,1267000
+7,21,Degree,5,Analyst,Remote,Yes,1067500
+7,42,BSc,4,Intern,Jigawa,No,542000
+9,53,Degree,8,Engineer,Remote,No,1271500
+1,55,PhD,1,Engineer,Kano,No,840500
+6,44,MSc,12,Manager,Kaduna,No,1226000
+2,49,Degree,9,Manager,Kaduna,No,904500
+3,52,Diploma,4,Intern,Lagos,Yes,627000
+15,29,MSc,9,Data Scientist,Remote,Yes,1949500
+4,37,Degree,15,Developer,Remote,No,1092500
+5,40,MSc,9,Analyst,Abuja,Yes,1067000
+15,52,MSc,15,Intern,Kano,Yes,1505000
+11,23,Diploma,6,Data Scientist,Lagos,Yes,1380500
+8,40,Degree,14,Developer,Kano,No,1082000
+0,50,BSc,11,Developer,Kaduna,Yes,683000
+14,44,PhD,8,Manager,Kaduna,Yes,1764000
+8,54,Degree,5,Intern,Remote,Yes,1095000
+13,29,MSc,11,Developer,Abuja,Yes,1495500
+6,40,Diploma,10,Developer,Kano,No,800000
+14,26,Diploma,14,Manager,Remote,Yes,1667000
+3,36,Hnd,14,Developer,Remote,No,977000
+12,43,Hnd,13,Manager,Remote,No,1551500
+13,40,Degree,5,Data Scientist,Abuja,No,1465000
+11,32,Hnd,13,Manager,Jigawa,Yes,1379000
+6,54,BSc,10,Intern,Kaduna,Yes,785000
+9,50,PhD,9,Data Scientist,Abuja,No,1612000
+5,27,BSc,2,Analyst,Abuja,No,568500
+1,44,MSc,5,Manager,Kano,No,885000
+6,41,Degree,1,Intern,Remote,No,780500
+7,33,Diploma,8,Engineer,Kano,Yes,951500
+11,52,Hnd,9,Analyst,Lagos,Yes,1247000
+12,29,MSc,1,Analyst,Remote,No,1220500
+4,31,Degree,4,Developer,Kano,No,699500
+5,25,Diploma,9,Developer,Abuja,Yes,869500
+7,53,BSc,1,Data Scientist,Remote,Yes,1285500
+4,47,PhD,3,Developer,Kaduna,No,941500
+9,38,Diploma,13,Analyst,Kaduna,No,914000
+5,49,MSc,10,Analyst,Jigawa,No,897500
+3,30,Diploma,13,Developer,Lagos,Yes,894000
+3,30,Hnd,4,Manager,Lagos,Yes,972000
+1,34,PhD,6,Analyst,Jigawa,No,738000
+9,46,BSc,3,Developer,Lagos,Yes,1024000
+13,23,BSc,9,Manager,Kano,Yes,1344500
+12,26,PhD,8,Analyst,Jigawa,No,1249000
+8,54,PhD,4,Engineer,Lagos,Yes,1407000
+12,48,MSc,1,Engineer,Lagos,Yes,1388000
+12,42,Degree,8,Developer,Remote,No,1339000
+10,31,Degree,13,Analyst,Kaduna,Yes,1181500
+13,22,PhD,9,Manager,Abuja,No,1622000
+1,37,PhD,15,Developer,Abuja,No,1057500
+11,25,BSc,10,Data Scientist,Kano,Yes,1377500
+5,22,Degree,15,Manager,Kano,No,1090000
+11,22,Diploma,2,Developer,Lagos,No,916000
+6,48,Degree,10,Manager,Lagos,No,1190000
+2,38,BSc,12,Data Scientist,Lagos,No,1001000
+8,30,PhD,8,Data Scientist,Abuja,No,1499000
+3,23,Degree,11,Data Scientist,Abuja,Yes,1200500
+13,51,Degree,1,Intern,Kano,Yes,1060500
+2,21,Degree,9,Developer,Remote,Yes,974500
+14,26,BSc,9,Analyst,Kaduna,Yes,1157000
+13,34,PhD,5,Intern,Remote,No,1380000
+11,24,PhD,2,Data Scientist,Jigawa,No,1421000
+5,23,PhD,2,Analyst,Kano,No,858500
+12,48,BSc,14,Analyst,Kaduna,Yes,1212000
+2,50,MSc,10,Engineer,Jigawa,Yes,985000
+7,44,MSc,3,Data Scientist,Kano,No,1219000
+8,24,MSc,11,Intern,Remote,Yes,1228000
+0,20,MSc,1,Data Scientist,Abuja,No,858000
+2,48,BSc,2,Data Scientist,Jigawa,Yes,846000
+4,37,Degree,5,Analyst,Lagos,Yes,872500
+7,47,MSc,1,Analyst,Abuja,No,910500
+14,31,BSc,11,Engineer,Remote,Yes,1495500
+9,44,PhD,2,Intern,Lagos,No,1071000
+5,29,Diploma,14,Intern,Jigawa,Yes,719500
+9,22,Degree,2,Manager,Jigawa,Yes,1116000
+5,33,Diploma,9,Intern,Abuja,No,609500
