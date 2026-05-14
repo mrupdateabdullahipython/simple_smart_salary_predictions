@@ -1,27 +1,46 @@
+# app.py
+# 💼 SalarySense AI (NEW CLEAN PREMIUM VERSION)
+# Works easier + no PDF package needed
+
 import streamlit as st
 import pandas as pd
 import joblib
+import matplotlib.pyplot as plt
+import time
 
+# ---------------- PAGE CONFIG ----------------
 st.set_page_config(
     page_title="SalarySense AI",
     page_icon="💼",
     layout="wide"
 )
 
-# Load model
+# ---------------- LOAD MODEL ----------------
 model = joblib.load("salary_model.pkl")
 training_columns = joblib.load("training_columns.pkl")
 
-# CSS
+# ---------------- CSS ----------------
 st.markdown("""
 <style>
 .stApp {
-background: linear-gradient(135deg,#0f172a,#1e293b,#111827);
-color:white;
+background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)),
+            url("background.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
 }
-h1,h2,h3,p,label {
+
+h1,h2,h3,h4,p,label {
 color:white !important;
 }
+
+.block-container {
+background: rgba(255,255,255,0.08);
+padding: 2rem;
+border-radius: 20px;
+backdrop-filter: blur(10px);
+}
+
 .stButton>button {
 background: linear-gradient(90deg,#22c55e,#16a34a);
 color:white;
@@ -32,39 +51,62 @@ width:100%;
 font-size:18px;
 font-weight:bold;
 }
-.block-container {
-padding-top:2rem;
-}
-[data-testid="stMetricValue"] {
-color:#22c55e;
+
+@keyframes fadeIn {
+from {opacity:0; transform:translateY(20px);}
+to {opacity:1; transform:translateY(0);}
 }
 </style>
 """, unsafe_allow_html=True)
 
-# Header
-st.title("💼 Simple Smart Salary Estimator Machine")
-st.subheader("World Class Employee Salary Prediction Platform")
+# ---------------- HEADER ----------------
+st.markdown("""
+<div style="text-align:center; animation: fadeIn 1s;">
+<h1>💼 SalarySense AI</h1>
+<h3>Premium Employee Salary Prediction Platform</h3>
+<p>World Class Machine Learning Web App</p>
+</div>
+""", unsafe_allow_html=True)
 
-st.markdown("---")
+st.markdown("Project Developed by updateabdullahi")
 
-# Inputs
+# ---------------- SIDEBAR ----------------
+st.sidebar.image("logo.png", use_container_width=True)
+theme = st.sidebar.selectbox("Theme", ["Dark Mode", "Light Mode"])
+st.sidebar.markdown("## SalarySense AI")
+st.sidebar.caption("Built with Python + AI")
+
+# ---------------- INPUTS ----------------
 col1, col2 = st.columns(2)
 
 with col1:
-    experience = st.slider("Experience (Years)",0,20,3)
-    age = st.slider("Age",18,60,25)
-    skills = st.slider("Skills Count",1,20,5)
-    education = st.selectbox("Education",["ND","HND","Degree","MSc","PhD"])
+    experience = st.slider("Experience (Years)", 0, 20, 3)
+    age = st.slider("Age", 18, 60, 25)
+    skills = st.slider("Skills Count", 1, 20, 5)
+    education = st.selectbox(
+        "Education",
+        ["ND", "HND", "Degree", "MSc", "PhD"]
+    )
 
 with col2:
-    jobrole = st.selectbox("Job Role",["Intern","Analyst","Developer","Engineer","Manager","Data Scientist"])
-    location = st.selectbox("Location",["Lagos","Abuja","Kano","Kaduna","Jigawa","Remote"])
-    remote = st.selectbox("Remote Work",["Yes","No"])
+    jobrole = st.selectbox(
+        "Job Role",
+        ["Intern", "Analyst", "Developer",
+         "Engineer", "Manager", "Data Scientist"]
+    )
 
-st.markdown("")
+    location = st.selectbox(
+        "Location",
+        ["Lagos", "Abuja", "Kano",
+         "Kaduna", "Jigawa", "Remote"]
+    )
 
+    remote = st.selectbox("Remote Work", ["Yes", "No"])
+
+# ---------------- PREDICT ----------------
 if st.button("🚀 Predict Salary"):
 
+    # create dataframe
     new_data = pd.DataFrame({
         "EXPERIENCE":[experience],
         "AGE":[age],
@@ -75,20 +117,83 @@ if st.button("🚀 Predict Salary"):
         "REMOTEWORK":[remote]
     })
 
+    # encode
     new_data = pd.get_dummies(new_data)
-    new_data = new_data.reindex(columns=training_columns, fill_value=0)
 
+    # match training columns
+    new_data = new_data.reindex(
+        columns=training_columns,
+        fill_value=0
+    )
+
+    # predict
     prediction = model.predict(new_data)[0]
 
-    st.markdown("## 📊 Prediction Result")
-    st.success(f"Estimated Monthly Salary: ₦{prediction:,.0f}")
+    # counter animation
+    counter = st.empty()
 
+    step = max(int(prediction / 40), 1)
+
+    for i in range(0, int(prediction), step):
+        counter.markdown(
+            f"<h1 style='text-align:center;color:#22c55e;'>₦{i:,.0f}</h1>",
+            unsafe_allow_html=True
+        )
+        time.sleep(0.02)
+
+    # final card
+    st.markdown(f"""
+    <div style="
+        background:rgba(255,255,255,0.10);
+        padding:30px;
+        border-radius:20px;
+        text-align:center;
+        animation: fadeIn 1s;
+        box-shadow:0 0 20px rgba(0,255,0,0.30);
+        margin-top:20px;
+    ">
+        <h2>💼 Estimated Monthly Salary</h2>
+        <h1 style="color:#22c55e;">₦{prediction:,.0f}</h1>
+        <p>AI Powered Salary Forecast</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+    # badge
     if prediction < 200000:
-        st.info("Entry-Level Salary Range")
+        st.warning("🟡 Entry Level Salary")
     elif prediction < 600000:
-        st.info("Mid-Level Salary Range")
+        st.info("🔵 Mid Level Salary")
     else:
-        st.info("Senior / High Income Salary Range")
+        st.success("🟢 Senior Executive Salary")
 
-st.markdown("---")
-st.caption("Built with AI • Machine Learning • Streamlit")
+    # ---------------- CHART 1 ----------------
+    st.subheader("📈 Career Salary Growth")
+
+    levels = ["Current", "Next Level", "Senior"]
+    values = [prediction, prediction * 1.25, prediction * 1.60]
+
+    fig, ax = plt.subplots(figsize=(8,4))
+    ax.bar(levels, values)
+    ax.set_title("Salary Growth Projection")
+    ax.set_ylabel("₦ Salary")
+    st.pyplot(fig)
+
+    # ---------------- CHART 2 ----------------
+    st.subheader("🥧 Salary Allocation Suggestion")
+
+    labels = ["Expenses", "Savings", "Investment"]
+    sizes = [50, 30, 20]
+
+    fig2, ax2 = plt.subplots()
+    ax2.pie(
+        sizes,
+        labels=labels,
+        autopct="%1.1f%%",
+        startangle=90
+    )
+    ax2.axis("equal")
+    st.pyplot(fig2)
+
+# ---------------- FOOTER ----------------
+st.markdown("Designed by UpdateCodesML")
+st.caption("Built with Python • Streamlit • Machine Learning")
