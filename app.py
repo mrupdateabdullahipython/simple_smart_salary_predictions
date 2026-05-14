@@ -177,7 +177,7 @@ if st.button("🚀 Predict Salary"):
     levels = ["Current", "Next Level", "Senior"]
     values = [prediction, prediction * 1.25, prediction * 1.60]
 
-    fig, ax = plt.subplots(figsize=(5,4))
+    fig, ax = plt.subplots(figsize=(4,4))
     ax.bar(levels, values)
     ax.set_title("Salary Growth Projection")
     ax.set_ylabel("₦ Salary")
