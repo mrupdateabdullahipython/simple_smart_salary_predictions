@@ -71,7 +71,12 @@ st.markdown("""
 st.markdown("Project Developed by updateabdullahi")
 
 # ---------------- SIDEBAR ----------------
-st.sidebar.image("logo.png", use_container_width=True)
+import os
+
+if os.path.exists("logo.png"):
+    st.sidebar.image("logo.png", use_container_width=True)
+else:
+    st.sidebar.markdown("## 💼 SalarySense AI")
 theme = st.sidebar.selectbox("Theme", ["Dark Mode", "Light Mode"])
 st.sidebar.markdown("## SalarySense AI")
 st.sidebar.caption("Built with Python + AI")
