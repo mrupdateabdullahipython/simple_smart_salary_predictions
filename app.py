@@ -68,7 +68,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.markdown("Project Developed by updateabdullahi")
+st.markdown("This system helps companies estimate fair salaries, reduce HR guesswork, and make faster hiring decisions.")
 
 # ---------------- SIDEBAR ----------------
 import os
